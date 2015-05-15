@@ -1,0 +1,110 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 16px 'Old Standard TT', serif;;
+    background: #8892BF;
+    counter-reset: section;
+}
+
+h1,h2,h3,h4 {
+    font-weight: bold;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+h2 {
+    font-size: 2.2em;
+    width: 66%;
+    margin: 0 auto;
+    text-align: center;
+}
+h3 { font-size: 2em; }
+h4 { font-size: 1.4em; }
+
+#content {
+    counter-reset: section
+}
+
+#content h3:not(:first-of-type)::before {
+    counter-increment: section;
+    content: "Section " counter(section, upper-roman) ".\A";
+    white-space: pre;
+    font-size: .6em;
+}
+
+#content {
+    width: 760px;
+    margin: 20px auto;
+    padding: 20px;
+    color: #333;
+    background: #F2F2F2;
+}
+
+#content a:link,
+#content a:visited {
+  color: #369;
+}
+
+#content a:hover,
+#content a:focus {
+  color: #AE508D;
+}
+
+.byline {
+	margin: 1em 0;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.toc {
+    list-style: upper-roman;
+}
+
+.elephpant {
+    border: 1px solid #111;
+    margin: 0 0 20px;
+}
+
+.elephant-row:not(:first-of-type) {
+    border-top: 1px solid #111;
+}
+
+.data-box {
+	clear: left;
+}
+
+.data-box .data-label,
+.data-box .data-value {
+    padding: 10px;
+}
+
+.data-box .data-label {
+    float: left;
+    border-right: 1px solid #111;
+    margin-right: 10px;
+    font-style: italic;
+}
+
+.elephpant .photos img {
+    margin: 10px 0 0 10px;
+}
+
+.elephpant .description {
+    padding: 10px;
+}
+
+.copyright {
+    margin-top: 2em;
+    border-top: 1px dashed;
+    padding-top: 1em;
+    text-align: center;
+    font-size: .8em;
+}
+
+.copyright p {
+    margin: 0;
+}
