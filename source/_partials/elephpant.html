@@ -1,0 +1,36 @@
+    <div class="elephpant">
+
+        {% if elephpant.photos %}
+        <div class="elephant-row photos">
+            {% for photo in elephpant.photos %}
+            <a href="{{ photo.link }}"><img src="{{ photo.img }}" height="240" title="{{ photo.caption }}"></a>
+            {% endfor %}
+        </div>
+        {% endif %}
+        
+        {% if elephpant.name != "" %}
+        <div class="elephant-row data-box">
+            <div class="data-label">Name</div>
+            <div class="data-value">{{ elephpant.name }}</div>
+        </div>
+        {% endif %}
+
+        {% if elephpant.sponsor != "" %}
+        <div class="elephant-row data-box">
+            <div class="data-label">Sponsor</div>
+            <div class="data-value">{{ elephpant.sponsor }}</div>
+        </div>
+        {% endif %}
+    
+        <div class="elephant-row data-box">
+            <div class="data-label">Obverse Design</div>
+            <div class="data-value">{{ elephpant.obverse|default('blank') }}</div>
+        </div>
+
+        {% if elephpant.blocks.content != "" %}
+        <div class="elephant-row description">
+            {{ elephpant.blocks.content|raw }}
+        </div>
+        {% endif %}
+
+    </div>

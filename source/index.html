@@ -1,0 +1,34 @@
+---
+layout: default
+use:
+    - sections
+---
+<h1>A Field Guide to Elephpants</h1>
+
+<h2>Detailing the attributes, habitats, and variations of the <em>{{ site.latinname }}</em>.</h2>
+
+<div class="byline">Edited by: Philip Sharp</div>
+
+<h3>Table of Contents</h3>
+<ol class="toc">
+{% for s in data.sections %}
+    <li><a href="#{{ s.slug }}">{{ s.title }}</a></li>
+{% endfor %}
+</ol>
+
+{% for section in data.sections %}
+{% include 'section.html' %}
+{% endfor %}
+
+<div class="copyright">
+    <p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img alt="Creative Commons License" style="border-width:0"
+        src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+    </p>
+    <p>&copy; 2015 Philip Sharp and contributors.</p>
+        "{{ site.title }}" is licensed under a <a rel="license"
+        href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+        Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+    </p>
+</div>

@@ -1,0 +1,7 @@
+sculpin_content_types:
+    elephpants:
+        taxonomies:
+            - categories
+    posts:
+        enabled: false
+    sections:
