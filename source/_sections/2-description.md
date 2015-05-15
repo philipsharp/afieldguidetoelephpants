@@ -25,7 +25,7 @@ While the elephpant does not mind the attention of these groups, it can be detri
 to the animals' well-being and elephpant owners often keep the groups separated
 for their protection, unless they have a large herd.
 
-### Distribution
+#### Distribution
 
 There is no known limit the the elephpant's range. They have been sighted on multiple
 continents and may be present in all areas of human habitation.
