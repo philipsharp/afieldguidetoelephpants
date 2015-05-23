@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-    font: 16px 'Old Standard TT', serif;;
+    font: 1em 'Old Standard TT', serif;
     background: #8892BF;
     counter-reset: section;
 }
@@ -14,18 +14,37 @@ h1,h2,h3,h4 {
 }
 h1 {
     font-size: 3em;
+    line-height: 1em;
     text-align: center;
 }
 h2 {
     font-size: 2.2em;
+    line-height: 1.2em;
     width: 66%;
     margin: 0 auto;
     text-align: center;
 }
-h3 { font-size: 2em; }
-h4 { font-size: 1.4em; }
+h3 {
+    font-size: 2em;
+}
+h4 {
+    font-size: 1.4em;
+    margin: 1em 0 0;
+}
+
+p { margin: 0 0 1em; }
+
+#container {
+    max-width: 800px;
+    min-width: 320px;
+    margin: auto;
+    padding: 1.25em;
+}
 
 #content {
+    padding: 1.25em;
+    color: #333;
+    background: #F2F2F2;
     counter-reset: section
 }
 
@@ -34,14 +53,6 @@ h4 { font-size: 1.4em; }
     content: "Section " counter(section, upper-roman) ".\A";
     white-space: pre;
     font-size: .6em;
-}
-
-#content {
-    width: 760px;
-    margin: 20px auto;
-    padding: 20px;
-    color: #333;
-    background: #F2F2F2;
 }
 
 #content a:link,
@@ -55,7 +66,7 @@ h4 { font-size: 1.4em; }
 }
 
 .byline {
-	margin: 1em 0;
+    margin: 1em 0;
     text-align: center;
     font-size: 1.6em;
 }
@@ -107,4 +118,13 @@ h4 { font-size: 1.4em; }
 
 .copyright p {
     margin: 0;
+}
+
+
+@media (max-width: 720px) {
+    h1 { font-size: 2.2em; }
+    h2 { font-size: 1.4em; width: 80%; }
+    h3 { font-size: 1.3em; }
+    h4 { font-size: 1.1em; }
+    .byline { font-size: 1.1em; }
 }
