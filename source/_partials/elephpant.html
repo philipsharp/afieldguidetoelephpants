@@ -1,35 +1,43 @@
     <div class="elephpant">
 
         {% if elephpant.photos %}
-        <div class="elephant-row photos">
+        <div class="row">
+            <div class="photos">
             {% for photo in elephpant.photos %}
-            <a href="{{ photo.link }}"><img src="{{ photo.img }}" height="240" title="{{ photo.caption }}"></a>
+                <div class="photo">
+                    <a href="{{ photo.link }}"><img src="{{ photo.img }}" title="{{ photo.caption }}"></a>
+                    <div class="caption">{{ photo.caption }}</div>
+                </div>
+            
             {% endfor %}
+            </div>
         </div>
         {% endif %}
         
         {% if elephpant.name != "" %}
-        <div class="elephant-row data-box">
-            <div class="data-label">Name</div>
-            <div class="data-value">{{ elephpant.name }}</div>
+        <div class="row">
+            <div class="box left"><div class="label">Name</div></div>
+            <div class="box right"><div class="value">{{ elephpant.name }}</div></div>
         </div>
         {% endif %}
 
         {% if elephpant.sponsor != "" %}
-        <div class="elephant-row data-box">
-            <div class="data-label">Sponsor</div>
-            <div class="data-value">{{ elephpant.sponsor }}</div>
+        <div class="row">
+            <div class="box left"><div class="label">Sponsor</div></div>
+            <div class="box right"><div class="value">{{ elephpant.sponsor }}</div></div>
         </div>
         {% endif %}
     
-        <div class="elephant-row data-box">
-            <div class="data-label">Obverse Design</div>
-            <div class="data-value">{{ elephpant.obverse|default('blank') }}</div>
+        <div class="row">
+            <div class="box left"><div class="label">Obverse Design</div></div>
+            <div class="box right"><div class="value">{{ elephpant.obverse|default('blank') }}</div></div>
         </div>
 
         {% if elephpant.blocks.content != "" %}
-        <div class="elephant-row description">
+        <div class="row">
+            <div class="description">
             {{ elephpant.blocks.content|raw }}
+            </div>
         </div>
         {% endif %}
 
