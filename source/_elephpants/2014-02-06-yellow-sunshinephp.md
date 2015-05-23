@@ -1,5 +1,5 @@
 ---
-name: Sunny
+name: Sonny
 categories:
     - yellow
 sponsor: Sunshine PHP Conference, Zend Technologies
