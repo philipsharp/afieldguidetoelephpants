@@ -65,6 +65,11 @@ p { margin: 0 0 1em; }
   color: #AE508D;
 }
 
+.header-art {
+    text-align: center;
+    margin: 1.5em 0;
+}
+
 .byline {
     margin: 1em 0;
     text-align: center;
