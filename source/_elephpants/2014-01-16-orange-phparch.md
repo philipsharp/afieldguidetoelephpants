@@ -3,7 +3,7 @@ name: Archie
 categories:
     - orange
 sponsor: php[architect]
-obverse: php[architect] logo
+reverse: php[architect] logo
 photos:
     -
         img: https://farm6.staticflickr.com/5506/14473851298_7c6ccd2ff6_n.jpg

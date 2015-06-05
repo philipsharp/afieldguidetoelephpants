@@ -13,8 +13,8 @@ and the increased space requirements for keeping one, they are considerably more
 Blue is the original and traditional color, but elephpants have been seen in most
 primary and secondary colors, and new colors are appearing in the wild on a increasingly
 frequent basis. Except as otherwise noted below, differences between colors are
-largely cosmetic. All elephpant have the PHP logo on the left side. The decoration
-on the obverse (right) side varies by generation.
+largely cosmetic. All elephpant have the PHP logo on the obverse (left) side. The decoration
+on the reverse (right) side varies by generation.
 
 #### Habitat
 
