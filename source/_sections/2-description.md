@@ -9,12 +9,19 @@ and 8" (20cm) long including its frayed tail. The more rare “jumbo” variety 
 14" (26cm) tall and 20" (51cm) long. It is otherwise identical in appearance to the
 smaller animals. Due to the larger resources needed to procure a jumbo variety,
 and the increased space requirements for keeping one, they are considerably more rare.
+Not all colors have been seen in the jumbo size.
 
 Blue is the original and traditional color, but elephpants have been seen in most
 primary and secondary colors, and new colors are appearing in the wild on a increasingly
 frequent basis. Except as otherwise noted below, differences between colors are
-largely cosmetic. All elephpant have the PHP logo on the obverse (left) side. The decoration
-on the reverse (right) side varies by generation.
+largely cosmetic. All elephpants have the PHP logo on the obverse (left) side.
+The decoration on the reverse (right) side varies by generation.
+
+#### Identification
+
+Most elephpants can be identified by color and decoration alone. Sometimes identical
+animals have been produced over multiple generations. The rear tag is the best
+way of distinguishing between generations.
 
 #### Habitat
 
