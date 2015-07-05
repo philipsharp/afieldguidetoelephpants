@@ -1,7 +1,7 @@
 ---
 categories:
     - blue
-sponsor: Nexen.net
+sponsor: Nexen / Alter Way
 photos:
     -
         img: https://farm4.staticflickr.com/3410/3192714526_0e923b5263_n.jpg
@@ -12,4 +12,4 @@ photos:
         link: https://www.flickr.com/photos/drewm/3191870083/
         caption: elePHPant by drewm
 ---
-The original plush elephpant.
+The original plush elephpant. At least six generations were produced over several years by the French company Nexen, which became part of Alter Way.
