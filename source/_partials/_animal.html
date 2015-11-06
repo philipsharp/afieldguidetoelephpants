@@ -1,0 +1,51 @@
+    <div class="elephpant">
+
+        {% if elephpant.photos %}
+        <div class="row">
+            <div class="photos">
+            {% for photo in elephpant.photos %}
+                <div class="photo">
+                    <a href="{{ photo.link }}"><img src="{{ photo.img }}" title="{{ photo.caption }}"></a>
+                    <div class="caption">{{ photo.caption }}</div>
+                </div>
+            
+            {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+        
+        {% if elephpant.commonname != "" %}
+        <div class="row">
+            <div class="box left"><div class="label">Common Name</div></div>
+            <div class="box right"><div class="value">{{ elephpant.commonname }}</div></div>
+        </div>
+        {% endif %}
+    
+        {% if elephpant.name != "" %}
+        <div class="row">
+            <div class="box left"><div class="label">Name</div></div>
+            <div class="box right"><div class="value">{{ elephpant.name }}</div></div>
+        </div>
+        {% endif %}
+
+        {% if elephpant.sponsor != "" %}
+        <div class="row">
+            <div class="box left"><div class="label">Sponsor</div></div>
+            <div class="box right"><div class="value">{{ elephpant.sponsor }}</div></div>
+        </div>
+        {% endif %}
+    
+        <div class="row">
+            <div class="box left"><div class="label">Reverse Design</div></div>
+            <div class="box right"><div class="value">{{ elephpant.reverse|default('blank') }}</div></div>
+        </div>
+
+        {% if elephpant.blocks.content != "" %}
+        <div class="row">
+            <div class="description">
+            {{ elephpant.blocks.content|raw }}
+            </div>
+        </div>
+        {% endif %}
+
+    </div>

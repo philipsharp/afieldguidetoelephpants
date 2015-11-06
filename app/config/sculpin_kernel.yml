@@ -2,6 +2,9 @@ sculpin_content_types:
     elephpants:
         taxonomies:
             - categories
+    others:
+        taxonomies:
+            - categories
     posts:
         enabled: false
     sections:
