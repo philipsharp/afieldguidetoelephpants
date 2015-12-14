@@ -6,6 +6,7 @@ slug: credits
 **Contributors**
 
 * [Philip Sharp](http://www.philipsharp.com)
+* [Tim Bond](http://www.tim-bond.com)
 
 
 Contributions to the content, style, and structure of this publication are welcome.
