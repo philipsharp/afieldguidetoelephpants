@@ -2,6 +2,7 @@
 categories:
     - blue
 sponsor: OpenGoodies
+photos:
     -
         img: https://c1.staticflickr.com/1/772/23626304652_3eca3ba531_n.jpg
         link: https://www.flickr.com/photos/atomictaco/23626304652/
