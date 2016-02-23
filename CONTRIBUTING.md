@@ -13,8 +13,21 @@ Contributions are welcome. All changes must be submitted via pull request.
   [CC:BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)).
 * Don't forget to add yourself to the list of contributors!
 
-Style Guide:
+## Style Guide
 
 * Use spaces for indenting.
 * Use Unix line endings (LF).
 * Use a soft limit of 80 characters and a hard limit of 120 characters per line.
+
+## Elephants
+
+* Only "official" Elephpants are included.
+* Elephpants are defined, one per file, in the `source/_elephpants` directory.
+* The file name is of the structure `DATE-COLOR-IDENTIFIER.md`, where `DATE` is the
+  date of public release, or public announcement (if earlier).
+* Alternative animals are defined in `source/_other` following the same structure.
+
+## Images
+
+* As-of 2016-02-22, photos are stored locally from the `source/photos` directory.
+* Photos should be cropped to 400 by 300 pixels.
