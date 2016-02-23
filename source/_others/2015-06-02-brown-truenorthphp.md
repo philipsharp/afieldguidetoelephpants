@@ -7,13 +7,13 @@ sponsor: Peter Meth / Softer Software
 reverse: True North PHP logo
 photos:
     -
-        img: https://farm2.staticflickr.com/1593/24918188561_7df75d4056_n.jpg
+        file: brown-truenorthphp-0-400x300.jpg
         link: https://www.flickr.com/photos/atomictaco/24918188561/
-        caption: True North Wolly Mammoth elePHPant by Atomic Taco
+        credit: Tim Bond
     -
-        img: https://farm2.staticflickr.com/1482/24931999432_ff26153a3e_n.jpg
+        file: brown-truenorthphp-1-400x300.jpg
         link: https://www.flickr.com/photos/atomictaco/24931999432/
-        caption: True North Wolly Mammoth elePHPant by Atomic Taco
+        credit: Tim Bond
 ---
 This animal has smaller ears than an elephpant, and tusks. The body of the
 mammoth consists of both plush fur and longer hair.

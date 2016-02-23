@@ -5,8 +5,8 @@ sponsor: Oracle Corporation
 reverse: Oracle logo
 photos:
     -
-        img: https://c1.staticflickr.com/3/2112/2339246540_806e895f45_n.jpg
+        file: blue-oracle-0-400x300.jpg
         link: https://www.flickr.com/photos/afilina/2339246540/
-        caption: PHP and Oracle relationship by afilina
+        credit: Anna Filina
 ---
 Given to attendees at the 2008 PHP Quebec Conference (now [ConFoo](http://confoo.ca)).

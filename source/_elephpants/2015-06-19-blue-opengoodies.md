@@ -4,13 +4,13 @@ categories:
 sponsor: OpenGoodies
 photos:
     -
-        img: https://c1.staticflickr.com/1/772/23626304652_3eca3ba531_n.jpg
+        file: blue-opengoodies-0-400x300.jpg
         link: https://www.flickr.com/photos/atomictaco/23626304652/
-        caption: by Tim Bond
+        credit: Tim Bond
     -
-        img: https://c1.staticflickr.com/1/742/23708710306_d158294c7c_n.jpg
+        file: blue-opengoodies-1-400x300.jpg
         link: https://www.flickr.com/photos/atomictaco/23708710306/
-        caption: by Tim Bond
+        credit: Tim Bond
 ---
 The newest edition of the classic blue elephpant. It is produced by OpenGoodies, which succeeded Nexen/Alter Way as the official producer of elephpants.
 

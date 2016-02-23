@@ -6,9 +6,9 @@ sponsor: AmsterdamPHP
 reverse: AmsterdamPHP logo
 photos:
     -
-        img: https://farm4.staticflickr.com/3672/19500469889_6b63a55b3a_n.jpg
+        file: black-amsterdamphp-0-400x300.jpg
         link: https://www.flickr.com/photos/akrabat/19500469889/
-        caption: Elephpant! by akrabat
+        credit: Rob Allen
         
 ---
 This elephpant was produced via a [Kickstarter campaign](https://www.kickstarter.com/projects/rdohms/the-amsterdamphp-elephpant).

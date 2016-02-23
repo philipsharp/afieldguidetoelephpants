@@ -6,13 +6,13 @@ sponsor: PHP Women
 reverse: PHP Women logo
 photos:
     -
-        img: https://farm3.staticflickr.com/2949/15399671262_17e138c20c_n.jpg
+        file: purple-phpwomen-0-400x300.jpg
         link: https://www.flickr.com/photos/akrabat/15399671262/
-        caption: Purple elePHPant by akrabat
+        credit: Rob Allen
     -
-        img: https://farm1.staticflickr.com/325/17856474593_409359535d_n.jpg
+        file: purple-phpwomen-0-400x300.jpg
         link: https://www.flickr.com/photos/philipsharp/17856474593/
-        caption: by philipsharp
+        credit: Philip Sharp
 ---
 Originally available through a [Kickstarter campaign](https://www.kickstarter.com/projects/77145396/phpwomen-purple-elephpants),
 this elephpant can now be purchased directly from [PHP Women](http://shop.phpwomen.org/).
