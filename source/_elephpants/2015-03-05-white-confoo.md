@@ -6,8 +6,8 @@ sponsor: ConFoo
 reverse: ConFoo.ca web techno conference
 photos:
     -
-        img: https://confoo.ca/images/content/2016/phil-snow-s.jpg
+        file: white-confoo-0-400x300.jpg
         link: https://confoo.ca/images/content/2016/phil-snow-l.jpg
-        caption: Phil Snow by afilina
+        credit: Anna Filina
 ---
-This elephpant is available for sale [online](https://shop.confoo.ca/) since February 2016.
+This elephpant was released in 2016 and is available for sale from [ConFoo](https://shop.confoo.ca/).
