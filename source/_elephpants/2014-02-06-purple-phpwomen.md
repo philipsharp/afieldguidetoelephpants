@@ -10,7 +10,7 @@ photos:
         link: https://www.flickr.com/photos/akrabat/15399671262/
         credit: Rob Allen
     -
-        file: purple-phpwomen-0-400x300.jpg
+        file: purple-phpwomen-1-400x300.jpg
         link: https://www.flickr.com/photos/philipsharp/17856474593/
         credit: Philip Sharp
 ---
