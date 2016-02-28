@@ -5,8 +5,8 @@ sponsor: shopware AG
 reverse: shopware Logo
 photos:
     -
-        img: http://i.imgur.com/eDISjV2.jpg
+        file: blue-shopware-0-400x300.jpg
         link: http://imgur.com/eDISjV2
-        caption: Shopware Elephpant by weltraumakustik
+        credit: Dennis Mader
 ---
-This elephant will be distributed primary to [Shopware](https://github.com/shopware/shopware) contributors and community members. If you like to raffle one in your local PHP Usergroup get into contact with [@benjamincremer](https://twitter.com/benjamincremer).
+This elephant will be distributed primarily to [Shopware](https://github.com/shopware/shopware) contributors and community members.
