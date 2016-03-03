@@ -5,9 +5,9 @@ sponsor: OpenGoodies
 reverse: 20 Years 1995-2015
 photos:
     -
-        img: https://c2.staticflickr.com/2/1463/24834214980_883b6bcf6d_o.jpg
+        file: gold-opengoodies-0-400x300.jpg
         link: https://www.flickr.com/photos/adamculp/24834214980/
-        caption: Gold Elephpant! by adamculp
+        credit: Adam Culp
         
 ---
 A true rarity, only one of these elephpants exists in the wild. It was designed by OpenGoodies to celebrate PHP's 20th anniversary on June 8, 2015. After developing the prototype the project was canceled because final production would not be ready in time. The single prototype was put up for auction on [Ebay](http://www.ebay.com/itm/2015-golden-elePHPant-PHP-039-s-20th-birthday-1995-to-2015-/321776947704) on the day of the anniversary. The auction was won by Zend Technologies co-founder Zeev Suraski. 
