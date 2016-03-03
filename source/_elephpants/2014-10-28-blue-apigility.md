@@ -10,4 +10,9 @@ photos:
         credit: Adam Culp
     
 ---
-A true rarity. This elephpant was to be given away to attendees at ZendCon 2014. However, leading up to ZendCon there were many rocket attacks over Israel. Someone felt the elePHPant looked like it was launching a rocket, and it was decided that the possibility was too sensitive at the time. So the elePHPant with the Z-Ray goggles was created instead. - only the prototype exists.
+This elephpant was originally intended for attendees at ZendCon 2014. It is based
+on the (Apigility)[https://apigility.org/] logo which shows a flying elephpant with
+a rocket strapped to it's back. Because it was thought that the elephpant looked
+like it was firing a rocket, the Z-Ray elephpant was designed and released instead.
+Only the prototype of this design was created. It used a lighter color blue than
+previous elephpants.
