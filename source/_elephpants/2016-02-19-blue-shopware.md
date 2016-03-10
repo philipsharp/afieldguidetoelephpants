@@ -1,4 +1,5 @@
 ---
+name: Cody Blou
 categories:
     - blue
 sponsor: shopware AG
@@ -10,3 +11,4 @@ photos:
         credit: Dennis Mader
 ---
 This elephant will be distributed primarily to [Shopware](https://github.com/shopware/shopware) contributors and community members.
+Cody has its own Twitter account at [@CodyBlou](https://twitter.com/CodyBlou).
