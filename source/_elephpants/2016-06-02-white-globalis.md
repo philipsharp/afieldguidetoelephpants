@@ -2,8 +2,8 @@
 name: Echo
 categories:
     - white
-sponsor: Globalis
-reverse: Globalis logo
+sponsor: GLOBALIS
+reverse: GLOBALIS logo
 photos:
     -
         file: white-globalis-0-400x300.jpg
