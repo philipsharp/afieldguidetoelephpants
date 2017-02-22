@@ -15,6 +15,5 @@ photos:
         credit: Philip Sharp
 ---
 
-Originally available through a [Kickstarter campaign](https://www.kickstarter.com/projects/eliw/php-architect-orange-elephpant),
-Archie is now available through the php[architect] [swag store](http://www.phparch.com/swag/plush-elephpant/).
+Originally made available through a [Kickstarter campaign](https://www.kickstarter.com/projects/eliw/php-architect-orange-elephpant).
 The orange color matches the php[architect] logo.

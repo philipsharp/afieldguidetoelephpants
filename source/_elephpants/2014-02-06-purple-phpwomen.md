@@ -15,6 +15,6 @@ photos:
         credit: Philip Sharp
 ---
 Originally available through a [Kickstarter campaign](https://www.kickstarter.com/projects/77145396/phpwomen-purple-elephpants),
-this elephpant can now be purchased directly from [PHP Women](http://shop.phpwomen.org/).
+this elephpant can now be purchased directly from the php[architect] [swag store](https://www.phparch.com/swag/phpwomen-plush-elephpant/).
 The color matches the PHP Women logo. Profits from the sale of this elephpant support
 PHP Women's programs including conference scholarships.
