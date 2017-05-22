@@ -3,10 +3,14 @@ title: Credits
 slug: credits
 ---
 
-**Contributors**
+**Editor**
 
 * [Philip Sharp](http://www.philipsharp.com)
-* [Tim Bond](http://www.tim-bond.com)
+
+**Contributors**
+
+* All photographs are credited to their original authors.
+* For other  contributors, [see GitHub](https://github.com/philipsharp/afieldguidetoelephpants/graphs/contributors).
 
 
 Contributions to the content, style, and structure of this publication are welcome.
