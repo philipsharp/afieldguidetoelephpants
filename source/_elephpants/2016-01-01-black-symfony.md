@@ -2,7 +2,7 @@
 categories:
     - black
 sponsor: Sensio Labs
-reverse: Symfony Framework        
+reverse: Symfony Framework logo
 photos:
     -
         file: black-symfony-0-400x300.jpg
@@ -14,4 +14,4 @@ photos:
         credit: Benjamin Jonard
 ---
 
-This elephpant was sold at [SymfonyLive 2017](http://paris2017.live.symfony.com/) in Paris.
+This elephpant has been sold at Symfony-related events starting in 2016.
