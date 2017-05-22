@@ -5,7 +5,7 @@ sponsor: Sensio Labs
 reverse: Symfony Framework 10 Years logo        
 photos:
     -
-        file: black-symfony-0-400x300.jpg
+        file: black-symfony-10-years-0-400x300.jpg
         link: http://imgur.com/jnVQgQV
         credit: Mark Baker
 ---
