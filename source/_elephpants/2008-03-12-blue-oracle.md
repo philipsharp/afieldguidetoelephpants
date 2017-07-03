@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
     - blue
 sponsor: Oracle Corporation
 reverse: Oracle logo

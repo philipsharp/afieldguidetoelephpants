@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
     - blue
 sponsor: Nexen / Alter Way
 photos:

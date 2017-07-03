@@ -1,6 +1,6 @@
 ---
 name: Enfys
-categories:
+tags:
     - multicolored
 sponsor: PHPDiversity
 photos:

@@ -1,6 +1,6 @@
 ---
 name: ElPHPis
-categories:
+tags:
     - white
 sponsor: Zend Technologies
 reverse: Zend logo

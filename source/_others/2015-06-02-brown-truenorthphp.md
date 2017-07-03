@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
     - brown
 commonname: PHP Woolly Mammoth
 name: Molly

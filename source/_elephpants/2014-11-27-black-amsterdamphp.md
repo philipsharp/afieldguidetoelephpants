@@ -1,6 +1,6 @@
 ---
 name: MurPHPy
-categories:
+tags:
     - black
 sponsor: AmsterdamPHP
 reverse: AmsterdamPHP logo

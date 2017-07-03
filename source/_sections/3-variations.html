@@ -2,12 +2,12 @@
 title: Variations
 slug: variations
 use:
-    - elephpants_categories
+    - elephpants_tags
 ---
 <p>Sorted by color and date of first appearance.</p>
 
-{% for category,variations in data.elephpants_categories %}
-    <h4>{{ category|capitalize }}</h4>
+{% for tag,variations in data.elephpants_tags %}
+    <h4>{{ tag|capitalize }}</h4>
     {% for elephpant in variations %}
     {% include 'elephpant.html' %}
     {% endfor %}

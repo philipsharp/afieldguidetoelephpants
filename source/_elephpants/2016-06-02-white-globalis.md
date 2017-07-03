@@ -1,6 +1,6 @@
 ---
 name: Echo
-categories:
+tags:
     - white
 sponsor: GLOBALIS
 reverse: GLOBALIS logo

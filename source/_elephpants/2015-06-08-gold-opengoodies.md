@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
     - gold
 sponsor: OpenGoodies
 reverse: 20 Years 1995-2015

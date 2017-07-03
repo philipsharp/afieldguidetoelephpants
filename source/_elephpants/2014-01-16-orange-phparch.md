@@ -1,6 +1,6 @@
 ---
 name: Archie
-categories:
+tags:
     - orange
 sponsor: php[architect]
 reverse: php[architect] logo

@@ -1,6 +1,6 @@
 ---
 name: Umoja
-categories:
+tags:
     - purple
 sponsor: PHP Women
 reverse: PHP Women logo

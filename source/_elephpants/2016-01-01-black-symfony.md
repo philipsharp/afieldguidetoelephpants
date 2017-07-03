@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
     - black
 sponsor: Sensio Labs
 reverse: Symfony Framework logo
