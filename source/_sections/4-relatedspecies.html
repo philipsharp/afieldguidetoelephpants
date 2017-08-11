@@ -2,12 +2,23 @@
 title: Related Species
 slug: relatedspecies
 use:
-    - others_tags
+    - others_categories
 ---
 <p>Several animals that are similar to elephpants, but cannot be catogorized as such, have recently been seen in the wild.</p>
 
-{% for tag,variations in data.others_tags %}
-    <h4>{{ tag|capitalize }}</h4>
+<p>|
+{% for category in data.others_categories|keys %}
+    {% if site.relatedspecies[category] %}
+    <a href="#relatedspecies-variation-{{ category|url_encode }}">{{ site.relatedspecies[category].common }}</a> |
+    {% endif %}
+{% endfor %}
+</p>
+
+{% for category,variations in data.others_categories %}
+    {% if site.relatedspecies[category] %}
+    <h4 id="relatedspecies-{{ category }}">{{ site.relatedspecies[category].common }}</h4>
+    <p><em>{{ site.relatedspecies[category].latin }}</em></p>
+    {% endif %}
     {% for elephpant in variations %}
     {% include 'other.html' %}
     {% endfor %}

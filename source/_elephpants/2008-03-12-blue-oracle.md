@@ -1,4 +1,6 @@
 ---
+categories:
+    - oracle
 tags:
     - blue
 sponsor: Oracle Corporation

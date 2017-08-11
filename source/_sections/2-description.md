@@ -11,17 +11,22 @@ smaller animals. Due to the larger resources needed to procure a jumbo variety,
 and the increased space requirements for keeping one, they are considerably more rare.
 Not all colors have been seen in the jumbo size.
 
-Blue is the original and traditional color, but elephpants have been seen in most
-primary and secondary colors, and new colors are appearing in the wild on a increasingly
-frequent basis. Except as otherwise noted below, differences between colors are
-largely cosmetic. All elephpants have the PHP logo on the obverse (left) side.
-The decoration on the reverse (right) side varies by generation.
+The first populations of elephants seen in the wild were blue. This included both the
+main species and the first few sub-species. Eventually other populations in have been
+identified in most primary and secondary colors, and new colors are seen in the
+wild on a increasingly frequent basis.
+
+All elephpants have the PHP logo on the obverse (left) side.
 
 #### Identification
 
 Most elephpants can be identified by color and decoration alone. Sometimes identical
 animals have been produced over multiple generations. The rear tag is the best
 way of distinguishing between generations.
+
+Sub-species of <em>{{ site.latinname }}</em> are generally identified by different
+markings on the reverse (right) side. Within the subspecies there may be variations
+of color.
 
 #### Habitat
 

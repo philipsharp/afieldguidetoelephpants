@@ -1,5 +1,7 @@
 ---
 name: Enfys
+categories:
+    - rainbow
 tags:
     - multicolored
 sponsor: PHPDiversity

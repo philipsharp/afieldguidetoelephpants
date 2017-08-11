@@ -1,4 +1,6 @@
 ---
+categories:
+    - gold
 tags:
     - gold
 sponsor: OpenGoodies

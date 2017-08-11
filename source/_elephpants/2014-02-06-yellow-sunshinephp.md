@@ -1,5 +1,7 @@
 ---
 name: Sonny
+categories:
+    - sunshinephp
 tags:
     - yellow
 sponsor: Sunshine PHP Conference, Zend Technologies

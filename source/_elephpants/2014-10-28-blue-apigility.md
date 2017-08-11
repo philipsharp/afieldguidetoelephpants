@@ -1,4 +1,6 @@
 ---
+categories:
+    - zend
 tags:
     - blue
 sponsor: Zend Technologies

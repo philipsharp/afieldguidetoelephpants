@@ -1,5 +1,7 @@
 ---
 name: Echo
+categories:
+    - globalis
 tags:
     - white
 sponsor: GLOBALIS

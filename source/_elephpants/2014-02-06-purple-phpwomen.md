@@ -1,5 +1,7 @@
 ---
 name: Umoja
+categories:
+    - phpwomen
 tags:
     - purple
 sponsor: PHP Women

@@ -1,5 +1,7 @@
 ---
 name: Phil Snow
+categories:
+    - confoo
 tags:
     - white
 sponsor: ConFoo

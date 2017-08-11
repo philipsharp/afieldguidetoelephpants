@@ -1,5 +1,7 @@
 ---
 name: Archie
+categories:
+    - phparch
 tags:
     - orange
 sponsor: php[architect]

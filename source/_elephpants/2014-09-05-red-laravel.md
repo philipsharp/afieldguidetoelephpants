@@ -1,5 +1,7 @@
 ---
 name: Liona
+categories:
+    - laravel
 tags:
     - red
 sponsor: Laravel community

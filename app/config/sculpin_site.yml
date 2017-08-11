@@ -3,3 +3,60 @@
 # in a template to get the contents of the `title` key.
 title: A Field Guide to Elephpants
 latinname: Elephpas hypertextus
+# Please keep the subspecies alphabetized
+subspecies:
+    amsterdamphp:
+        common: "AmsterdamPHP"
+        latin: "amstelodami"
+    confoo:
+        common: "ConFoo"
+        latin: "fooianum"
+    dpc:
+        common: "Dutch PHP Conference"
+        latin: "batavici"
+    gold:
+        common: "Gold"
+        latin: "auri"
+    globalis:
+        common: "Globalis"
+        latin: "globi"
+    laravel:
+        common: "Laravel"
+        latin: "laraveli"
+    oracle:
+        common: "Oracle"
+        latin: "oraculi"
+    phparch:
+        common: "PHP|Architect"
+        latin: "architecti"
+    phpwomen:
+        common: "PHP Women"
+        latin: "feminae"
+    sunshinephp:
+        common: "SunshinePHP"
+        latin: "solis"
+    haphpy:
+        common: "HaPHPy"
+        latin: "natalis"
+    rainbow:
+        common: "Rainbow"
+        latin: "arcus"
+    shopware:
+        common: "Shopware"
+        latin: "shopwari"
+    symfony:
+        common: "Symfony"
+        latin: "symphoniae"
+    zend:
+        common: "Zend"
+        latin: "zeevandi"
+    zf2:
+        common: "Zend Framework"
+        latin: "zendframeworki"
+relatedspecies:
+    hack:
+        common: "pHackyderm"
+        latin: "Elephpas cyberneticus"
+    truenorthphp:
+        common: "PHP Woolly Mammoth"
+        latin: "Elephpas mammuthus"

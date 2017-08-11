@@ -1,5 +1,7 @@
 ---
 name: ElPHPis
+categories:
+    - zend
 tags:
     - white
 sponsor: Zend Technologies

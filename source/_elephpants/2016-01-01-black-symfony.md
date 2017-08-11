@@ -1,4 +1,6 @@
 ---
+categories:
+    - symfony
 tags:
     - black
 sponsor: Sensio Labs
