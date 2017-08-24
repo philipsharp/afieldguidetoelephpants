@@ -21,7 +21,7 @@ by date of first appearance. Within each group may be multiple populations which
 {% for category,variations in data.elephpants_categories %}
     {% if site.subspecies[category] %}
     <h4 id="variation-{{ category }}">{{ site.subspecies[category].common }}</h4>
-    <p><em>{{ site.latinname}} {{ site.subspecies[category].latin }}</em></p>
+    <p><em>{{ site.latinname}} {{ site.subspecies[category].latin }} ({{ variations[0].date|date("Y") }})</em></p>
     {% endif %}
     {% for elephpant in variations %}
     {% include 'elephpant.html' %}
