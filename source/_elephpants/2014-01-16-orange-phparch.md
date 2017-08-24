@@ -1,6 +1,8 @@
 ---
 name: Archie
 categories:
+    - phparch
+tags:
     - orange
 sponsor: php[architect]
 reverse: php[architect] logo

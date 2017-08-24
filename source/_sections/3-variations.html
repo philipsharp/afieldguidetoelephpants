@@ -2,12 +2,27 @@
 title: Variations
 slug: variations
 use:
+    - elephpants
     - elephpants_categories
 ---
-<p>Sorted by color and date of first appearance.</p>
+
+<p>A total of {{data.elephpants|length}} populations have been identified across
+<em>{{ site.latinname}}</em> and {{ data.elephpants_categories|length - 1}} subspecies. Sub-species are listed
+by date of first appearance. Within each group may be multiple populations which differ by color.</p>
+
+<p>|
+{% for category in data.elephpants_categories|keys %}
+    {% if site.subspecies[category] %}
+    <a href="#variation-{{ category|url_encode }}">{{ site.subspecies[category].common }}</a> |
+    {% endif %}
+{% endfor %}
+</p>
 
 {% for category,variations in data.elephpants_categories %}
-    <h4>{{ category|capitalize }}</h4>
+    {% if site.subspecies[category] %}
+    <h4 id="variation-{{ category }}">{{ site.subspecies[category].common }}</h4>
+    <p><em>{{ site.latinname}} {{ site.subspecies[category].latin }} ({{ variations[0].date|date("Y") }})</em></p>
+    {% endif %}
     {% for elephpant in variations %}
     {% include 'elephpant.html' %}
     {% endfor %}

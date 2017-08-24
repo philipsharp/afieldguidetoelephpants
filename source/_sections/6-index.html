@@ -1,0 +1,28 @@
+---
+title: Index
+slug: index
+use:
+    - elephpants_tags
+    - others_tags
+---
+
+<p><strong>By Color and Year</strong></p>
+
+{% set animals = data.elephpants_tags|merge(data.others_tags) %}
+{% set colors = animals|keys|sort %}
+
+{% for color in colors %}
+    {% set variations = animals[color] %}
+    <h4>{{ color|capitalize }}</h4>
+    <ul>
+    {% for elephpant in variations %}
+    {% set category = elephpant.categories[0] %}
+    <li><a href="#e-{{ elephpant.categories|join('.')|url_encode }}-{{ elephpant.tags|join('.')|url_encode }}-{{ elephpant.date }}">
+        {% if site.subspecies[category] %}{{ site.subspecies[category].common }}
+        {% elseif site.relatedspecies[category] %}{{ site.relatedspecies[category].common }}
+        {% else %}Original{% endif %}
+        ({{ elephpant.date|date("Y") }})
+    </a></li>
+    {% endfor %}
+    </ul>
+{% endfor %}

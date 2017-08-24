@@ -1,7 +1,8 @@
 ---
 categories:
+    - truenorthphp
+tags:
     - brown
-commonname: PHP Woolly Mammoth
 name: Molly
 sponsor: Peter Meth / Softer Software
 reverse: True North PHP logo

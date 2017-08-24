@@ -1,6 +1,8 @@
 ---
 name: Liona
 categories:
+    - laravel
+tags:
     - red
 sponsor: Laravel community
 reverse: Laravel logo

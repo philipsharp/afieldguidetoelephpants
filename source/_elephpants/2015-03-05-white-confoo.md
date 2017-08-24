@@ -1,6 +1,8 @@
 ---
 name: Phil Snow
 categories:
+    - confoo
+tags:
     - white
 sponsor: ConFoo
 reverse: ConFoo.ca web techno conference

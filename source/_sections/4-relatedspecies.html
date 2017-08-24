@@ -6,8 +6,19 @@ use:
 ---
 <p>Several animals that are similar to elephpants, but cannot be catogorized as such, have recently been seen in the wild.</p>
 
+<p>|
+{% for category in data.others_categories|keys %}
+    {% if site.relatedspecies[category] %}
+    <a href="#relatedspecies-variation-{{ category|url_encode }}">{{ site.relatedspecies[category].common }}</a> |
+    {% endif %}
+{% endfor %}
+</p>
+
 {% for category,variations in data.others_categories %}
-    <h4>{{ category|capitalize }}</h4>
+    {% if site.relatedspecies[category] %}
+    <h4 id="relatedspecies-{{ category }}">{{ site.relatedspecies[category].common }}</h4>
+    <p><em>{{ site.relatedspecies[category].latin }} ({{ variations[0].date|date("Y") }})</em></p>
+    {% endif %}
     {% for elephpant in variations %}
     {% include 'other.html' %}
     {% endfor %}
