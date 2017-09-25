@@ -5,8 +5,8 @@ in the wild. With acknowledgment to Roger Tory Peterson.
 
 ## Viewing Locally
 
-_A Field Guide To Elephpants_ uses [Sclupin](https://sculpin.io/) to generate
-its pages. Once installed, use `sclupin generate` to build the site. The
+_A Field Guide To Elephpants_ uses [Sculpin](https://sculpin.io/) to generate
+its pages. Once installed, use `sculpin generate` to build the site. The
 optional `--serve` flag will start a local web server. Due to the single-page
 nature of the _Field Guide_, the `--generate` command may not work as expected.
 
