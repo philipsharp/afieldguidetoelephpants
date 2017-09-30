@@ -10,3 +10,8 @@ sculpin_content_types:
     posts:
         enabled: false
     sections:
+services:
+    elephpant_twig_extension:
+        class: ElephpantTwigExtension
+        tags:
+            - { name: twig.extension }

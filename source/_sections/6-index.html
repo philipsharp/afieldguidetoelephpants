@@ -8,11 +8,11 @@ use:
 
 <p><strong>By Color and Year</strong></p>
 
-{% set animals = data.elephpants_tags|merge(data.others_tags) %}
+{% set animals = data.elephpants_tags|merge_recursive(data.others_tags) %}
 {% set colors = animals|keys|sort %}
 
 {% for color in colors %}
-    {% set variations = animals[color] %}
+    {% set variations = animals[color]|sortby("date") %}
     <h4>{{ color|capitalize }}</h4>
     <ul>
     {% for elephpant in variations %}
