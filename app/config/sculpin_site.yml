@@ -32,6 +32,9 @@ subspecies:
     phpwomen:
         common: "PHP Women"
         latin: "feminae"
+    roave:
+        common: "Roave"
+        latin: "roavorum"
     sunshinephp:
         common: "SunshinePHP"
         latin: "solis"
