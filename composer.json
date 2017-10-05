@@ -1,0 +1,17 @@
+{
+    "name": "phillipsharp/afieldguidetoelephpants",
+    "description": "Sculpin site containing everything you need to know about elephpants in the wild",
+    "type": "project",
+    "license": "CC-BY-NC-SA-4.0",
+    "authors": [
+        {
+            "name": "Philip Sharp",
+            "email": "philip@kerzap.com"
+        }
+    ],
+    "require": {
+        "sculpin/sculpin": "^2.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
