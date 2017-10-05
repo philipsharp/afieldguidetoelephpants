@@ -1,0 +1,5 @@
+services:
+    json.listener:
+        class: AFieldGuideToElephpants\JsonBundle\EventListener\Json
+        tags:
+            - { name: kernel.event_listener, event: sculpin.core.after_format }
