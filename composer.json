@@ -1,17 +1,21 @@
 {
-    "name": "phillipsharp/afieldguidetoelephpants",
-    "description": "Sculpin site containing everything you need to know about elephpants in the wild",
+    "name": "philipsharp/afieldguidetoelephpants",
+    "description": "Everything you need to know about PHP's elephpant mascot in the wild.",
     "type": "project",
+    "homepage": "http://afieldguidetoelephpants.net",
     "license": "CC-BY-NC-SA-4.0",
+    "support": {
+        "source": "https://github.com/philipsharp/afieldguidetoelephpants/"
+    },
     "authors": [
         {
             "name": "Philip Sharp",
-            "email": "philip@kerzap.com"
+            "email": "philip@kerzap.com",
+            "role": "editor"
         }
     ],
-    "require": {
-        "sculpin/sculpin": "^2.1"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "require-dev": {
+        "sculpin/sculpin": "^2.1@dev",
+        "dflydev/embedded-composer": "^1.0@dev"
+    }
 }
