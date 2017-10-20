@@ -15,6 +15,7 @@
         }
     ],
     "require-dev": {
+        "php": "^7.0",
         "sculpin/sculpin": "^2.1@dev",
         "dflydev/embedded-composer": "^1.0@dev"
     }
