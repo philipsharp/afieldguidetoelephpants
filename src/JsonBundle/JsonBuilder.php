@@ -2,12 +2,20 @@
 
 namespace AFieldGuideToElephpants\JsonBundle;
 
+use Dflydev\DotAccessConfiguration\Configuration;
 use Sculpin\Core\Event\SourceSetEvent;
 use Sculpin\Core\Source\AbstractSource;
 use Sculpin\Core\Source\SourceInterface;
 
 class JsonBuilder extends AbstractSource
 {
+    private $config;
+
+    public function __construct(Configuration $config)
+    {
+        $this->config = $config;
+    }
+
     public function onSculpinCoreAfterFormat(SourceSetEvent $event)
     {
         // Generate elephpant data
@@ -34,14 +42,40 @@ class JsonBuilder extends AbstractSource
     {
         $data = $source->data()->export();
 
+        list($variation, $species) = $this->getVariationAndSpecies($data['categories'][0] ?? false);
+
         return array_filter(array(
             'name' => $data['name'] ?? '',
+            'variation' => $variation,
+            'species' => $species,
+            'color' => $data['tags'][0] ?? '',
             'sponsor' => $data['sponsor'] ?? '',
             'reverse' => $data['reverse'] ?? '',
             'photos' => $data['photos'] ?? '',
-            'color' => $data['tags'][0] ?? '',
-            'variation' => $data['categories'][0] ?? '',
             'description' => $source->content(),
         ));
+    }
+
+    /**
+     * Obtains the common and Latin names using the given category
+     *
+     * @param string $category
+     *
+     * @return string[] A poor-mans tuple
+     */
+    private function getVariationAndSpecies($category)
+    {
+        $variation = null;
+        $species = null;
+
+        if ($subspecies = $this->config->get('subspecies.'.$category)) {
+            $species = $this->config->get('latinname') . ' ' . $subspecies['latin'];
+            $variation = $subspecies['common'];
+        } elseif ($subspecies = $this->config->get('relatedspecies.'.$category)) {
+            $species = $subspecies['latin'];
+            $variation = $subspecies['common'];
+        }
+
+        return [$variation, $species];
     }
 }
