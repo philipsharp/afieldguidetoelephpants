@@ -34,14 +34,14 @@ class JsonBuilder extends AbstractSource
     {
         $data = $source->data()->export();
 
-        return array(
-            'name' => @$data['name'],
-            'sponsor' => @$data['sponsor'],
-            'reverse' => @$data['reverse'],
-            'photos' => @$data['photos'],
-            'color' => @$data['tags'][0],
-            'variation' => @$data['categories'][0],
+        return array_filter(array(
+            'name' => $data['name'] ?? '',
+            'sponsor' => $data['sponsor'] ?? '',
+            'reverse' => $data['reverse'] ?? '',
+            'photos' => $data['photos'] ?? '',
+            'color' => $data['tags'][0] ?? '',
+            'variation' => $data['categories'][0] ?? '',
             'description' => $source->content(),
-        );
+        ));
     }
 }
