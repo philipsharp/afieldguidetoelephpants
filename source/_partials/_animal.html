@@ -5,9 +5,6 @@
             <div class="photos">
             {% for photo in elephpant.photos %}
                 <div class="photo">
-                    {% if photo.img %}
-                    <a href="{{ photo.link }}"><img src="{{ photo.img }}" title="{{ photo.caption }}"></a>
-                    {% endif %}
                     {% if photo.file %}
                     <a href="{{ photo.link }}"><img src="photos/{{ photo.file }}"></a>
                     {% endif %}
