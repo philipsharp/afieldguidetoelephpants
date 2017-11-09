@@ -1,0 +1,571 @@
+{
+    "2007-12-00-blue-original": {
+        "species": "Elephpas hypertextus",
+        "color": "blue",
+        "sponsor": "Nexen \/ Alter Way",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-original-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/drewm\/3192714526\/",
+                "credit": "Drew McLellan"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-original-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/drewm\/3191870083\/",
+                "credit": "Drew McLellan"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-original-2-400x300.jpg",
+                "link": "https:\/\/cloud.githubusercontent.com\/assets\/170418\/19696441\/61222b14-9ae7-11e6-90f9-0d1363344333.jpg",
+                "credit": "Damien Seguy"
+            }
+        ],
+        "description": "<p>The original plush elephpant. At least six generations were produced over several\nyears by the French company Nexen, which became part of Alter Way.<\/p>\n\n<p>The third photo shows the first elephpant ever produced. A prototype for the first\ngeneration, it has the php logo in a different color. This elephpant is affectionately\nknown as <em>trisa\u00efeul<\/em>.<\/p>\n"
+    },
+    "2008-03-12-blue-oracle": {
+        "variation": "Oracle",
+        "species": "Elephpas hypertextus oraculi",
+        "color": "blue",
+        "sponsor": "Oracle Corporation",
+        "reverse": "Oracle logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-oracle-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/afilina\/2339246540\/",
+                "credit": "Anna Filina"
+            }
+        ],
+        "description": "<p>Given to attendees at the 2008 PHP Quebec Conference (now <a href=\"http:\/\/confoo.ca\">ConFoo<\/a>).<\/p>\n"
+    },
+    "2010-11-01-blue-zen": {
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "blue",
+        "sponsor": "Zend Technologies",
+        "reverse": "Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-zend-0-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/blue-zend-0.jpg",
+                "credit": "Aki Ojalehto"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-zend-1-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/blue-zend-1.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
+        "description": "<p>First distributed to attendees at ZendCon 2010.<\/p>\n"
+    },
+    "2011-10-00-pink-original": {
+        "species": "Elephpas hypertextus",
+        "color": "pink",
+        "sponsor": "Alter Way",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/pink-original-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/akrabat\/6326066555\/",
+                "credit": "Rob Allen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/pink-original-1-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/pink-original-1.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
+        "description": "<p>This was the second color released. It was produced alongside the sixth generation of \"original\" blue elephpants.<\/p>\n"
+    },
+    "2012-09-00-green-zf2": {
+        "variation": "Zend Framework",
+        "species": "Elephpas hypertextus zendframeworki",
+        "color": "green",
+        "sponsor": "Zend Technologies, Inc.",
+        "reverse": "Zend Framework 2 logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/green-zf2-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/dasprid\/8148015948\/",
+                "credit": "Ben Scholzen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/green-zf2-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/dasprid\/8148016640\/",
+                "credit": "Ben Scholzen"
+            }
+        ],
+        "description": "<p>The green color matches the <a href=\"http:\/\/framework.zend.com\/\">Zend Framework<\/a> logo.<\/p>\n"
+    },
+    "2013-10-07-red-chili": {
+        "name": "Chili",
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "red",
+        "sponsor": "Zend Technologies",
+        "reverse": "Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/red-chile-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/akrabat\/19722115906\/",
+                "credit": "Rob Allen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/red-chile-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/17856497403\/",
+                "credit": "Philip Sharp"
+            }
+        ],
+        "description": "<p>First distributed to attendees at ZendCon 2013.<\/p>\n"
+    },
+    "2014-01-16-orange-phparch": {
+        "name": "Archie",
+        "variation": "PHP|Architect",
+        "species": "Elephpas hypertextus architecti",
+        "color": "orange",
+        "sponsor": "php[architect]",
+        "reverse": "php[architect] logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/orange-phparch-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/akrabat\/14473851298\/",
+                "credit": "Rob Allen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/orange-phparch-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/18289312178\/",
+                "credit": "Philip Sharp"
+            }
+        ],
+        "description": "<p>Originally made available through a <a href=\"https:\/\/www.kickstarter.com\/projects\/eliw\/php-architect-orange-elephpant\">Kickstarter campaign<\/a>.\nThe orange color matches the php[architect] logo.<\/p>\n"
+    },
+    "2014-02-06-purple-phpwomen": {
+        "name": "Umoja",
+        "variation": "PHP Women",
+        "species": "Elephpas hypertextus feminae",
+        "color": "purple",
+        "sponsor": "PHP Women",
+        "reverse": "PHP Women logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/purple-phpwomen-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/akrabat\/15399671262\/",
+                "credit": "Rob Allen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/purple-phpwomen-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/17856474593\/",
+                "credit": "Philip Sharp"
+            }
+        ],
+        "description": "<p>Originally available through a <a href=\"https:\/\/www.kickstarter.com\/projects\/77145396\/phpwomen-purple-elephpants\">Kickstarter campaign<\/a>,\nthis elephpant can now be purchased directly from the php[architect] <a href=\"https:\/\/www.phparch.com\/swag\/phpwomen-plush-elephpant\/\">swag store<\/a>.\nThe color matches the PHP Women logo. Profits from the sale of this elephpant support\nPHP Women's programs including conference scholarships.<\/p>\n"
+    },
+    "2014-02-06-yellow-sunshinephp": {
+        "name": "Sonny",
+        "variation": "SunshinePHP",
+        "species": "Elephpas hypertextus solis",
+        "color": "yellow",
+        "sponsor": "Sunshine PHP Conference, Zend Technologies",
+        "reverse": "Sunshine PHP logo, Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/yellow-sunshinephp-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/akrabat\/14687657989\/",
+                "credit": "Rob Allen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/yellow-sunshinephp-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/18289456670\/",
+                "credit": "Philip Sharp"
+            }
+        ],
+        "description": "<p>The elephpant was originally designed for the <a href=\"http:\/\/2015.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt was given out to attendees at the conference in 2014 and 2015.<\/p>\n"
+    },
+    "2014-09-05-red-laravel": {
+        "name": "Liona",
+        "variation": "Laravel",
+        "species": "Elephpas hypertextus laraveli",
+        "color": "red",
+        "sponsor": "Laravel community",
+        "reverse": "Laravel logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/red-laravel-0-400x300.jpg",
+                "link": "http:\/\/wilkins.fr\/elephpants\/IMG_4326.JPG",
+                "credit": "Thibault Taillandier"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/red-laravel-1-400x300.jpg",
+                "link": "http:\/\/wilkins.fr\/elephpants\/IMG_4325.JPG",
+                "credit": "Thibault Taillandier"
+            }
+        ],
+        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1560940280\/laravel-elephpant\">Kickstarter campaign<\/a>. The color matches the <a href=\"http:\/\/laravel.com\/\">Laravel<\/a> logo.<\/p>\n"
+    },
+    "2014-10-28-blue-apigility": {
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "blue",
+        "sponsor": "Zend Technologies",
+        "reverse": "Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-apigility-0-391x344.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/adamculp\/25011803152\/",
+                "credit": "Adam Culp"
+            }
+        ],
+        "description": "<p>This elephpant was originally intended for attendees at ZendCon 2014. It is based\non the <a href=\"https:\/\/apigility.org\/\">Apigility<\/a> logo which shows a flying elephpant with\na rocket strapped to it's back. Because it was thought that the elephpant looked\nlike it was firing a rocket, the Z-Ray elephpant was designed and released instead.\nOnly the prototype of this design was created. It used a lighter color blue than\nprevious elephpants.<\/p>\n"
+    },
+    "2014-10-28-blue-zray": {
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "blue",
+        "sponsor": "Zend Technologies",
+        "reverse": "Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-zray-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/17856483293\/",
+                "credit": "Philip Sharp"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-zray-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/18450736776\/",
+                "credit": "Philip Sharp"
+            }
+        ],
+        "description": "<p>This elephpant was given away to attendees at ZendCon 2014. It wears a pair of glasses\nwith red spirals that represent the Z-Ray debugging tool for Zend Server.<\/p>\n"
+    },
+    "2014-11-27-black-amsterdamphp": {
+        "name": "MurPHPy",
+        "variation": "AmsterdamPHP",
+        "species": "Elephpas hypertextus amstelodami",
+        "color": "black",
+        "sponsor": "AmsterdamPHP",
+        "reverse": "AmsterdamPHP logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-amsterdamphp-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/akrabat\/19500469889\/",
+                "credit": "Rob Allen"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-amsterdamphp-1-400x300.png",
+                "credit": "Marco Rieger"
+            }
+        ],
+        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/rdohms\/the-amsterdamphp-elephpant\">Kickstarter campaign<\/a>.\nThe colors match the <a href=\"http:\/\/amsterdamphp.nl\/\">AmsterdamPHP<\/a> logo, which in turn\nmatch the flag and coat of arms of the City of Amsterdam.<\/p>\n\n<p>The name MurPHPy was kindly given by the organizers of AmsterdamPHP after facing a multitude of troubles during the packing and shipping stages of the campaign.<\/p>\n\n<p>Currently it's available for sale from the the <a href=\"http:\/\/amsterdamphp.webshopapp.com\/\">AmsterdamPHP Shop<\/a>.<\/p>\n"
+    },
+    "2015-03-05-white-confoo": {
+        "name": "Phil Snow",
+        "variation": "ConFoo",
+        "species": "Elephpas hypertextus fooianum",
+        "color": "white",
+        "sponsor": "ConFoo",
+        "reverse": "ConFoo.ca web techno conference",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-confoo-0-400x300.jpg",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-confoo-1-400x300.jpg",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elephpant was released in 2016 and is available for sale from <a href=\"https:\/\/shop.confoo.ca\/\">ConFoo<\/a>.<\/p>\n"
+    },
+    "2015-06-08-gold-opengoodies": {
+        "variation": "Gold",
+        "species": "Elephpas hypertextus auri",
+        "color": "gold",
+        "sponsor": "OpenGoodies",
+        "reverse": "20 Years 1995-2015",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/gold-opengoodies-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/adamculp\/24834214980\/",
+                "credit": "Adam Culp"
+            }
+        ],
+        "description": "<p>A true rarity, only one of these elephpants exists in the wild. It was designed by OpenGoodies to celebrate PHP's 20th anniversary on June 8, 2015. After developing the prototype the project was canceled because final production would not be ready in time. The single prototype was put up for auction on <a href=\"http:\/\/www.ebay.com\/itm\/2015-golden-elePHPant-PHP-039-s-20th-birthday-1995-to-2015-\/321776947704\">Ebay<\/a> on the day of the anniversary. The auction was won by Zend Technologies co-founder Zeev Suraski.<\/p>\n\n<p>This is the first elephpant that does not have plush fur. It has a circular disc on the right-rear leg showing the \"Official ElePHPant\" logo.<\/p>\n\n<p>This elephpant has its own Twitter account at <a href=\"https:\/\/twitter.com\/gelephpant\">@gelephpant<\/a>.<\/p>\n"
+    },
+    "2015-06-19-blue-opengoodies": {
+        "species": "Elephpas hypertextus",
+        "color": "blue",
+        "sponsor": "OpenGoodies",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-opengoodies-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/23626304652\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-opengoodies-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/23708710306\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>The newest edition of the classic blue elephpant. It is produced by OpenGoodies, which succeeded Nexen\/Alter Way as the official producer of elephpants.<\/p>\n\n<p>This edition is distinguished from previous generations by the OpenGoodies logo on the rear tag.<\/p>\n"
+    },
+    "2015-06-19-pink-opengoodies": {
+        "species": "Elephpas hypertextus",
+        "color": "pink",
+        "sponsor": "OpenGoodies",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/pink-open-goodies-0-400x300.png",
+                "credit": "Marco Rieger"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/pink-open-goodies-1-400x300.png",
+                "credit": "Marco Rieger"
+            }
+        ],
+        "description": "<p>The newest edition of the pink elephpant. It is produced by OpenGoodies, which succeeded Nexen\/Alter Way as the official producer of elephpants.<\/p>\n\n<p>This edition is distinguished from the previous edition by the OpenGoodies logo on the rear tag.<\/p>\n"
+    },
+    "2015-10-13-multicolored-haphpy": {
+        "variation": "HaPHPy",
+        "species": "Elephpas hypertextus natalis",
+        "color": "multicolored",
+        "sponsor": "AFUP - French PHP User Group",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/multicolored-haphpy-0-400x300.jpg",
+                "caption": "."
+            }
+        ],
+        "description": "<p>This one-of-a-kind elephpant was handcrafted by V. Fanzutti. It has been offered to the Kenya PHP User Group for their contribution for the <a href=\"http:\/\/haphpy-birthday.net\">20th HaPHPy Birthday<\/a>.<\/p>\n"
+    },
+    "2015-10-19-teal-zen": {
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "teal",
+        "sponsor": "Zend Technologies",
+        "reverse": "Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/teal-zend-0-400x300.jpg",
+                "link": "http:\/\/imgur.com\/xJNpiQN",
+                "credit": "Mark Baker"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/teal-zend-1-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/teal-zend-1.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
+        "description": "<p>Also described as turquoise. This elephpant was given away to attendees at ZendCon 2015.<\/p>\n\n<p>The PHP logo on the obverse has a \"7\" included to signify the release of PHP 7.<\/p>\n"
+    },
+    "2015-11-06-black-symfony-10-years": {
+        "variation": "Symfony",
+        "species": "Elephpas hypertextus symphoniae",
+        "color": "black",
+        "sponsor": "Sensio Labs",
+        "reverse": "Symfony Framework 10 Years logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-10-years-0-400x300.jpg",
+                "link": "http:\/\/imgur.com\/jnVQgQV",
+                "credit": "Mark Baker"
+            }
+        ],
+        "description": "<p>This elephpant was designed to celebrate the 10th anniversary of the <a href=\"http:\/\/symfony.com\/\">Symfony Framework<\/a>. Only 300 were available and were sold exclusively at <a href=\"http:\/\/pariscon2015.symfony.com\/\">SymfonyCon 2015<\/a> in Paris.<\/p>\n"
+    },
+    "2016-01-01-black-symfony": {
+        "variation": "Symfony",
+        "species": "Elephpas hypertextus symphoniae",
+        "color": "black",
+        "sponsor": "Sensio Labs",
+        "reverse": "Symfony Framework logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-0-400x300.jpg",
+                "link": "http:\/\/imgur.com\/hKdmTnK",
+                "credit": "Benjamin Jonard"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-1-400x300.jpg",
+                "link": "http:\/\/imgur.com\/YcdhzfU",
+                "credit": "Benjamin Jonard"
+            }
+        ],
+        "description": "<p>This elephpant has been sold at Symfony-related events starting in 2016.<\/p>\n"
+    },
+    "2016-02-19-blue-shopware": {
+        "name": "Cody Blou",
+        "variation": "Shopware",
+        "species": "Elephpas hypertextus shopwari",
+        "color": "blue",
+        "sponsor": "shopware AG",
+        "reverse": "shopware Logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-shopware-0-400x300.jpg",
+                "link": "http:\/\/imgur.com\/eDISjV2",
+                "credit": "Dennis Mader"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-shopware-1-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/blue-shopware-0.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
+        "description": "<p>This elephant will be distributed primarily to <a href=\"https:\/\/github.com\/shopware\/shopware\">Shopware<\/a> contributors and community members.\nCody has its own Twitter account at <a href=\"https:\/\/twitter.com\/CodyBlou\">@CodyBlou<\/a>.<\/p>\n"
+    },
+    "2016-06-02-white-globalis": {
+        "name": "Echo",
+        "variation": "Globalis",
+        "species": "Elephpas hypertextus globi",
+        "color": "white",
+        "sponsor": "GLOBALIS",
+        "reverse": "GLOBALIS logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-globalis-0-400x300.jpg",
+                "credit": "Armel Fauveau"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-globalis-1-400x300.jpg",
+                "credit": "Armel Fauveau"
+            }
+        ],
+        "description": "<p>Only 400 small and 5 jumbo-size of these elePHPants were made, and will be delivered\nprimarily to <a href=\"https:\/\/globalis-ms.com\/\">GLOBALIS<\/a> team members, partners, friends, and customers.<\/p>\n\n<p>His name, Echo, refers to the PHP <code>echo<\/code> command and also as tribute to <a href=\"https:\/\/en.wikipedia.org\/wiki\/Echo_(elephant)\">Echo<\/a>,\nthe famous elephant matriarch who was studied for over 30 years.<\/p>\n"
+    },
+    "2016-06-24-white-dpc": {
+        "variation": "Dutch PHP Conference",
+        "species": "Elephpas hypertextus batavici",
+        "color": "white",
+        "sponsor": "ibuildings",
+        "reverse": "ibuildings Dutch PHP Conference, with the DPC logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-dpc-0-400x300.jpg",
+                "link": "http:\/\/i.imgur.com\/DZvNywx.jpg",
+                "credit": "Mark Baker"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-dpc-1-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/white-dutch-php-conference-0.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
+        "description": "<p>This elephpant was given away to attendees at the 2016 Dutch PHP Conference.<\/p>\n"
+    },
+    "2016-10-18-white-zen": {
+        "name": "ElPHPis",
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "white",
+        "sponsor": "Zend Technologies",
+        "reverse": "Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-zend-0-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-0.jpg",
+                "credit": "Aki Ojalehto"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-zend-1-400x300.jpg",
+                "link": "http:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-1.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
+        "description": "<p>This elephpant was given away to attendees at ZendCon 2016.<\/p>\n\n<p>The name ElPHPis was given by the community because of his trademark sideburns.<\/p>\n"
+    },
+    "2016-10-27-multicolored-phpdiversity": {
+        "name": "Enfys",
+        "variation": "Rainbow",
+        "species": "Elephpas hypertextus arcus",
+        "color": "multicolored",
+        "sponsor": "PHPDiversity",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/multicolored-enfys-0-400x300.jpg",
+                "link": "http:\/\/i.imgur.com\/WESjIcA.jpg",
+                "credit": "Mark Baker"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/multicolored-enfys-1-400x300.jpg",
+                "link": "http:\/\/i.imgur.com\/MBBKCPY.jpg",
+                "credit": "Mark Baker"
+            }
+        ],
+        "description": "<p>Inspired by a photoshopped image by a Slovenian PHP developer called Peter Kokot.\nThis elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1817732114\/the-phpdiversity-rainbow-elephpant\">Kickstarter campaign<\/a>.<\/p>\n\n<p>The name Enfys (pronounced EN-vis) is a Welsh name meaning \"rainbow\", that is gender-neutral; and Enfys is intended to promote Diversity within the worldwide PHP development community regardless of race, gender, sexual orientation, gender identity, age, nationality, disability, religion and technology.<\/p>\n"
+    },
+    "2017-02-02-gray-roave": {
+        "variation": "Roave",
+        "species": "Elephpas hypertextus roavorum",
+        "color": "gray",
+        "sponsor": "Roave",
+        "reverse": "Roave logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/gray-roave-0-400x300.jpg",
+                "link": "https:\/\/user-images.githubusercontent.com\/496145\/30957210-eb775a80-a439-11e7-86c7-6afc8b4f08dc.jpg",
+                "credit": "James Titcumb"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/gray-roave-1-400x300.jpg",
+                "link": "https:\/\/user-images.githubusercontent.com\/496145\/30957211-eb7de6e8-a439-11e7-8e19-e2ef0bc89e89.jpg",
+                "credit": "James Titcumb"
+            }
+        ],
+        "description": "\n"
+    },
+    "2017-09-22-denim-zen": {
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "blue",
+        "sponsor": "Rogue Wave Software",
+        "reverse": "Rogue Wave\/Zend logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/denim-zend-0-400x400.jpg",
+                "link": "https:\/\/twitter.com\/zendcon\/status\/911226355735506945",
+                "credit": "Rogue Wave Software"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/denim-zend-1-400x400.jpg",
+                "link": "https:\/\/twitter.com\/zendcon\/status\/911226355735506945",
+                "credit": "Rogue Wave Software"
+            }
+        ],
+        "description": "<p>This elephpant will be given away to attendees at ZendCon 2017.<\/p>\n\n<p>The denim material makes this the first widely-distributed elephpant with non-plush fur.<\/p>\n\n<p>This is the first Zend-branded elephpant to use the Rogue Wave logo.<\/p>\n"
+    },
+    "2015-06-02-brown-truenorthphp": {
+        "name": "Molly",
+        "variation": "PHP Woolly Mammoth",
+        "species": "Elephpas mammuthus",
+        "color": "brown",
+        "sponsor": "Peter Meth \/ Softer Software",
+        "reverse": "True North PHP logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/brown-truenorthphp-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/24918188561\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/brown-truenorthphp-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/24931999432\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This animal has smaller ears than an elephpant, and tusks. The body of the\nmammoth consists of both plush fur and longer hair.<\/p>\n\n<p>The woolly mammoth was produced as a giveaway for the 2015 <a href=\"http:\/\/truenorthphp.ca\">TrueNorth PHP Conference<\/a> in Toronto, Canada. A <a href=\"https:\/\/www.kickstarter.com\/projects\/1035100786\/truenorth-php-woolly-mammoth-plush-toy\">Kickstarter campaign<\/a> was held to help fund the giveaways.<\/p>\n\n<p>Due to a production delay, the mammoths were not available in time for the conference and were instead distributed to TrueNorth PHP attendees primarily through meetups in and around Toronto. The mammoths were released and started shipping to Kickstarter backers in January 2016.<\/p>\n"
+    },
+    "2015-09-11-gray-hack": {
+        "variation": "pHackyderm",
+        "species": "Elephpas cyberneticus",
+        "color": "gray",
+        "sponsor": "unknown",
+        "reverse": "unknown",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/adamculp\/24834461270\/",
+                "credit": "Adam Culp"
+            }
+        ],
+        "description": "<p>Produced by the HHVM\/Hack team at Facebook. It has not been released\npublicly. It has an HHVM logo in place of the PHP logo.<\/p>\n\n<p>The pHackyderm has several features that distinguish it from an elephpant including\nan articulated trunk, robotic eye, and boots.<\/p>\n"
+    }
+}
