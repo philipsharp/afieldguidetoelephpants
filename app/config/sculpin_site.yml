@@ -3,6 +3,7 @@
 # in a template to get the contents of the `title` key.
 title: A Field Guide to Elephpants
 latinname: Elephpas hypertextus
+hostname: localhost:8000
 # Please keep the subspecies alphabetized
 subspecies:
     amsterdamphp:

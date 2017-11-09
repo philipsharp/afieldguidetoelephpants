@@ -44,6 +44,8 @@ class JsonBuilder extends AbstractSource
 
         list($variation, $species) = $this->getVariationAndSpecies($data['categories'][0] ?? false);
 
+        $photos = $this->expandPhotosData($data['photos'] ?? []);
+
         return array_filter(array(
             'name' => $data['name'] ?? '',
             'variation' => $variation,
@@ -51,7 +53,7 @@ class JsonBuilder extends AbstractSource
             'color' => $data['tags'][0] ?? '',
             'sponsor' => $data['sponsor'] ?? '',
             'reverse' => $data['reverse'] ?? '',
-            'photos' => $data['photos'] ?? '',
+            'photos' => $photos ?? '',
             'description' => $source->content(),
         ));
     }
@@ -77,5 +79,22 @@ class JsonBuilder extends AbstractSource
         }
 
         return [$variation, $species];
+    }
+
+    /**
+     * Expand photo data to include complete paths
+     *
+     * @param array $photos
+     *
+     * @return array
+     */
+    private function expandPhotosData(array $photos) {
+        foreach ($photos as &$photo) {
+            if ($photo['file']) {
+                $photo['file'] = 'http://' . $this->config->get('hostname') . '/photos/' . $photo['file'];
+            }
+        }
+
+        return $photos;
     }
 }
