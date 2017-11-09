@@ -67,11 +67,11 @@ class JsonBuilder extends AbstractSource
      */
     private function getVariationAndSpecies($category)
     {
+        $species = $this->config->get('latinname');
         $variation = null;
-        $species = null;
 
         if ($subspecies = $this->config->get('subspecies.'.$category)) {
-            $species = $this->config->get('latinname') . ' ' . $subspecies['latin'];
+            $species .= ' ' . $subspecies['latin'];
             $variation = $subspecies['common'];
         } elseif ($subspecies = $this->config->get('relatedspecies.'.$category)) {
             $species = $subspecies['latin'];
