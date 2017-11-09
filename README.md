@@ -20,6 +20,13 @@ nature of the _Field Guide_, the `--watch` flag may not work as expected.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for information on submitting changes,
 including style and technical guidelines.
 
+## Data
+
+The following data feeds are available for elephpant-related projects. The data
+feeds are licensed under the same terms as the website.
+
+* [http://afieldguidetoelephpants.net/data/all.json](all.json) - All elephpants and related species
+
 ## License
 
 [Creative Commons
