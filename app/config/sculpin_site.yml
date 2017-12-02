@@ -6,6 +6,9 @@ latinname: Elephpas hypertextus
 hostname: localhost:8000
 # Please keep the subspecies alphabetized
 subspecies:
+    afup:
+        common: "AFUP"
+        latin: "gallici"
     amsterdamphp:
         common: "AmsterdamPHP"
         latin: "amstelodami"
