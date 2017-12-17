@@ -30,6 +30,9 @@ subspecies:
     laravel:
         common: "Laravel"
         latin: "laraveli"
+    magento:
+        common: "Magento"
+        latin: "mercatoris"
     oracle:
         common: "Oracle"
         latin: "oraculi"
