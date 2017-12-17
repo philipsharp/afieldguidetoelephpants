@@ -520,6 +520,38 @@
         "reverse": "AFUP logo",
         "description": "<p>This elephpant was released in 2017 at AFUP's annual Forum PHP conference.<\/p>\n"
     },
+    "2017-06-11-blue-cakedc": {
+        "variation": "CakePHP",
+        "species": "Elephpas hypertextus pistrini",
+        "color": "blue",
+        "sponsor": "Cake Development Corporation",
+        "reverse": "CakeDC logo",
+        "description": "\n"
+    },
+    "2017-06-11-blue-cakefest": {
+        "variation": "CakePHP",
+        "species": "Elephpas hypertextus pistrini",
+        "color": "blue",
+        "sponsor": "CakePHP",
+        "reverse": "CakeFest logo",
+        "description": "<p>Announced at CakeFest 2017, these will be made available to future CakeFest attendees.<\/p>\n"
+    },
+    "2017-06-11-red-cakephp": {
+        "variation": "CakePHP",
+        "species": "Elephpas hypertextus pistrini",
+        "color": "red",
+        "sponsor": "CakePHP",
+        "reverse": "CakePHP logo",
+        "description": "\n"
+    },
+    "2017-06-11-yellow-cakesf": {
+        "variation": "CakePHP",
+        "species": "Elephpas hypertextus pistrini",
+        "color": "yellow",
+        "sponsor": "CakePHP",
+        "reverse": "Cake Software Foundation logo",
+        "description": "\n"
+    },
     "2017-09-22-denim-zen": {
         "variation": "Zend",
         "species": "Elephpas hypertextus zeevandi",
@@ -539,6 +571,14 @@
             }
         ],
         "description": "<p>This elephpant will be given away to attendees at ZendCon 2017.<\/p>\n\n<p>The denim material makes this the first widely-distributed elephpant with non-plush fur.<\/p>\n\n<p>This is the first Zend-branded elephpant to use the Rogue Wave logo.<\/p>\n"
+    },
+    "2017-10-12-gray-magento": {
+        "variation": "Magento",
+        "species": "Elephpas hypertextus mercatoris",
+        "color": "gray",
+        "sponsor": "Magento",
+        "reverse": "Magento logo",
+        "description": "\n"
     },
     "2015-06-02-brown-truenorthphp": {
         "name": "Molly",
