@@ -12,6 +12,9 @@ subspecies:
     amsterdamphp:
         common: "AmsterdamPHP"
         latin: "amstelodami"
+    cakephp:
+        common: "CakePHP"
+        latin: "pistrini"
     confoo:
         common: "ConFoo"
         latin: "fooianum"
