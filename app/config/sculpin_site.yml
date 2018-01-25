@@ -24,6 +24,9 @@ subspecies:
     globalis:
         common: "Globalis"
         latin: "globi"
+    heroku:
+        common: "Heroku"
+        latin: "herokai"
     laravel:
         common: "Laravel"
         latin: "laraveli"

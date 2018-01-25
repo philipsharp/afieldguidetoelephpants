@@ -5,7 +5,7 @@ categories:
 tags:
     - purple
 sponsor: Heroku
-reverse: Heroku logo
+reverse: Heroku logo with starburst
 photos:
     -
         file: purple-heroku-0-400x300.jpg
@@ -16,3 +16,4 @@ photos:
         link: https://www.flickr.com/photos/atomictaco/25016033688/
         credit: Tim Bond
 ---
+This elephpant has cloud-shaped toenails.
