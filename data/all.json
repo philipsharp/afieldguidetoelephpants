@@ -518,6 +518,18 @@
         "color": "blue",
         "sponsor": "Association Fran\u00e7aise des Utilisateurs de PHP (AFUP) - French PHP User Group",
         "reverse": "AFUP logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-afup-0-400x300.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-afup-0.jpg",
+                "credit": "Aki Ojalehto"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-afup-1-400x300.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-afup-1.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
         "description": "<p>This elephpant was released in 2017 at AFUP's annual Forum PHP conference.<\/p>\n"
     },
     "2017-06-11-blue-cakedc": {
@@ -571,6 +583,27 @@
             }
         ],
         "description": "<p>This elephpant will be given away to attendees at ZendCon 2017.<\/p>\n\n<p>The denim material makes this the first widely-distributed elephpant with non-plush fur.<\/p>\n\n<p>This is the first Zend-branded elephpant to use the Rogue Wave logo.<\/p>\n"
+    },
+    "2017-10-06-purple-heroku": {
+        "name": "Hero",
+        "variation": "Heroku",
+        "species": "Elephpas hypertextus herokai",
+        "color": "purple",
+        "sponsor": "Heroku",
+        "reverse": "Heroku logo with starburst",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/purple-heroku-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/38171946464\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/purple-heroku-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/25016033688\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elephpant has cloud-shaped toenails.<\/p>\n"
     },
     "2017-10-12-gray-magento": {
         "variation": "Magento",
