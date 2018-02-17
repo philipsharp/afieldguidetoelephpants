@@ -11,4 +11,5 @@ photos:
         link: https://www.flickr.com/photos/afilina/2339246540/
         credit: Anna Filina
 ---
-Given to attendees at the 2008 PHP Quebec Conference (now [ConFoo](http://confoo.ca)).
+Given to attendees at the 2008 PHP Quebec Conference (now [ConFoo](http://confoo.ca)), 
+and also to the attendees of the 2008 php|tek Conference (now [php[tek]](https://tek.phparch.com/)).
