@@ -26,6 +26,8 @@ Contributions are welcome. All changes must be submitted via pull request.
 * The file name is of the structure `DATE-COLOR-IDENTIFIER.md`, where `DATE` is the
   date of public release, or public announcement (if earlier).
 * Alternative animals are defined in `source/_other` following the same structure.
+* When describing a new subspecies, a common name and subspecies name must also
+  be added to `app/config/sculpin_site.yml`.
 
 ## Images
 
