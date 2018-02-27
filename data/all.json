@@ -46,12 +46,12 @@
         "photos": [
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-zend-0-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/blue-zend-0.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-zend-0.jpg",
                 "credit": "Aki Ojalehto"
             },
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-zend-1-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/blue-zend-1.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-zend-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -69,7 +69,7 @@
             },
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/pink-original-1-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/pink-original-1.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/pink-original-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -350,7 +350,7 @@
             },
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/teal-zend-1-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/teal-zend-1.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/teal-zend-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -367,6 +367,11 @@
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-10-years-0-400x300.jpg",
                 "link": "http:\/\/imgur.com\/jnVQgQV",
                 "credit": "Mark Baker"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-10-years-1-400x300.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/black-symfony-10-years-0.jpg",
+                "credit": "Aki Ojalehto"
             }
         ],
         "description": "<p>This elephpant was designed to celebrate the 10th anniversary of the <a href=\"http:\/\/symfony.com\/\">Symfony Framework<\/a>. Only 300 were available and were sold exclusively at <a href=\"http:\/\/pariscon2015.symfony.com\/\">SymfonyCon 2015<\/a> in Paris.<\/p>\n"
@@ -406,7 +411,7 @@
             },
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-shopware-1-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/blue-shopware-0.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-shopware-0.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -445,7 +450,7 @@
             },
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-dpc-1-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/white-dutch-php-conference-0.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/white-dutch-php-conference-0.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -461,12 +466,12 @@
         "photos": [
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-zend-0-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-0.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-0.jpg",
                 "credit": "Aki Ojalehto"
             },
             {
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/white-zend-1-400x300.jpg",
-                "link": "http:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-1.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
