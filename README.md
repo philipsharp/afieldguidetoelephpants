@@ -29,5 +29,6 @@ feeds are licensed under the same terms as the website.
 
 ## License
 
-[Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+The content of A Field Guide to Elephpants is licensed under the [Creative
+Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/),
+and source code used to generate that content is licensed under the [MIT license](LICENSE).
