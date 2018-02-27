@@ -11,7 +11,7 @@ photos:
         credit: Rob Allen
     -
         file: pink-original-1-400x300.jpg
-        link: http://www.ojalehto.eu/elephpants/pink-original-1.jpg
+        link: https://www.ojalehto.eu/elephpants/pink-original-1.jpg
         credit: Aki Ojalehto
 ---
 This was the second color released. It was produced alongside the sixth generation of "original" blue elephpants.
