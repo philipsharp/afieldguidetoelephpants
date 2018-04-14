@@ -618,6 +618,19 @@
         "reverse": "Magento logo",
         "description": "\n"
     },
+    "2018-04-14-php-yorkshire": {
+        "variation": "PHP Yorkshire (Jorvik)",
+        "species": "Elephpas hypertextus eboraci",
+        "color": "blue",
+        "sponsor": "PHP Yorkshire conference",
+        "reverse": "PHP Yorkshire logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/phpyorkshire-400-300.png"
+            }
+        ],
+        "description": "<p>This elephpant will be available at PHP Yorkshire 2018<\/p>\n"
+    },
     "2015-06-02-brown-truenorthphp": {
         "name": "Molly",
         "variation": "PHP Woolly Mammoth",
