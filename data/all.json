@@ -33,6 +33,11 @@
                 "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-oracle-0-400x300.jpg",
                 "link": "https:\/\/www.flickr.com\/photos\/afilina\/2339246540\/",
                 "credit": "Anna Filina"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/blue-oracle-1-400x300.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-oracle-1.jpg",
+                "credit": "Aki Ojalehto"
             }
         ],
         "description": "<p>Given to attendees at the 2008 PHP Quebec Conference (now <a href=\"http:\/\/confoo.ca\">ConFoo<\/a>), \nand also to the attendees of the 2008 php|tek Conference (now <a href=\"https:\/\/tek.phparch.com\/\">php[tek]<\/a>).<\/p>\n"
@@ -498,6 +503,7 @@
         "description": "<p>Inspired by a photoshopped image by a Slovenian PHP developer called Peter Kokot.\nThis elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1817732114\/the-phpdiversity-rainbow-elephpant\">Kickstarter campaign<\/a>.<\/p>\n\n<p>The name Enfys (pronounced EN-vis) is a Welsh name meaning \"rainbow\", that is gender-neutral; and Enfys is intended to promote Diversity within the worldwide PHP development community regardless of race, gender, sexual orientation, gender identity, age, nationality, disability, religion and technology.<\/p>\n"
     },
     "2017-02-02-gray-roave": {
+        "name": "Chloe",
         "variation": "Roave",
         "species": "Elephpas hypertextus roavorum",
         "color": "gray",
@@ -616,6 +622,18 @@
         "color": "gray",
         "sponsor": "Magento",
         "reverse": "Magento logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/gray-magento-0-400x300.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/gray-magento-0.jpg",
+                "credit": "Aki Ojalehto"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/gray-magento-1-400x300.jpg",
+                "link": "https:\/\/www.ojalehto.eu\/elephpants\/gray-magento-1.jpg",
+                "credit": "Aki Ojalehto"
+            }
+        ],
         "description": "\n"
     },
     "2018-04-14-php-yorkshire": {
