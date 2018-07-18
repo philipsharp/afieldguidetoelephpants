@@ -549,7 +549,7 @@
         "color": "blue",
         "sponsor": "Cake Development Corporation",
         "reverse": "CakeDC logo",
-        "description": "\n"
+        "description": "<p>This elephpant is available to CakeDC's clients and at events that CakeDC sponsors.<\/p>\n"
     },
     "2017-06-11-blue-cakefest": {
         "variation": "CakePHP",
@@ -565,6 +565,18 @@
         "color": "red",
         "sponsor": "CakePHP",
         "reverse": "CakePHP logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/red-cakephp-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/tmzk4R3.jpg",
+                "credit": "Mark Baker"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/red-cakephp-2-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/B2w9Ge8.jpg",
+                "credit": "Mark Baker"
+            }
+        ],
         "description": "\n"
     },
     "2017-06-11-yellow-cakesf": {
@@ -573,6 +585,18 @@
         "color": "yellow",
         "sponsor": "CakePHP",
         "reverse": "Cake Software Foundation logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/yellow-cakesf-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/kAnNrp7.jpg",
+                "credit": "Mark Baker"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/yellow-cakesf-2-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/PcTiA7U.jpg",
+                "credit": "Mark Baker"
+            }
+        ],
         "description": "\n"
     },
     "2017-09-22-denim-zen": {
