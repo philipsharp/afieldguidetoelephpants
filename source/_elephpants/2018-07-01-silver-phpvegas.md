@@ -2,16 +2,16 @@
 categories:
     - phpvegas
 tags:
-    - holographic
+    - silver
 sponsor: PHPVegas
 reverse: PHP Vegas Text Logo
 photos:
     -
-        file: holographic-phpvegas-0-400x300.jpg
+        file: silver-phpvegas-0-400x300.jpg
         link: https://twitter.com/OGProgrammer/status/1019139148412739584
         credit: Joshua Ray Copeland
     -
-        file: holographic-phpvegas-1-400x300.jpg
+        file: silver-phpvegas-1-400x300.jpg
         link: https://twitter.com/OGProgrammer/status/1019139148412739584
         credit: Joshua Ray Copeland
 ---

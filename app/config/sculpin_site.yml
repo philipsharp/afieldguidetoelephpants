@@ -72,6 +72,9 @@ subspecies:
     zf2:
         common: "Zend Framework"
         latin: "zendframeworki"
+    phpvegas:
+        common: "PHP Vegas"
+        latin: "fabulosum"
 relatedspecies:
     hack:
         common: "pHackyderm"
