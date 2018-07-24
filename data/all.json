@@ -673,6 +673,26 @@
         ],
         "description": "<p>This elephpant will be available at PHP Yorkshire 2018<\/p>\n"
     },
+    "2018-07-01-silver-phpvegas": {
+        "variation": "PHP Vegas",
+        "species": "Elephpas hypertextus fabulosum",
+        "color": "silver",
+        "sponsor": "PHPVegas",
+        "reverse": "PHP Vegas Text Logo",
+        "photos": [
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/silver-phpvegas-0-400x300.jpg",
+                "link": "https:\/\/twitter.com\/OGProgrammer\/status\/1019139148412739584",
+                "credit": "Joshua Ray Copeland"
+            },
+            {
+                "file": "http:\/\/afieldguidetoelephpants.net\/photos\/silver-phpvegas-1-400x300.jpg",
+                "link": "https:\/\/twitter.com\/OGProgrammer\/status\/1019139148412739584",
+                "credit": "Joshua Ray Copeland"
+            }
+        ],
+        "description": "<p>PHP Vegas has long talked about creating it's very own ElePHPant.\nA crowdfunding campaign was built with <a href=\"https:\/\/igg.me\/at\/elephpant\">Indiegogo<\/a> to raise the capital for a production run.<\/p>\n\n<p>The name PHPlashy is an ode to the lights and glamor of Las Vegas, NV.<\/p>\n"
+    },
     "2015-06-02-brown-truenorthphp": {
         "name": "Molly",
         "variation": "PHP Woolly Mammoth",
