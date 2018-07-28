@@ -25,7 +25,7 @@ including style and technical guidelines.
 The following data feeds are available for elephpant-related projects. The data
 feeds are licensed under the same terms as the website.
 
-* <http://afieldguidetoelephpants.net/data/all.json> - All elephpants and related species
+* <https://afieldguidetoelephpants.net/data/all.json> - All elephpants and related species
 
 ## License
 

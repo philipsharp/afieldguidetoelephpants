@@ -4,6 +4,7 @@
 title: A Field Guide to Elephpants
 latinname: Elephpas hypertextus
 hostname: localhost:8000
+https: false
 # Please keep the subspecies alphabetized
 subspecies:
     afup:

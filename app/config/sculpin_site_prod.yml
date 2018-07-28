@@ -1,4 +1,5 @@
 imports:
     - sculpin_site.yml
 hostname: afieldguidetoelephpants.net
+https: true
 google_analytics_tracking_id: UA-63028216-1

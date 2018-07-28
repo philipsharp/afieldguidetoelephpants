@@ -89,9 +89,10 @@ class JsonBuilder extends AbstractSource
      * @return array
      */
     private function expandPhotosData(array $photos) {
+        $protocol = $this->config->get('https') ? 'https' : 'http';
         foreach ($photos as &$photo) {
             if ($photo['file']) {
-                $photo['file'] = 'http://' . $this->config->get('hostname') . '/photos/' . $photo['file'];
+                $photo['file'] = $protocol . '://' . $this->config->get('hostname') . '/photos/' . $photo['file'];
             }
         }
 
