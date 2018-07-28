@@ -11,7 +11,7 @@ Contributions are welcome. All changes must be submitted via pull request.
 * New content must have a verifiable source.
 * By submitting a pull request you are agreeing to license your contribution by
   the same license as the rest of the guide (currently
-  [CC:BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)).
+  [CC:BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ## Style Guide
 
