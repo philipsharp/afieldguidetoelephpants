@@ -43,6 +43,9 @@ subspecies:
     phparch:
         common: "PHP|Architect"
         latin: "architecti"
+    phproundtable:
+        common: "PHP Roundtable"
+        latin: "circumensi"
     phpwomen:
         common: "PHP Women"
         latin: "feminae"
