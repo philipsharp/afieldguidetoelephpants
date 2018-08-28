@@ -673,6 +673,27 @@
         ],
         "description": "<p>This elephpant will be available at PHP Yorkshire 2018<\/p>\n"
     },
+    "2018-05-30-purple-php-roundtable": {
+        "name": "Pollita (in honor of Sara Golemon)",
+        "variation": "PHP Roundtable",
+        "species": "Elephpas hypertextus circumensi",
+        "color": "purple",
+        "sponsor": "PHP Roundtable Podcast",
+        "reverse": "PHP Roundtable logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/purple-php-roundtable-0-400x300.jpg",
+                "link": "https:\/\/php-roundtable.s3.amazonaws.com\/images\/elephpant\/php-roundtable-elephpant-right-side.jpg",
+                "credit": "Sammy Kaye Powers"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/purple-php-roundtable-1-400x300.jpg",
+                "link": "https:\/\/php-roundtable.s3.amazonaws.com\/images\/elephpant\/php-roundtable-elephpant-left-side.jpg",
+                "credit": "Sammy Kaye Powers"
+            }
+        ],
+        "description": "<p>The first and only elephpant created for a PHP Podcast. It's fuzzier than standard\nelephpants and sports nifty logo nails and white feet pads. Only 500 were made.<\/p>\n\n<p>This elephpant will be available for sale in 2019 at\n<a href=\"https:\/\/www.phproundtable.com\/get-an-elephpant\">PHPRoundtable.com<\/a>. Until then, you\nmight be able to <a href=\"https:\/\/www.phproundtable.com\/get-an-elephpant#trade\">trade for one<\/a>.<\/p>\n"
+    },
     "2018-07-01-silver-phpvegas": {
         "variation": "PHP Vegas",
         "species": "Elephpas hypertextus fabulosum",
