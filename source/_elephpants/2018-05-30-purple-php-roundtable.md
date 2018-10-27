@@ -19,6 +19,5 @@ photos:
 The first and only elephpant created for a PHP Podcast. It's fuzzier than standard
 elephpants and sports nifty logo nails and white feet pads. Only 500 were made.
 
-This elephpant will be available for sale in 2019 at
-[PHPRoundtable.com](https://www.phproundtable.com/get-an-elephpant). Until then, you
-might be able to [trade for one](https://www.phproundtable.com/get-an-elephpant#trade).
+This elephpant was made available for sale on October 24, 2018 at
+[PHPRoundtable.com](https://www.phproundtable.com/get-an-elephpant).
