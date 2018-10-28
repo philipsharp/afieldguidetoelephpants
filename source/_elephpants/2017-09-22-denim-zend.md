@@ -15,7 +15,7 @@ photos:
         link: https://twitter.com/zendcon/status/911226355735506945
         credit: Rogue Wave Software
 ---
-This elephpant will be given away to attendees at ZendCon 2017.
+This elephpant was given away to attendees at ZendCon 2017.
 
 The denim material makes this the first widely-distributed elephpant with non-plush fur.
 

@@ -15,10 +15,8 @@ photos:
         link: https://twitter.com/OGProgrammer/status/1019139148412739584
         credit: Joshua Ray Copeland
 ---
-PHP Vegas has long talked about creating it's very own ElePHPant.
-A crowdfunding campaign was built with [Indiegogo](https://igg.me/at/elephpant) to raise the capital for a production run.
+This elephpant was designed by the PHP Vegas user group. An [Indiegogo](https://igg.me/at/elephpant)
+crowdfunding campaign was run produce it. However, it did not hit its funding target
+and the prototype remains the only one of this subspecies in existence.
 
 The name PHPlashy is an ode to the lights and glamor of Las Vegas, NV.
-
-Unfortunately, it did not hit its target for funding so as of now there is only one of these in existence. There are plans to retry the crowdfunding if more demand meets minimum inventory levels.
-
