@@ -617,7 +617,7 @@
                 "credit": "Rogue Wave Software"
             }
         ],
-        "description": "<p>This elephpant will be given away to attendees at ZendCon 2017.<\/p>\n\n<p>The denim material makes this the first widely-distributed elephpant with non-plush fur.<\/p>\n\n<p>This is the first Zend-branded elephpant to use the Rogue Wave logo.<\/p>\n"
+        "description": "<p>This elephpant was given away to attendees at ZendCon 2017.<\/p>\n\n<p>The denim material makes this the first widely-distributed elephpant with non-plush fur.<\/p>\n\n<p>This is the first Zend-branded elephpant to use the Rogue Wave logo.<\/p>\n"
     },
     "2017-10-06-purple-heroku": {
         "name": "Hero",
@@ -692,7 +692,7 @@
                 "credit": "Sammy Kaye Powers"
             }
         ],
-        "description": "<p>The first and only elephpant created for a PHP Podcast. It's fuzzier than standard\nelephpants and sports nifty logo nails and white feet pads. Only 500 were made.<\/p>\n\n<p>This elephpant will be available for sale in 2019 at\n<a href=\"https:\/\/www.phproundtable.com\/get-an-elephpant\">PHPRoundtable.com<\/a>. Until then, you\nmight be able to <a href=\"https:\/\/www.phproundtable.com\/get-an-elephpant#trade\">trade for one<\/a>.<\/p>\n"
+        "description": "<p>The first and only elephpant created for a PHP Podcast. It's fuzzier than standard\nelephpants and sports nifty logo nails and white feet pads. Only 500 were made.<\/p>\n\n<p>This elephpant is currently available for sale at\n<a href=\"https:\/\/www.phproundtable.com\/get-an-elephpant\">PHPRoundtable.com<\/a>.<\/p>\n"
     },
     "2018-07-01-silver-phpvegas": {
         "variation": "PHP Vegas",
@@ -712,7 +712,33 @@
                 "credit": "Joshua Ray Copeland"
             }
         ],
-        "description": "<p>PHP Vegas has long talked about creating it's very own ElePHPant.\nA crowdfunding campaign was built with <a href=\"https:\/\/igg.me\/at\/elephpant\">Indiegogo<\/a> to raise the capital for a production run.<\/p>\n\n<p>The name PHPlashy is an ode to the lights and glamor of Las Vegas, NV.<\/p>\n"
+        "description": "<p>This elephpant was designed by the PHP Vegas user group. An <a href=\"https:\/\/igg.me\/at\/elephpant\">Indiegogo<\/a>\ncrowdfunding campaign was run produce it. However, it did not hit its funding target\nand the prototype remains the only one of this subspecies in existence.<\/p>\n\n<p>The name PHPlashy is an ode to the lights and glamor of Las Vegas, NV.<\/p>\n"
+    },
+    "2018-10-15-blue-zendcon": {
+        "name": "Zoe",
+        "variation": "Zend",
+        "species": "Elephpas hypertextus zeevandi",
+        "color": "blue",
+        "sponsor": "Rogue Wave Software",
+        "reverse": "Rogue Wave and Zend logos",
+        "description": "<p>This elephpant was given away to attendees at ZendCon 2018.<\/p>\n"
+    },
+    "2018-10-27-blue-phpce": {
+        "variation": "phpCE",
+        "species": "Elephpas hypertextus europacentralis",
+        "color": "blue",
+        "sponsor": "phpCE",
+        "reverse": "phpCE logo",
+        "description": "<p>This elephpant was given to attendees at the 2018 PHP Central Europe Conference<\/p>\n"
+    },
+    "2019-02-07-yellow-sunshinephp-nexmo": {
+        "name": "Sonny",
+        "variation": "SunshinePHP",
+        "species": "Elephpas hypertextus solis",
+        "color": "yellow",
+        "sponsor": "Sunshine PHP Conference, Nexmo",
+        "reverse": "Sunshine PHP logo, Nexmo logo",
+        "description": "<p>The elephpant is only available to attendees of the <a href=\"https:\/\/www.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt is identical to the previous Sunshine PHP elephpant except the Nexmo logo\nreplaces the Zend logo.<\/p>\n"
     },
     "2015-06-02-brown-truenorthphp": {
         "name": "Molly",
