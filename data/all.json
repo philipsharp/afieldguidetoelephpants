@@ -218,7 +218,7 @@
                 "credit": "Adam Culp"
             }
         ],
-        "description": "<p>This elephpant was originally intended for attendees at ZendCon 2014. It is based\non the <a href=\"https:\/\/apigility.org\/\">Apigility<\/a> logo which shows a flying elephpant with\na rocket strapped to it's back. Because it was thought that the elephpant looked\nlike it was firing a rocket, the Z-Ray elephpant was designed and released instead.\nOnly the prototype of this design was created. It used a lighter color blue than\nprevious elephpants.<\/p>\n"
+        "description": "<p>This elephpant was originally intended for attendees at ZendCon 2014. It is based\non the <a href=\"https:\/\/apigility.org\/\">Apigility<\/a> logo which shows a flying elephpant with\na rocket strapped to its back. Because it was thought that the elephpant looked\nlike it was firing a rocket, the Z-Ray elephpant was designed and released instead.\nOnly the prototype of this design was created. It used a lighter color blue than\nprevious elephpants.<\/p>\n"
     },
     "2014-10-28-blue-zray": {
         "variation": "Zend",
@@ -723,14 +723,6 @@
         "reverse": "Rogue Wave and Zend logos",
         "description": "<p>This elephpant was given away to attendees at ZendCon 2018.<\/p>\n"
     },
-    "2018-10-27-blue-phpce": {
-        "variation": "phpCE",
-        "species": "Elephpas hypertextus europacentralis",
-        "color": "blue",
-        "sponsor": "phpCE",
-        "reverse": "phpCE logo",
-        "description": "<p>This elephpant was given to attendees at the 2018 PHP Central Europe Conference<\/p>\n"
-    },
     "2019-02-07-yellow-sunshinephp-nexmo": {
         "name": "Sonny",
         "variation": "SunshinePHP",
@@ -765,15 +757,20 @@
         "variation": "pHackyderm",
         "species": "Elephpas cyberneticus",
         "color": "gray",
-        "sponsor": "unknown",
-        "reverse": "unknown",
+        "sponsor": "Facebook",
+        "reverse": "Hack logo",
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-0-400x300.jpg",
                 "link": "https:\/\/www.flickr.com\/photos\/adamculp\/24834461270\/",
                 "credit": "Adam Culp"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/45898655611\/",
+                "credit": "Tim Bond"
             }
         ],
-        "description": "<p>Produced by the HHVM\/Hack team at Facebook. It has not been released\npublicly. It has an HHVM logo in place of the PHP logo.<\/p>\n\n<p>The pHackyderm has several features that distinguish it from an elephpant including\nan articulated trunk, robotic eye, and boots.<\/p>\n"
+        "description": "<p>Produced by the HHVM\/Hack team at Facebook. It has not been released\npublicly. It has a HHVM logo in place of the PHP logo. Three prototypes have\nbeen produced followed by 500 which will not be available for sale.<\/p>\n\n<p>The pHackyderm has several features that distinguish it from an elephpant including\nan articulated trunk, robotic eye, and boots.<\/p>\n\n<p>The first prototype is named Steve, and the second Steven. All have the HHVM\nplate on the obverse side. The initial prototype has a blank reverse, but the\nlater protypes and production pHackyderms will have the Hack logo and text on\nthe reverse side.<\/p>\n"
     }
 }
