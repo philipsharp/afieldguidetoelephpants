@@ -43,9 +43,6 @@ subspecies:
     phparch:
         common: "PHP|Architect"
         latin: "architecti"
-    phpce:
-        common: "phpCE"
-        latin: "europacentralis"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
