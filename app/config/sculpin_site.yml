@@ -19,6 +19,9 @@ subspecies:
     confoo:
         common: "ConFoo"
         latin: "fooianum"
+    darkmira:
+        common: "Darkmira PHP Tour"
+        latin: "unitas"
     dpc:
         common: "Dutch PHP Conference"
         latin: "batavici"
