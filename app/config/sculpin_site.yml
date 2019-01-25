@@ -43,6 +43,9 @@ subspecies:
     phparch:
         common: "PHP|Architect"
         latin: "architecti"
+    phpbenelux:
+        common: "PHPBenelux"
+        latin: "belgerlandemburgi"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
