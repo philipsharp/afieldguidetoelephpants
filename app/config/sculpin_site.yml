@@ -50,7 +50,7 @@ subspecies:
         common: "PHP Women"
         latin: "feminae"
     phpyorkshire:
-        common: "PHP Yorkshire (Jorvik)"
+        common: "PHP Yorkshire"
         latin: "eboraci"
     roave:
         common: "Roave"
