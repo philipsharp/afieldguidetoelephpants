@@ -737,8 +737,25 @@
         "description": "<p>This elephpant was given away to attendees at ZendCon 2018.<\/p>\n"
     },
     "2019-01-25-white-phpbenelux": {
-        "species": "Elephpas hypertextus",
-        "description": "<p>name\n    - Luxy\ncategories:\n    - phpbenelux\ntags:\n    - white\nsponsor: PHPBenelux Conference\nreverse: PHPBenelux Conference logo\/\"10 years of conferences\"\nphotos:\n    -\n        file: white-phpbenelux-0-400x300.jpg\n        link: https:\/\/imgur.com\/WhsDa4q\n        credit: Mark Baker\n    -\n        file: white-phpbenelux-1-400x300.jpg\n        link: https:\/\/imgur.com\/c8zvmdo<\/p>\n\n<h2 id=\"--------credit%3A-mark-baker\">        credit: Mark Baker<\/h2>\n\n<p>This elephpant was released at the 10th PHP Benelux conference in 2019<\/p>\n"
+        "name": "Luxy",
+        "variation": "PHPBenelux",
+        "species": "Elephpas hypertextus belgerlandemburgi",
+        "color": "white",
+        "sponsor": "PHPBenelux Conference",
+        "reverse": "PHPBenelux Conference logo\/\"10 years of conferences\"",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-phpbenelux-0-400x300.jpg",
+                "link": "https:\/\/imgur.com\/WhsDa4q",
+                "credit": "Mark Baker"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-phpbenelux-1-400x300.jpg",
+                "link": "https:\/\/imgur.com\/c8zvmdo",
+                "credit": "Mark Baker"
+            }
+        ],
+        "description": "<p>This elephpant was released at the 10th PHP Benelux conference in 2019<\/p>\n"
     },
     "2019-02-07-yellow-sunshinephp-nexmo": {
         "name": "Sonny",
@@ -759,7 +776,7 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>The elephpant is only available to attendees of the <a href=\"https:\/\/www.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt is identical to the previous Sunshine PHP elephpant except the Nexmo logo\nreplaces the Zend logo, and the fabric has a slightly more orange hue.<\/p>\n"
+        "description": "<p>The elephpant is only available to attendees of the <a href=\"https:\/\/www.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt has a slightly more orange hue than the previous Sunshine PHP elephpant, and the Nexmo logo\nreplaces the Zend logo.<\/p>\n"
     },
     "2015-06-02-brown-truenorthphp": {
         "name": "Molly",
