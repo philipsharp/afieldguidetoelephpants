@@ -6,7 +6,6 @@ tags:
     - white
 sponsor: PHPBenelux Conference
 reverse: PHPBenelux Conference logo/"10 years of conferences"
-=======
 photos:
     -
         file: white-phpbenelux-0-400x300.jpg
