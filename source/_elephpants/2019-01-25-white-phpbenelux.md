@@ -1,5 +1,5 @@
-name
-    - Luxy
+---
+name: Luxy
 categories:
     - phpbenelux
 tags:
