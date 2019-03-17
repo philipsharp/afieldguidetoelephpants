@@ -778,6 +778,15 @@
         ],
         "description": "<p>The elephpant is only available to attendees of the <a href=\"https:\/\/www.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt has a slightly more orange hue than the previous Sunshine PHP elephpant, and the Nexmo logo\nreplaces the Zend logo.<\/p>\n"
     },
+    "2019-06-07-yellow-darkmira": {
+        "name": "Unity",
+        "variation": "Darkmira PHP Tour",
+        "species": "Elephpas hypertextus unitas",
+        "color": "yellow",
+        "sponsor": "Darkmira Tour PHP",
+        "reverse": "Darkmira Tour PHP logo",
+        "description": "\n"
+    },
     "2015-06-02-brown-truenorthphp": {
         "name": "Molly",
         "variation": "PHP Woolly Mammoth",
