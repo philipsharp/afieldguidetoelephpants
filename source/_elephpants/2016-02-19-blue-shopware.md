@@ -2,7 +2,7 @@
 name: Cody Blou
 categories:
     - shopware
-tags:
+colors:
     - blue
 sponsor: shopware AG
 reverse: shopware Logo

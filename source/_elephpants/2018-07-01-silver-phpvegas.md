@@ -1,7 +1,7 @@
 ---
 categories:
     - phpvegas
-tags:
+colors:
     - silver
 sponsor: PHPVegas
 reverse: PHP Vegas Text Logo

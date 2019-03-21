@@ -1,7 +1,7 @@
 ---
 categories:
     - magento
-tags:
+colors:
     - gray
 sponsor: Magento
 reverse: Magento logo

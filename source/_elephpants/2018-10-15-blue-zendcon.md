@@ -2,7 +2,7 @@
 name: Zoe
 categories:
     - zend
-tags:
+colors:
     - blue
 sponsor: Rogue Wave Software
 reverse: Rogue Wave and Zend logos

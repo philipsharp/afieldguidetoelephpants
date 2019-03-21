@@ -1,7 +1,7 @@
 ---
 categories:
     - cakephp
-tags:
+colors:
     - blue
 sponsor: CakePHP
 reverse: CakeFest logo

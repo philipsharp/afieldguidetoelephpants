@@ -1,7 +1,7 @@
 ---
 categories:
     - oracle
-tags:
+colors:
     - blue
 sponsor: Oracle Corporation
 reverse: Oracle logo

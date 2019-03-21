@@ -2,7 +2,7 @@
 name: Hero
 categories:
     - heroku
-tags:
+colors:
     - purple
 sponsor: Heroku
 reverse: Heroku logo with starburst

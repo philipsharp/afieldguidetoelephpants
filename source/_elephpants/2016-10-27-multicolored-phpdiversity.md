@@ -2,7 +2,7 @@
 name: Enfys
 categories:
     - rainbow
-tags:
+colors:
     - multicolored
 sponsor: PHPDiversity
 photos:

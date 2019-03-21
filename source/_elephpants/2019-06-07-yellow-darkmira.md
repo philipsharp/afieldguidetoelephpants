@@ -2,7 +2,7 @@
 name: Unity
 categories:
     - darkmira
-tags:
+colors:
     - yellow
 sponsor: Darkmira Tour PHP
 reverse: Darkmira Tour PHP logo

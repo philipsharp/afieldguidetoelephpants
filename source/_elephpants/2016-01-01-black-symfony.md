@@ -1,7 +1,7 @@
 ---
 categories:
     - symfony
-tags:
+colors:
     - black
 sponsor: Sensio Labs
 reverse: Symfony Framework logo

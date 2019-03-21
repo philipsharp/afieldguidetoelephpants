@@ -1,7 +1,7 @@
 ---
 categories:
     - cakephp
-tags:
+colors:
     - red
 sponsor: CakePHP
 reverse: CakePHP logo

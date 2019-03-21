@@ -1,7 +1,7 @@
 ---
 categories:
     - original
-tags:
+colors:
     - blue
 sponsor: OpenGoodies
 photos:
