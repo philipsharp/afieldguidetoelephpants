@@ -49,6 +49,9 @@ subspecies:
     phpbenelux:
         common: "PHPBenelux"
         latin: "belgerlandemburgi"
+    phpclasses:
+        common: "PHP Classes"
+        latin: "decuria"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
