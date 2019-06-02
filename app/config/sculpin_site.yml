@@ -52,6 +52,9 @@ subspecies:
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
+    phpstorm:
+        common: "PhpStorm"
+        latin: "gagatescerebellum"
     phpwomen:
         common: "PHP Women"
         latin: "feminae"
