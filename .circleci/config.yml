@@ -1,0 +1,43 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/php:7.2.2-cli-stretch
+    steps:
+      - checkout
+      - add_ssh_keys:
+          fingerprints:
+            - "3a:46:24:51:13:96:0d:43:2f:a1:02:1c:17:80:45:36"
+      - run:
+          name: Setup Environment Variables
+          command: echo 'export MASTER_HASH=$(git rev-parse --short master)' >> $BASH_ENV
+      - run:
+          name: Composer Self-Update
+          command: sudo composer self-update
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "composer.lock" }}
+            - v1-dependencies-
+      - run:
+          name: Composer Install
+          command: composer install -n --prefer-dist
+      - save_cache:
+          key: v1-dependencies-{{ checksum "composer.lock" }}
+          paths:
+            - ./vendor
+      - run:
+          name: Sculpin Generate
+          command: vendor/bin/sculpin generate --env=prod
+      - run:
+          name: GitHub Pages Deploy
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              git config --global user.email "philip@kerzap.com"
+              git config --global user.name "Philip Sharp"
+              git checkout gh-pages
+              cp -R output_prod/* .
+              rm -r output_* _* vendor
+              git add --all
+              git commit -m "Build of $MASTER_HASH"
+              git push origin gh-pages
+            fi
