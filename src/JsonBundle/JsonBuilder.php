@@ -27,6 +27,8 @@ class JsonBuilder extends AbstractSource
             }
         }
 
+        ksort($elephpants);
+
         // Create new JSON file with the elephpant data
         $json = new DynamicJsonSource('data/all.json');
         $json->setContent($elephpants);
