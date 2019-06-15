@@ -279,6 +279,27 @@
         ],
         "description": "<p>This elephpant was released in 2016 and is available for sale from <a href=\"https:\/\/shop.confoo.ca\/\">ConFoo<\/a>.<\/p>\n"
     },
+    "2015-06-02-brown-truenorthphp": {
+        "name": "Molly",
+        "variation": "PHP Woolly Mammoth",
+        "species": "Elephpas mammuthus",
+        "color": "brown",
+        "sponsor": "Peter Meth \/ Softer Software",
+        "reverse": "True North PHP logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/brown-truenorthphp-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/24918188561\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/brown-truenorthphp-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/24931999432\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This animal has smaller ears than an elephpant, and tusks. The body of the\nmammoth consists of both plush fur and longer hair.<\/p>\n\n<p>The woolly mammoth was produced as a giveaway for the 2015 <a href=\"http:\/\/truenorthphp.ca\">TrueNorth PHP Conference<\/a> in Toronto, Canada. A <a href=\"https:\/\/www.kickstarter.com\/projects\/1035100786\/truenorth-php-woolly-mammoth-plush-toy\">Kickstarter campaign<\/a> was held to help fund the giveaways.<\/p>\n\n<p>Due to a production delay, the mammoths were not available in time for the conference and were instead distributed to TrueNorth PHP attendees primarily through meetups in and around Toronto. The mammoths were released and started shipping to Kickstarter backers in January 2016.<\/p>\n"
+    },
     "2015-06-08-gold-opengoodies": {
         "variation": "Gold",
         "species": "Elephpas hypertextus auri",
@@ -327,6 +348,26 @@
             }
         ],
         "description": "<p>The newest edition of the pink elephpant. It is produced by OpenGoodies, which succeeded Nexen\/Alter Way as the official producer of elephpants.<\/p>\n\n<p>This edition is distinguished from the previous edition by the OpenGoodies logo on the rear tag.<\/p>\n"
+    },
+    "2015-09-11-gray-hack": {
+        "variation": "pHackyderm",
+        "species": "Elephpas cyberneticus",
+        "color": "gray",
+        "sponsor": "Facebook",
+        "reverse": "Hack logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/adamculp\/24834461270\/",
+                "credit": "Adam Culp"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/45898655611\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>Produced by the HHVM\/Hack team at Facebook. It has not been released\npublicly. It has a HHVM logo in place of the PHP logo. Three prototypes have\nbeen produced followed by 500 which will not be available for sale.<\/p>\n\n<p>The pHackyderm has several features that distinguish it from an elephpant including\nan articulated trunk, robotic eye, and boots.<\/p>\n\n<p>The first prototype is named Steve, the second Steph, and the third and final\nSteven. All have the HHVM plate on the obverse side. The initial prototype has a\nblank reverse, but the later protypes and production pHackyderms will have the\nHack logo and text on the reverse side.<\/p>\n"
     },
     "2015-10-13-multicolored-haphpy": {
         "variation": "HaPHPy",
@@ -786,46 +827,5 @@
         "sponsor": "Darkmira Tour PHP",
         "reverse": "Darkmira Tour PHP logo",
         "description": "\n"
-    },
-    "2015-06-02-brown-truenorthphp": {
-        "name": "Molly",
-        "variation": "PHP Woolly Mammoth",
-        "species": "Elephpas mammuthus",
-        "color": "brown",
-        "sponsor": "Peter Meth \/ Softer Software",
-        "reverse": "True North PHP logo",
-        "photos": [
-            {
-                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/brown-truenorthphp-0-400x300.jpg",
-                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/24918188561\/",
-                "credit": "Tim Bond"
-            },
-            {
-                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/brown-truenorthphp-1-400x300.jpg",
-                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/24931999432\/",
-                "credit": "Tim Bond"
-            }
-        ],
-        "description": "<p>This animal has smaller ears than an elephpant, and tusks. The body of the\nmammoth consists of both plush fur and longer hair.<\/p>\n\n<p>The woolly mammoth was produced as a giveaway for the 2015 <a href=\"http:\/\/truenorthphp.ca\">TrueNorth PHP Conference<\/a> in Toronto, Canada. A <a href=\"https:\/\/www.kickstarter.com\/projects\/1035100786\/truenorth-php-woolly-mammoth-plush-toy\">Kickstarter campaign<\/a> was held to help fund the giveaways.<\/p>\n\n<p>Due to a production delay, the mammoths were not available in time for the conference and were instead distributed to TrueNorth PHP attendees primarily through meetups in and around Toronto. The mammoths were released and started shipping to Kickstarter backers in January 2016.<\/p>\n"
-    },
-    "2015-09-11-gray-hack": {
-        "variation": "pHackyderm",
-        "species": "Elephpas cyberneticus",
-        "color": "gray",
-        "sponsor": "Facebook",
-        "reverse": "Hack logo",
-        "photos": [
-            {
-                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-0-400x300.jpg",
-                "link": "https:\/\/www.flickr.com\/photos\/adamculp\/24834461270\/",
-                "credit": "Adam Culp"
-            },
-            {
-                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-hack-1-400x300.jpg",
-                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/45898655611\/",
-                "credit": "Tim Bond"
-            }
-        ],
-        "description": "<p>Produced by the HHVM\/Hack team at Facebook. It has not been released\npublicly. It has a HHVM logo in place of the PHP logo. Three prototypes have\nbeen produced followed by 500 which will not be available for sale.<\/p>\n\n<p>The pHackyderm has several features that distinguish it from an elephpant including\nan articulated trunk, robotic eye, and boots.<\/p>\n\n<p>The first prototype is named Steve, and the second Steven. All have the HHVM\nplate on the obverse side. The initial prototype has a blank reverse, but the\nlater protypes and production pHackyderms will have the Hack logo and text on\nthe reverse side.<\/p>\n"
     }
 }
