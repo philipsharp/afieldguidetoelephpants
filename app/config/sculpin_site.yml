@@ -16,6 +16,9 @@ subspecies:
     cakephp:
         common: "CakePHP"
         latin: "pistrini"
+    check24:
+        common: "CHECK24"
+        latin: "reprehendovigintiquattuor"
     confoo:
         common: "ConFoo"
         latin: "fooianum"
