@@ -18,7 +18,7 @@ subspecies:
         latin: "pistrini"
     check24:
         common: "CHECK24"
-        latin: "reprehendovigintiquattuor"
+        latin: "collationis"
     confoo:
         common: "ConFoo"
         latin: "fooianum"
