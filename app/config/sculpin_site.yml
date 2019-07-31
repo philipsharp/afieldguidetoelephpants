@@ -37,6 +37,9 @@ subspecies:
     laravel:
         common: "Laravel"
         latin: "laraveli"
+    linuxforphp:
+        common: "Linux for PHP"
+        latin: "linuxi"
     magento:
         common: "Magento"
         latin: "mercatoris"
