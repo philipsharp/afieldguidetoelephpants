@@ -710,10 +710,17 @@
         "reverse": "PHP Yorkshire logo",
         "photos": [
             {
-                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/phpyorkshire-400-300.png"
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpyorkshire-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/48186250312\/in\/datetaken\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpyorkshire-2-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/48186190461\/in\/datetaken\/",
+                "credit": "Tim Bond"
             }
         ],
-        "description": "<p>This elephpant will be available at PHP Yorkshire 2018<\/p>\n"
+        "description": "<p>This elephpant was available at the 2018 PHP Yorkshire conference<\/p>\n"
     },
     "2018-05-30-purple-php-roundtable": {
         "name": "Pollita (in honor of Sara Golemon)",
