@@ -819,6 +819,14 @@
         ],
         "description": "<p>The elephpant is only available to attendees of the <a href=\"https:\/\/www.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt has a slightly more orange hue than the previous Sunshine PHP elephpant, and the Nexmo logo\nreplaces the Zend logo.<\/p>\n"
     },
+    "2019-05-14-black-phpstor": {
+        "variation": "PhpStorm",
+        "species": "Elephpas hypertextus gagatescerebellum",
+        "color": "black",
+        "sponsor": "JetBrains",
+        "reverse": "Unknown",
+        "description": "<p>Provided to the most active participants in the PhpStorm Early Access Program<\/p>\n"
+    },
     "2019-06-07-yellow-darkmira": {
         "name": "Unity",
         "variation": "Darkmira PHP Tour",
