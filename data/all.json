@@ -851,5 +851,12 @@
         "sponsor": "Darkmira Tour PHP",
         "reverse": "Darkmira Tour PHP logo",
         "description": "\n"
+    },
+    "2019-07-31-blue-linuxforphp": {
+        "variation": "Linux for PHP",
+        "species": "Elephpas hypertextus linuxi",
+        "color": "blue",
+        "sponsor": "Linux for PHP",
+        "description": "\n"
     }
 }
