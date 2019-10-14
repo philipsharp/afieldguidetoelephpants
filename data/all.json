@@ -896,6 +896,27 @@
         ],
         "description": "<p>This elePHPant was produced by a Brasilian manufacturer and was available to\nattendees of the <a href=\"https:\/\/php.darkmiratour.rocks\/\">Darkmira PHP Tour<\/a>.<\/p>\n"
     },
+    "2019-07-04-blue-check24": {
+        "name": "JePHPry",
+        "variation": "CHECK24",
+        "species": "Elephpas hypertextus collationis",
+        "color": "blue",
+        "sponsor": "CHECK24",
+        "reverse": "CHECK24 logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-check24-0-400x300.jpg",
+                "link": "https:\/\/pbs.twimg.com\/media\/EG3b14uWkAEp-5K?format=jpg&name=large",
+                "credit": "CHECK24"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-check24-1-400x300.jpg",
+                "link": "https:\/\/pbs.twimg.com\/media\/EG3b14uW4AAijZ5?format=jpg&name=large",
+                "credit": "CHECK24"
+            }
+        ],
+        "description": "<p>This elephant will be distributed primarily to <a href=\"https:\/\/www.check24.de\">CHECK24<\/a> and community members.\nJePHPry has its own Twitter account at <a href=\"https:\/\/twitter.com\/CHECK24_JePHPry\">@CHECK24_JePHPry<\/a>.<\/p>\n"
+    },
     "2019-07-31-blue-linuxforphp": {
         "variation": "Linux for PHP",
         "species": "Elephpas hypertextus linuxi",
