@@ -827,6 +827,15 @@
         "reverse": "Unknown",
         "description": "<p>Provided to the most active participants in the PhpStorm Early Access Program<\/p>\n"
     },
+    "2019-05-23-pink-shopware": {
+        "name": "Cody Vuelette",
+        "variation": "Shopware",
+        "species": "Elephpas hypertextus shopwari",
+        "color": "pink",
+        "sponsor": "shopware AG",
+        "reverse": "shopware Logo",
+        "description": "<p>Announced at Shopware Community Day 2019<\/p>\n"
+    },
     "2019-06-07-yellow-darkmira": {
         "name": "Unity",
         "variation": "Darkmira PHP Tour",
