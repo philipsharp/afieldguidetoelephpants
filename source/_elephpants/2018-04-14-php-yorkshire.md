@@ -7,7 +7,13 @@ tags:
 sponsor: PHP Yorkshire conference
 reverse: PHP Yorkshire logo
 photos:
--
-        file: phpyorkshire-400-300.png
+    -
+        file: blue-phpyorkshire-1-400x300.jpg
+        link: https://www.flickr.com/photos/atomictaco/48186250312/in/datetaken/
+        credit: Tim Bond
+    -
+        file: blue-phpyorkshire-2-400x300.jpg
+        link: https://www.flickr.com/photos/atomictaco/48186190461/in/datetaken/
+        credit: Tim Bond
 ---
-This elephpant will be available at PHP Yorkshire 2018
+This elephpant was available at the 2018 PHP Yorkshire conference
