@@ -850,7 +850,19 @@
         "color": "yellow",
         "sponsor": "Darkmira Tour PHP",
         "reverse": "Darkmira Tour PHP logo",
-        "description": "\n"
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/yellow-darkmira-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/48746702583\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/yellow-darkmira-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/48747217772\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant was produced by a Brasilian manufacturer and was available to\nattendees of the <a href=\"https:\/\/php.darkmiratour.rocks\/\">Darkmira PHP Tour<\/a>.<\/p>\n"
     },
     "2019-07-31-blue-linuxforphp": {
         "variation": "Linux for PHP",
