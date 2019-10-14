@@ -796,6 +796,26 @@
         ],
         "description": "<p>This elephpant was given away to attendees at ZendCon 2018.<\/p>\n"
     },
+    "2019-01-07-blue-php-classes": {
+        "variation": "PHP Classes",
+        "species": "Elephpas hypertextus decuriae",
+        "color": "blue",
+        "sponsor": "PHP Classes",
+        "reverse": "Blank",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpclasses-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/46989853155\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpclasses-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/47853861202\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>Available for sale on the <a href=\"https:\/\/www.phpclasses.org\/shop\/category\/ms\/\">PHP Classes website<\/a>.\nFirst officially-licensed elePHPant to have sewn eyes<\/p>\n"
+    },
     "2019-01-25-white-phpbenelux": {
         "name": "Luxy",
         "variation": "PHPBenelux",
