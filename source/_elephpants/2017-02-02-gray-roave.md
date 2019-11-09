@@ -2,7 +2,7 @@
 name: Chloe
 categories:
     - roave
-tags:
+colors:
     - gray
 sponsor: Roave
 reverse: Roave logo

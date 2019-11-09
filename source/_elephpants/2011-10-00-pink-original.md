@@ -1,7 +1,7 @@
 ---
 categories:
     - original
-tags:
+colors:
     - pink
 sponsor: Alter Way
 photos:

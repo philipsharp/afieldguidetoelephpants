@@ -1,7 +1,7 @@
 ---
 categories:
     - truenorthphp
-tags:
+colors:
     - brown
 name: Molly
 sponsor: Peter Meth / Softer Software

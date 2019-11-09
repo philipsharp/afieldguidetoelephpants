@@ -1,7 +1,7 @@
 ---
 categories:
     - zend
-tags:
+colors:
     - blue
 sponsor: Rogue Wave Software
 reverse: Rogue Wave/Zend logo

@@ -2,7 +2,7 @@
 name: Luxy
 categories:
     - phpbenelux
-tags:
+colors:
     - white
 sponsor: PHPBenelux Conference
 reverse: PHPBenelux Conference logo/"10 years of conferences"

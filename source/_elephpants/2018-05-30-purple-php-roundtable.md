@@ -2,7 +2,7 @@
 name: Pollita (in honor of Sara Golemon)
 categories:
     - phproundtable
-tags:
+colors:
     - purple
 sponsor: PHP Roundtable Podcast
 reverse: PHP Roundtable logo

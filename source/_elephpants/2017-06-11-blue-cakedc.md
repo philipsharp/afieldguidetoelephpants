@@ -1,7 +1,7 @@
 ---
 categories:
     - cakephp
-tags:
+colors:
     - blue
 sponsor: Cake Development Corporation
 reverse: CakeDC logo

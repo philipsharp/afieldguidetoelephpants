@@ -2,7 +2,7 @@
 name: Sonny
 categories:
     - sunshinephp
-tags:
+colors:
     - yellow
 sponsor: Sunshine PHP Conference, Nexmo
 reverse: Sunshine PHP logo, Nexmo logo

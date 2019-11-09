@@ -1,7 +1,7 @@
 ---
 categories:
     - cakephp
-tags:
+colors:
     - yellow
 sponsor: CakePHP
 reverse: Cake Software Foundation logo

@@ -2,7 +2,7 @@
 name: Jorvik
 categories:
     - phpyorkshire
-tags:
+colors:
     - blue
 sponsor: PHP Yorkshire conference
 reverse: PHP Yorkshire logo

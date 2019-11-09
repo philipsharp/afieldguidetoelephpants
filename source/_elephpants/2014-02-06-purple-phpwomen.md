@@ -2,7 +2,7 @@
 name: Umoja
 categories:
     - phpwomen
-tags:
+colors:
     - purple
 sponsor: PHP Women
 reverse: PHP Women logo

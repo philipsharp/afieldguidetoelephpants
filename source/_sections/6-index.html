@@ -2,13 +2,13 @@
 title: Index
 slug: index
 use:
-    - elephpants_tags
-    - others_tags
+    - elephpants_colors
+    - others_colors
 ---
 
 <p><strong>By Color and Year</strong></p>
 
-{% set animals = data.elephpants_tags|merge_recursive(data.others_tags) %}
+{% set animals = data.elephpants_colors|merge_recursive(data.others_colors) %}
 {% set colors = animals|keys|sort %}
 
 {% for color in colors %}

@@ -1,7 +1,7 @@
 ---
 categories:
     - haphpy
-tags:
+colors:
     - multicolored
 sponsor: Association Française des Utilisateurs de PHP (AFUP) - French PHP User Group
 photos:

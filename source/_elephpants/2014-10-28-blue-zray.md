@@ -1,7 +1,7 @@
 ---
 categories:
     - zend
-tags:
+colors:
     - blue
 sponsor: Zend Technologies
 reverse: Zend logo
