@@ -61,6 +61,9 @@ subspecies:
     phppl:
         common: "PHPCon Poland"
         latin: "polski"
+    phpconjapan:
+        common: "PHPCON Japan"
+        latin: "colloquiumiapona"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
