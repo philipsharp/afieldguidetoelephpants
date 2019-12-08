@@ -61,6 +61,9 @@ subspecies:
     phppl:
         common: "PHPCon Poland"
         latin: "polski"
+    phpers:
+        common: "PHPers Summit"
+        latin: "summum"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
