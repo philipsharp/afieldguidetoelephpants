@@ -58,6 +58,9 @@ subspecies:
     phpclasses:
         common: "PHP Classes"
         latin: "decuriae"
+    phppl:
+        common: "PHPCon Poland"
+        latin: "polski"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
