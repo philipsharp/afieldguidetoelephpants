@@ -918,10 +918,23 @@
         "description": "<p>This elephant will be distributed primarily to <a href=\"https:\/\/www.check24.de\">CHECK24<\/a> and community members.\nJePHPry has its own Twitter account at <a href=\"https:\/\/twitter.com\/CHECK24_JePHPry\">@CHECK24_JePHPry<\/a>.<\/p>\n"
     },
     "2019-07-31-blue-linuxforphp": {
+        "name": "Cloudy",
         "variation": "Linux for PHP",
         "species": "Elephpas hypertextus linuxi",
         "color": "blue",
         "sponsor": "Linux for PHP",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-blue-linuxforphp-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49112967193\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-blue-linuxforphp-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49113478011\/",
+                "credit": "Tim Bond"
+            }
+        ],
         "description": "\n"
     }
 }
