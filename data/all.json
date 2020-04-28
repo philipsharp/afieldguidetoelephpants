@@ -937,6 +937,26 @@
         ],
         "description": "\n"
     },
+    "2019-10-03-red-phpcon-polan": {
+        "name": "Janusz",
+        "variation": "PHPCon Poland",
+        "species": "Elephpas hypertextus polski",
+        "color": "red",
+        "sponsor": "PHPCon Poland",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-phpcon-poland-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49377325586\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-phpcon-poland-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49377524072\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant was available to attendees of PHPCon Poland 2019<\/p>\n"
+    },
     "2019-11-15-gray-symfony": {
         "variation": "Symfony",
         "species": "Elephpas hypertextus symphoniae",
