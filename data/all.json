@@ -936,5 +936,25 @@
             }
         ],
         "description": "\n"
+    },
+    "2019-11-15-gray-symfony": {
+        "variation": "Symfony",
+        "species": "Elephpas hypertextus symphoniae",
+        "color": "gray",
+        "sponsor": "Sensio Labs",
+        "reverse": "Symfony Framework logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-symfony-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49410535306\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-symfony-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49410535386\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elephpant has been sold at Symfony-related events starting in 2019.<\/p>\n"
     }
 }
