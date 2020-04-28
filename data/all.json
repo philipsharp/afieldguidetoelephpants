@@ -604,13 +604,25 @@
         ],
         "description": "<p>This elephpant is available to CakeDC's clients and at events that CakeDC sponsors.<\/p>\n"
     },
-    "2017-06-11-blue-cakefest": {
+    "2017-06-11-green-cakefest": {
         "variation": "CakePHP",
         "species": "Elephpas hypertextus pistrini",
         "color": "blue",
         "sponsor": "CakePHP",
         "reverse": "CakeFest logo",
-        "description": "<p>Announced at CakeFest 2017, these will be made available to future CakeFest attendees.<\/p>\n"
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/green-cakefest-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49376361053\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/green-cakefest-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49377017967\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>Announced at CakeFest 2017, these are available to CakeFest attendees.<\/p>\n"
     },
     "2017-06-11-red-cakephp": {
         "variation": "CakePHP",
