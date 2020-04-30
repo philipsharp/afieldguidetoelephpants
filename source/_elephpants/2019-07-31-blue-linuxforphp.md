@@ -5,7 +5,7 @@ categories:
 tags:
     - blue
 sponsor: Linux for PHP
-‏reverse: Linux for PHP‏ logo
+reverse: Linux for PHP logo
 photos:
     -
         file: blue-blue-linuxforphp-0-400x300.jpg
