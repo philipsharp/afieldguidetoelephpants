@@ -91,6 +91,9 @@ subspecies:
     symfony:
         common: "Symfony"
         latin: "symphoniae"
+    upinside:
+        common: "Upinside"
+        latin: "intusautemi"
     zend:
         common: "Zend"
         latin: "zeevandi"
