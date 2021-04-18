@@ -58,6 +58,9 @@ subspecies:
     phpclasses:
         common: "PHP Classes"
         latin: "decuriae"
+    phpday:
+        common: "phpday"
+        latin: "diei"
     phppl:
         common: "PHPCon Poland"
         latin: "polski"
