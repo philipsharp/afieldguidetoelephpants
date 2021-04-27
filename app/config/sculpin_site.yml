@@ -16,6 +16,9 @@ subspecies:
     cakephp:
         common: "CakePHP"
         latin: "pistrini"
+    check24:
+        common: "CHECK24"
+        latin: "collationis"
     confoo:
         common: "ConFoo"
         latin: "fooianum"
@@ -52,6 +55,15 @@ subspecies:
     phpbenelux:
         common: "PHPBenelux"
         latin: "belgerlandemburgi"
+    phpclasses:
+        common: "PHP Classes"
+        latin: "decuriae"
+    phppl:
+        common: "PHPCon Poland"
+        latin: "polski"
+    phpconjapan:
+        common: "PHPCON Japan"
+        latin: "colloquiumiapona"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
