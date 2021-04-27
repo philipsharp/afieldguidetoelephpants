@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/php:7.2.2-cli-stretch
+      - image: cimg/php:7.4.16
     steps:
       - checkout
       - add_ssh_keys:
