@@ -988,5 +988,25 @@
             }
         ],
         "description": "<p>This elephpant has been sold at Symfony-related events starting in 2019.<\/p>\n"
+    },
+    "2019-11-21-white-phpconjapan": {
+        "variation": "PHPCON Japan",
+        "species": "Elephpas hypertextus colloquiumiapona",
+        "color": "white",
+        "sponsor": "PHPCON Japan",
+        "reverse": "PHPCON Japan",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-phpcon-japan-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49377325371\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-phpcon-japan-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49377524012\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>Commemorating the 20th PHP conference, this elePHPant was available to attendees\nof PHP Conference Japan 2019.<\/p>\n"
     }
 }
