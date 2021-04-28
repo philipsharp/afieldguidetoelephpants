@@ -67,6 +67,9 @@ subspecies:
     phpconjapan:
         common: "PHPCON Japan"
         latin: "colloquiumiapona"
+    phpers:
+        common: "PHPers Summit"
+        latin: "summum"
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
