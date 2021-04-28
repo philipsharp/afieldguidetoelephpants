@@ -935,6 +935,7 @@
         "species": "Elephpas hypertextus linuxi",
         "color": "blue",
         "sponsor": "Linux for PHP",
+        "reverse": "Linux for PHP logo",
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-blue-linuxforphp-0-400x300.jpg",
@@ -955,6 +956,7 @@
         "species": "Elephpas hypertextus polski",
         "color": "red",
         "sponsor": "PHPCon Poland",
+        "reverse": "PHPCon Poland logo",
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-phpcon-poland-0-400x300.jpg",
