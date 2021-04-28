@@ -5,7 +5,7 @@ tags:
     - red
 name: Janusz
 sponsor: PHPCon Poland
-‏reverse: PHPCon Poland logo
+reverse: PHPCon Poland logo
 photos:
     -
         file: red-phpcon-poland-0-400x300.jpg
