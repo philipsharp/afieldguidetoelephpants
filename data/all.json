@@ -1009,6 +1009,27 @@
         ],
         "description": "<p>Commemorating the 20th PHP conference, this elePHPant was available to attendees\nof PHP Conference Japan 2019.<\/p>\n"
     },
+    "2020-09-18-multicolored-phpday": {
+        "name": "Aida",
+        "variation": "phpday",
+        "species": "Elephpas hypertextus diei",
+        "color": "multicolored",
+        "sponsor": "GrUSP\/phpday",
+        "reverse": "phpday logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/multicolored-phpday-0-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/2a6qJzU.jpg",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/multicolored-phpday-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/f3bPi6Q.jpg",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elephpant is green, white, and red like the flag of Italy and was produced\nby GrUSP and is available for sale \n<a href=\"https:\/\/shop.grusp.org\/product\/aida-phpday-elephpant\/\">in the GrUSP store<\/a><\/p>\n"
+    },
     "2020-10-23-gray-symfony": {
         "variation": "Symfony",
         "species": "Elephpas hypertextus symphoniae",
