@@ -1034,5 +1034,13 @@
         "color": "blue",
         "sponsor": "OpenGoodies",
         "description": "<p>To celebrate the PHP8.0 release the original creators of the elePHPant, Damien\nSeguy and Vincent Pontier created inPHPinity, a Community Driven Elephpant.  It\ncan be purchased <a href=\"http:\/\/inphpinity.elephpant.com\/\">here<\/a><\/p>\n"
+    },
+    "2020-12-07-pink-php-classes": {
+        "variation": "PHP Classes",
+        "species": "Elephpas hypertextus decuriae",
+        "color": "pink",
+        "sponsor": "PHP Classes",
+        "reverse": "Blank",
+        "description": "<p>Available for sale on the <a href=\"https:\/\/www.phpclasses.org\/shop\/category\/ms\/\">PHP Classes website<\/a>.<\/p>\n"
     }
 }
