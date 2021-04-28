@@ -1,6 +1,9 @@
 version: 2
 jobs:
   build:
+    branches:
+      only:
+      - master
     docker:
       - image: cimg/php:7.4.16
     steps:
