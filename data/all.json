@@ -870,6 +870,26 @@
         ],
         "description": "<p>The elephpant is only available to attendees of the <a href=\"https:\/\/www.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt has a slightly more orange hue than the previous Sunshine PHP elephpant, and the Nexmo logo\nreplaces the Zend logo.<\/p>\n"
     },
+    "2019-02-18-white-phpers": {
+        "variation": "PHPers Summit",
+        "species": "Elephpas hypertextus summum",
+        "color": "white",
+        "sponsor": "PHPers Summit",
+        "reverse": "phpers logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-phpers-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49834283828\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-phpers-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/49835128682\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant was available to attendees of the PHPers Summit 2019<\/p>\n"
+    },
     "2019-05-14-black-phpstor": {
         "variation": "PhpStorm",
         "species": "Elephpas hypertextus gagatescerebellum",
