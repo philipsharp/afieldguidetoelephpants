@@ -1043,6 +1043,26 @@
         ],
         "description": "<p>Commemorating the 20th PHP conference, this elePHPant was available to attendees\nof PHP Conference Japan 2019.<\/p>\n"
     },
+    "2020-05-25-black-upinside": {
+        "variation": "Upinside",
+        "species": "Elephpas hypertextus intusautemi",
+        "color": "black",
+        "sponsor": "Upinside",
+        "reverse": "Upinside logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-upinside-0-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/BtKolTy.jpg",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-upinside-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/jbsfWNf.jpg",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant is available from the <a href=\"https:\/\/www.upinside.com.br\/\">Upinside School<\/a><\/p>\n"
+    },
     "2020-09-18-multicolored-phpday": {
         "name": "Aida",
         "variation": "phpday",
