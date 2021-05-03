@@ -1063,6 +1063,15 @@
         ],
         "description": "<p>This elePHPant is available from the <a href=\"https:\/\/www.upinside.com.br\/\">Upinside School<\/a><\/p>\n"
     },
+    "2020-09-14-blue-confoo": {
+        "name": "Le Foo du Roi \"The Joker\"",
+        "variation": "ConFoo",
+        "species": "Elephpas hypertextus fooianum",
+        "color": "blue",
+        "sponsor": "ConFoo",
+        "reverse": "ConFoo.ca logo",
+        "description": "<p>This elephpant was announced in 2020 to celebrate the release of PHP 8.  It\nfeatures a jester's hat on its head, giving to the name <em>Le Foo du Roi<\/em> meaning\n\"The King's Foo\" in French.  It can be purchased in the\n<a href=\"https:\/\/shop.confoo.ca\/toys\">ConFoo store<\/a><\/p>\n"
+    },
     "2020-09-18-multicolored-phpday": {
         "name": "Aida",
         "variation": "phpday",
