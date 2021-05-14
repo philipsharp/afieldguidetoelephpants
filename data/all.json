@@ -891,12 +891,8 @@
         "description": "<p>This elePHPant was available to attendees of the PHPers Summit 2019<\/p>\n"
     },
     "2019-05-14-black-phpstor": {
-        "variation": "PhpStorm",
-        "species": "Elephpas hypertextus gagatescerebellum",
-        "color": "black",
-        "sponsor": "JetBrains",
-        "reverse": "PhpStorm logo",
-        "description": "<p>Provided to the most active participants in the PhpStorm Early Access Program<\/p>\n"
+        "species": "Elephpas hypertextus",
+        "description": "<hr \/>\n\n<p>categories:\n    - phpstorm\ntags:\n    - black\nsponsor: JetBrains<\/p>\n\n<h1 id=\"reverse%3A-phpstorm-logo\">reverse: PhpStorm logo<\/h1>\n\n<p>photos:\n    -\n        file: black-phpstorm-0-400x300.jpg\n        link: https:\/\/i.imgur.com\/sca1Hds.jpg\n        credit: Tim Bond\n    -\n        file: black-phpstorm-1-400x300.jpg\n        link: https:\/\/i.imgur.com\/9rhENmz.jpg<\/p>\n\n<h2 id=\"--------credit%3A-tim-bond\">        credit: Tim Bond<\/h2>\n\n<p>Provided to the most active participants in the PhpStorm Early Access Program<\/p>\n"
     },
     "2019-05-23-pink-shopware": {
         "name": "Cody Vuelette",
