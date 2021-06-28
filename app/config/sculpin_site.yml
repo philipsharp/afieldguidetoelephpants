@@ -28,6 +28,9 @@ subspecies:
     dpc:
         common: "Dutch PHP Conference"
         latin: "batavici"
+    exakat:
+        common: "Exakat"
+        latin: "duodeviginti"
     gold:
         common: "Gold"
         latin: "auri"
