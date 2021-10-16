@@ -46,6 +46,9 @@ subspecies:
     magento:
         common: "Magento"
         latin: "mercatoris"
+    mollie:
+        common: "Mollie"
+        latin: "expensum"
     oracle:
         common: "Oracle"
         latin: "oraculi"
