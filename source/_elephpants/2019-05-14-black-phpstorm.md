@@ -5,7 +5,6 @@ tags:
     - black
 sponsor: JetBrains
 reverse: PhpStorm logo
-=======
 photos:
     -
         file: black-phpstorm-0-400x300.jpg
