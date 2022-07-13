@@ -6,8 +6,10 @@ tags:
 sponsor: Kellerkinder
 photos:
     -
-        file: blue-original-0-400x300.jpg
-        link: https://www.flickr.com/photos/drewm/3192714526/
-        credit: Drew McLellan
+        file: kellerkinder-0-400x300.jpg
+        credit: Damien Seguy
+    -
+        file: kellerkinder-1-400x300.jpg
+        credit: Damien Seguy
 ---
 The original elephpant from die Kellerkinder, a German expertise company. It was born in 2020.
