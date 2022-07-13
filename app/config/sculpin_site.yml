@@ -37,6 +37,9 @@ subspecies:
     heroku:
         common: "Heroku"
         latin: "herokai"
+    kellerkinder:
+        common: "Kellerkinder"
+        latin: "fundamentum liberos"
     laravel:
         common: "Laravel"
         latin: "laraveli"
