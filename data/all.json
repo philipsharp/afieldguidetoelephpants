@@ -1193,5 +1193,13 @@
             }
         ],
         "description": "<p>The elephpant has so far only been gifted by Kellerkinder to community members \nand give aways via their twitter account <a href=\"https:\/\/twitter.com\/kellerkinderde\">@kellerkinderDE<\/a>.<\/p>\n"
+    },
+    "2021-10-15-black-mollie": {
+        "variation": "Mollie",
+        "species": "Elephpas hypertextus expensum",
+        "color": "black",
+        "sponsor": "Mollie",
+        "reverse": "Mollie logo",
+        "description": "\n"
     }
 }
