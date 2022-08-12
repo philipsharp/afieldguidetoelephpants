@@ -1146,10 +1146,24 @@
         ],
         "description": "<p>Created by the website hosting company <a href=\"https:\/\/www.siteground.com\">SiteGround<\/a> to celebrate the release of PHP 8 with PHP enthusiasts. His uniqueness comes with different-colored feet and ears. SiteGround uses him to giving away for PHP quizzes, raffles, and events.<\/p>\n"
     },
-    "2020-11-28-php8-opengoodies": {
-        "species": "Elephpas hypertextus",
+    "2020-11-28-php8-exakat": {
+        "variation": "Exakat",
+        "species": "Elephpas hypertextus duodeviginti",
         "color": "blue",
-        "sponsor": "OpenGoodies",
+        "sponsor": "Exakat",
+        "reverse": "Blank",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-exakat-0-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/QPGboXJ.jpg",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-exakat-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/WLbKsya.jpg",
+                "credit": "Tim Bond"
+            }
+        ],
         "description": "<p>To celebrate the PHP8.0 release the original creators of the elePHPant, Damien\nSeguy and Vincent Pontier created inPHPinity, a Community Driven Elephpant.  It\ncan be purchased <a href=\"http:\/\/inphpinity.elephpant.com\/\">here<\/a><\/p>\n"
     },
     "2020-12-07-pink-php-classes": {
