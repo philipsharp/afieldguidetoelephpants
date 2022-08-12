@@ -94,6 +94,9 @@ subspecies:
     rainbow:
         common: "Rainbow"
         latin: "arcus"
+    siteground:
+        common: "SiteGround"
+        latin: "hostinkus"
     shopware:
         common: "Shopware"
         latin: "shopwari"
