@@ -96,7 +96,7 @@ subspecies:
         latin: "arcus"
     siteground:
         common: "SiteGround"
-        latin: "Elephas hostinkus"
+        latin: "hostinkus"
     shopware:
         common: "Shopware"
         latin: "shopwari"
