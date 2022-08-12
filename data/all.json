@@ -1173,5 +1173,25 @@
         "sponsor": "PHP Classes",
         "reverse": "Blank",
         "description": "<p>Available for sale on the <a href=\"https:\/\/www.phpclasses.org\/shop\/category\/ms\/\">PHP Classes website<\/a>.<\/p>\n"
+    },
+    "2021-09-11-orange-kellerkinder": {
+        "variation": "Kellerkinder",
+        "species": "Elephpas hypertextus fundamentumliberos",
+        "color": "orange",
+        "sponsor": "Kellerkinder",
+        "reverse": "Kellerkinder logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/orange-kellerkinder-0-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/TS0sGD6.jpg",
+                "credit": "doppynl"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/orange-kellerkinder-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/IrkXHHA.jpg",
+                "credit": "doppynl"
+            }
+        ],
+        "description": "<p>The elephpant has so far only been gifted by Kellerkinder to community members \nand give aways via their twitter account <a href=\"https:\/\/twitter.com\/kellerkinderde\">@kellerkinderDE<\/a>.<\/p>\n"
     }
 }
