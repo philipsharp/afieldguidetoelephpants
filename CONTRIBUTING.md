@@ -29,7 +29,24 @@ Contributions are welcome. All changes must be submitted via pull request.
 * When describing a new subspecies, a common name and subspecies name must also
   be added to `app/config/sculpin_site.yml`.
 
-## Images
+### Naming
+* The "common name" is how the elephpant will be referred to by most people. This is
+  is usually the name of the event, group, or company the elephpant was created for.
+* The "subspecies name" is the third part of the full name, after  <em>{{ site.latinname }}</em>.
+  This name is the choice of whomever describes (adds) the subspecies. It should be
+  rendered in Latin. It is typically a direct or indirect translation of the common
+  name or a creative related term.
+  For translation guidance, see: https://en.wikipedia.org/wiki/Specific_name_(zoology) and
+  http://entnemdept.ufl.edu/frank/KISS/kiss24.htm
+* Some individuals are distinct enough from the elephpant that they should be categorized
+  as a separate species. In this case the whole name is specified, e.g. <em>Elephpas mammuthus</em>.
+
+### Descriptions
+* All text should be scientifically accurate.
+* A Field Guide entry is not meant to be an advertisement. For elephpants being sold by
+  the sponsor, a link to an online store is allowed.
+
+### Images
 
 * All photos used must be covered by a Creative Commons licensed that allows re-use.
 * As-of 2016-02-22, photos are stored locally from the `source/photos` directory.
