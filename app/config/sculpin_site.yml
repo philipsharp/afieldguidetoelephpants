@@ -21,7 +21,7 @@ subspecies:
         latin: "collationis"
     cmgt:
         common: "CMGT"
-        latin: "partum media"
+        latin: "partummedia"
     confoo:
         common: "ConFoo"
         latin: "fooianum"
@@ -42,7 +42,7 @@ subspecies:
         latin: "herokai"
     kellerkinder:
         common: "Kellerkinder"
-        latin: "fundamentum liberos"
+        latin: "fundamentumliberos"
     laravel:
         common: "Laravel"
         latin: "laraveli"
