@@ -25,6 +25,9 @@ subspecies:
     darkmira:
         common: "Darkmira PHP Tour"
         latin: "unitas"
+    dlc:
+        common: "Dutch Laravel Foundation"
+        latin: "fundamentum batavica laravel"
     dpc:
         common: "Dutch PHP Conference"
         latin: "batavici"
