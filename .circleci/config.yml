@@ -10,7 +10,7 @@ jobs:
       - checkout
       - add_ssh_keys:
           fingerprints:
-            - "45:da:8a:81:ac:52:cb:68:77:18:07:44:10:9b:10:bb"
+            - "bc:e7:21:97:de:34:ca:7f:38:19:c7:bb:4f:b6:bf:32"
       - run:
           name: Setup Environment Variables
           command: echo 'export MASTER_HASH=$(git rev-parse --short master)' >> $BASH_ENV
