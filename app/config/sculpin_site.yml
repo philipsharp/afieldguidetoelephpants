@@ -112,6 +112,9 @@ subspecies:
     symfony:
         common: "Symfony"
         latin: "symphoniae"
+    symfonycasts:
+        common: "Symfonycasts"
+        latin: "harmonia"
     upinside:
         common: "Upinside"
         latin: "intusautemi"
