@@ -5,7 +5,7 @@ slug: credits
 
 **Editor**
 
-* [Philip Sharp](http://www.philipsharp.com)
+* [Philip Sharp](https://www.philipsharp.com)
 
 **Contributors**
 

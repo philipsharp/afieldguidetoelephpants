@@ -8,11 +8,11 @@ reverse: Symfony Framework logo
 photos:
     -
         file: black-symfony-0-400x300.jpg
-        link: http://imgur.com/hKdmTnK
+        link: https://imgur.com/hKdmTnK
         credit: Benjamin Jonard
     -
         file: black-symfony-1-400x300.jpg
-        link: http://imgur.com/YcdhzfU
+        link: https://imgur.com/YcdhzfU
         credit: Benjamin Jonard
 ---
 

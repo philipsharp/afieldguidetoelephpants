@@ -37,7 +37,7 @@ Contributions are welcome. All changes must be submitted via pull request.
   rendered in Latin. It is typically a direct or indirect translation of the common
   name or a creative related term.
   For translation guidance, see: https://en.wikipedia.org/wiki/Specific_name_(zoology) and
-  http://entnemdept.ufl.edu/frank/KISS/kiss24.htm
+  https://entnemdept.ufl.edu/frank/KISS/kiss24.htm
 * Some individuals are distinct enough from the elephpant that they should be categorized
   as a separate species. In this case the whole name is specified, e.g. <em>Elephpas mammuthus</em>.
 
