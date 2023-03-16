@@ -9,7 +9,7 @@ reverse: shopware Logo
 photos:
     -
         file: blue-shopware-0-400x300.jpg
-        link: http://imgur.com/eDISjV2
+        link: https://i.imgur.com/eDISjV2.jpg
         credit: Dennis Mader
     -
         file: blue-shopware-1-400x300.jpg
