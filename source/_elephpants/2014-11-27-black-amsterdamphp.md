@@ -20,5 +20,3 @@ The colors match the [AmsterdamPHP](https://php.amsterdam/) logo, which in turn
 match the flag and coat of arms of the City of Amsterdam.
 
 The name MurPHPy was kindly given by the organizers of AmsterdamPHP after facing a multitude of troubles during the packing and shipping stages of the campaign.
-
-Currently it's available for sale from the the [AmsterdamPHP Shop](http://amsterdamphp.webshopapp.com/).
