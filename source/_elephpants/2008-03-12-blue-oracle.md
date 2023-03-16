@@ -12,7 +12,7 @@ photos:
         credit: Anna Filina
     -
         file: blue-oracle-1-400x300.jpg
-        link: https://www.ojalehto.eu/elephpants/blue-oracle-1.jpg
+        link: https://web.archive.org/web/20211216005818if_/https://www.ojalehto.eu/elephpants/blue-oracle-1.jpg
         credit: Aki Ojalehto
 ---
 Given to attendees at the 2008 PHP Quebec Conference (now [ConFoo](https://confoo.ca/)),
