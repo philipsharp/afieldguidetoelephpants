@@ -2,7 +2,7 @@
     "name": "philipsharp/afieldguidetoelephpants",
     "description": "Everything you need to know about PHP's elephpant mascot in the wild.",
     "type": "project",
-    "homepage": "http://afieldguidetoelephpants.net",
+    "homepage": "https://afieldguidetoelephpants.net",
     "license": "MIT",
     "support": {
         "source": "https://github.com/philipsharp/afieldguidetoelephpants/"

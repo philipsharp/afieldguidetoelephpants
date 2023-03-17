@@ -9,11 +9,11 @@ reverse: Zend logo
 photos:
     -
         file: white-zend-0-400x300.jpg
-        link: https://www.ojalehto.eu/elephpants/white-zend-elvis-0.jpg
+        link: https://web.archive.org/web/20211216005756if_/https://www.ojalehto.eu/elephpants/white-zend-elvis-0.jpg
         credit: Aki Ojalehto
     -
         file: white-zend-1-400x300.jpg
-        link: https://www.ojalehto.eu/elephpants/white-zend-elvis-1.jpg
+        link: https://web.archive.org/web/20211216005735if_/https://www.ojalehto.eu/elephpants/white-zend-elvis-1.jpg
         credit: Aki Ojalehto
 ---
 This elephpant was given away to attendees at ZendCon 2016.
