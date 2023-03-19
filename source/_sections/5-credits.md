@@ -5,7 +5,11 @@ slug: credits
 
 **Editor**
 
-* [Philip Sharp](http://www.philipsharp.com)
+* [Tim Bond](https://github.com/cookieguru)
+
+**Founding Editor**
+
+* [Philip Sharp](https://github.com/philipsharp)
 
 **Contributors**
 
