@@ -19,6 +19,9 @@ subspecies:
     check24:
         common: "CHECK24"
         latin: "collationis"
+    cmgt:
+        common: "CMGT"
+        latin: "partummedia"
     confoo:
         common: "ConFoo"
         latin: "fooianum"
