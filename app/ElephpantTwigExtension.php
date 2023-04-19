@@ -1,12 +1,15 @@
 <?php
 
-class ElephpantTwigExtension extends Twig_Extension
+use Twig\Extension\AbstractExtension;
+use Twig\TwigFilter;
+
+class ElephpantTwigExtension extends AbstractExtension
 {
     public function getFilters()
     {
         $filters = array(
-             new Twig_SimpleFilter('merge_recursive', [$this, 'filterMergeRecursive']),
-             new Twig_SimpleFilter('sortby', [$this, 'filterSortBy']),
+             new TwigFilter('merge_recursive', [$this, 'filterMergeRecursive']),
+             new TwigFilter('sortby', [$this, 'filterSortBy']),
         );
         return $filters;
     }
