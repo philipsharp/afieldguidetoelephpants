@@ -115,6 +115,9 @@ subspecies:
     upinside:
         common: "Upinside"
         latin: "intusautemi"
+    vonage:
+        common: "Alex"
+        latin: "elephanti hypertext facit quod"
     zend:
         common: "Zend"
         latin: "zeevandi"
