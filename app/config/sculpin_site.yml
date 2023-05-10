@@ -25,6 +25,9 @@ subspecies:
     darkmira:
         common: "Darkmira PHP Tour"
         latin: "unitas"
+    dlf:
+        common: "Dutch Laravel Foundation"
+        latin: "fundamentum batavica laravel"
     dpc:
         common: "Dutch PHP Conference"
         latin: "batavici"
@@ -115,6 +118,9 @@ subspecies:
     upinside:
         common: "Upinside"
         latin: "intusautemi"
+    vonage:
+        common: "Alex"
+        latin: "elephanti hypertext facit quod"
     zend:
         common: "Zend"
         latin: "zeevandi"
