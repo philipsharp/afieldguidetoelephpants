@@ -55,6 +55,9 @@ subspecies:
     mollie:
         common: "Mollie"
         latin: "expensum"
+    notive:
+        common: "Notive"
+        latin: "noti"
     oracle:
         common: "Oracle"
         latin: "oraculi"
