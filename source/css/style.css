@@ -129,6 +129,10 @@ p { margin: 0 0 1em; }
     float: left;
 }
 
+.elephpant .photo.placeholder {
+    filter: grayscale(1) blur(5px) opacity(0.5);
+}
+
 .elephpant .photo img,
 .elephpant .photo .caption {
     display: block;
