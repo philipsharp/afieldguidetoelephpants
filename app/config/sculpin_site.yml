@@ -100,6 +100,9 @@ subspecies:
     haphpy:
         common: "HaPHPy"
         latin: "natalis"
+    ploi:
+        common: "Ploi"
+        latin: "ploium"
     rainbow:
         common: "Rainbow"
         latin: "arcus"
