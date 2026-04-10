@@ -28,6 +28,9 @@ subspecies:
     dpc:
         common: "Dutch PHP Conference"
         latin: "batavici"
+    dlf:
+        common: "Dutch Laravel Foundation"
+        latin: "larafondiotus"
     exakat:
         common: "Exakat"
         latin: "duodeviginti"
