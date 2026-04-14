@@ -61,6 +61,9 @@ subspecies:
     magento:
         common: "Magento"
         latin: "mercatoris"
+    office-partner:
+        common: "Office Partner"
+        latin: "officium socium"
     mollie:
         common: "Mollie"
         latin: "expensum"
