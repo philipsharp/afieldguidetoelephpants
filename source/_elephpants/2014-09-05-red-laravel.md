@@ -18,3 +18,6 @@ photos:
 ---
 
 This elephpant was produced via a [Kickstarter campaign](https://www.kickstarter.com/projects/1560940280/laravel-elephpant). The color matches the [Laravel](http://laravel.com/) logo.
+
+In 2021 a new batch was made available [in the php[architect] store](https://www.phparch.com/swag/)
+
