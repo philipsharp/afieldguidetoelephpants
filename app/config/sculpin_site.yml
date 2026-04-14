@@ -13,6 +13,9 @@ subspecies:
     amsterdamphp:
         common: "AmsterdamPHP"
         latin: "amstelodami"
+    bimaculata:
+        common: "Thelia"
+        latin: "bimaculata"
     cakephp:
         common: "CakePHP"
         latin: "pistrini"
