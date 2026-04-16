@@ -138,9 +138,14 @@
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/orange-phparch-1-400x300.jpg",
                 "link": "https:\/\/www.flickr.com\/photos\/philipsharp\/18289312178\/",
                 "credit": "Philip Sharp"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/orange-phparch-2-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/52752591880\/",
+                "credit": "Tim Bond"
             }
         ],
-        "description": "<p>Originally made available through a <a href=\"https:\/\/www.kickstarter.com\/projects\/eliw\/php-architect-orange-elephpant\">Kickstarter campaign<\/a>.\nThe orange color matches the php[architect] logo.<\/p>\n"
+        "description": "<p>Originally made available through a <a href=\"https:\/\/www.kickstarter.com\/projects\/eliw\/php-architect-orange-elephpant\">Kickstarter campaign<\/a>.\nThe orange color matches the php[architect] logo.<\/p>\n\n<p>In 2021 a new batch was made available <a href=\"https:\/\/www.phparch.com\/swag\/\">in the php[architect] store<\/a> featuring \"I'm a\" above the php[architect] logo<\/p>\n"
     },
     "2014-02-06-purple-phpwomen": {
         "name": "Umoja",
@@ -203,7 +208,7 @@
                 "credit": "Thibault Taillandier"
             }
         ],
-        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1560940280\/laravel-elephpant\">Kickstarter campaign<\/a>. The color matches the <a href=\"http:\/\/laravel.com\/\">Laravel<\/a> logo.<\/p>\n"
+        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1560940280\/laravel-elephpant\">Kickstarter campaign<\/a>. The color matches the <a href=\"http:\/\/laravel.com\/\">Laravel<\/a> logo.<\/p>\n\n<p>In 2021 a new batch was made available <a href=\"https:\/\/www.phparch.com\/swag\/\">in the php[architect] store<\/a><\/p>\n"
     },
     "2014-10-28-blue-apigility": {
         "variation": "Zend",
@@ -1082,6 +1087,18 @@
         "color": "blue",
         "sponsor": "ConFoo",
         "reverse": "ConFoo.ca logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-confoo-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/52752675778\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-confoo-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/52752591845\/",
+                "credit": "Tim Bond"
+            }
+        ],
         "description": "<p>This elephpant was announced in 2020 to celebrate the release of PHP 8.  It\nfeatures a jester's hat on its head, giving to the name <em>Le Foo du Roi<\/em> meaning\n\"The King's Foo\" in French.  It can be purchased in the\n<a href=\"https:\/\/shop.confoo.ca\/toys\">ConFoo store<\/a><\/p>\n"
     },
     "2020-09-18-multicolored-phpday": {
@@ -1213,5 +1230,113 @@
             }
         ],
         "description": "\n"
+    },
+    "2021-12-13-orange-thelia": {
+        "variation": "Thelia",
+        "species": "Elephpas hypertextus bimaculata",
+        "color": "orange",
+        "sponsor": "Thelia",
+        "reverse": "Thelia logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/orange-thelia-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/52752420814\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/orange-thelia-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/52751643932\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elephpant was produced by Thelia, an e-commerce application developer.  It is available for sale on <a href=\"https:\/\/thelia.net\/thelia-elephpant.html\">Thelia's eCommerce site<\/a>.  The color matches the Thelia logo.<\/p>\n"
+    },
+    "2022-05-07-red-blue-officepartner": {
+        "name": "Office partner",
+        "variation": "Office Partner",
+        "species": "Elephpas hypertextus officium socium",
+        "color": "red",
+        "sponsor": "Office Partner",
+        "description": "<p>This elephpant has blue feet, and 2 different designs on the paws : a printer and a drop (of ink)\nOn the right side, there is a mention of OFFICE-partner, and the URL of the home site.<\/p>\n"
+    },
+    "2022-10-03-black-vonage": {
+        "variation": "Alex",
+        "species": "Elephpas hypertextus elephanti hypertext facit quod",
+        "color": "black",
+        "sponsor": "Vonage",
+        "reverse": "Vonage logo",
+        "description": "\n"
+    },
+    "2022-10-04-red-dlf": {
+        "species": "Elephpas hypertextus",
+        "color": "black",
+        "sponsor": "Dutch Laravel Foundation",
+        "reverse": "Dutch Laravel Foundation logo and name",
+        "description": "\n"
+    },
+    "2023-05-04-blue-notive": {
+        "variation": "Notive",
+        "species": "Elephpas hypertextus noti",
+        "color": "blue",
+        "sponsor": "Notive",
+        "reverse": "Notive logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-notive-0-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/dUyHhm8.png",
+                "credit": "Notive"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-notive-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/ocIRw4O.png",
+                "credit": "Notive"
+            }
+        ],
+        "description": "\n"
+    },
+    "2024-03-05-ploi": {
+        "variation": "Ploi",
+        "species": "Elephpas hypertextus ploium",
+        "color": "blue",
+        "sponsor": "Ploi",
+        "reverse": "Ploi logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/ploi-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/1GIWMPw.jpeg",
+                "credit": "Ploi"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/ploi-2-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/hUSeOfK.jpeg",
+                "credit": "Ploi"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/ploi-3-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/sULCjO3.jpeg",
+                "credit": "Ploi"
+            }
+        ],
+        "description": "<p>Once upon a server, in the vast lands of the internet, the Ploi Elephpant was coded into existence. Born from a brainstorm that struck like a lightning bug in a dark room, it quickly became the mascot of innovation and efficiency.\nLegend has it, the Elephpant is made from the same blue pixels that light up our screens during those late-night coding sessions. Its creation was fueled by coffee, good humor, and a dash of PHP magic, making it a rare sight in the wild world of web development.<\/p>\n"
+    },
+    "2024-06-20-red-dlf": {
+        "variation": "Dutch Laravel Foundation",
+        "species": "Elephpas hypertextus fundamentum batavica laravel",
+        "color": "red",
+        "sponsor": "Dutch Laravel Foundation",
+        "reverse": "Dutch Laravel Foundation logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-dlf-0-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/56XvX8G.jpeg",
+                "credit": "William Edwards"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-dlf-1-400x300.jpg",
+                "link": "https:\/\/i.imgur.com\/5bJisBh.jpeg",
+                "credit": "William Edwards"
+            }
+        ],
+        "description": "<p>Available at every Dutch Laravel Foundation (DLF) meetup for visitors and members.<\/p>\n"
     }
 }
