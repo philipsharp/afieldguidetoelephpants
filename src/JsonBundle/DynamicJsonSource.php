@@ -26,7 +26,7 @@ class DynamicJsonSource extends AbstractSource
     /**
      * @param array|mixed $content Content to render as JSON
      */
-    public function setContent($content = null)
+    public function setContent(?string $content = null): void
     {
         parent::setContent($content);
         $this->setFormattedContent(json_encode($content, JSON_PRETTY_PRINT));
