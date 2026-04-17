@@ -127,6 +127,9 @@ subspecies:
     shopware:
         common: "Shopware"
         latin: "shopwari"
+    sylius
+        common: "Sylius"
+        latin: "silvarum"
     symfony:
         common: "Symfony"
         latin: "symphoniae"
