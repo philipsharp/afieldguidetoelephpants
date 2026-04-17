@@ -1,6 +1,5 @@
     <div class="elephpant" id="e-{{ elephpant.categories|join('.') }}-{{ elephpant.tags|join('.') }}-{{ elephpant.date }}">
 
-        {% if elephpant.photos %}
         <div class="row">
             <div class="photos">
             {% for photo in elephpant.photos %}
@@ -19,11 +18,15 @@
                     <div class="caption">by {{ photo.credit }}</div>
                     {% endif %}
                 </div>
+            {% else %}
+                <div class="photo">
+                    <img src="images/elephpant-line-128.png" class="placeholder" alt="Placeholder graphic">
+					<div class="caption">&nbsp;</div>
+                </div>
             {% endfor %}
             </div>
         </div>
-        {% endif %}
-        
+
         {% if elephpant.commonname != "" %}
         <div class="row">
             <div class="box left"><div class="label">Common Name</div></div>

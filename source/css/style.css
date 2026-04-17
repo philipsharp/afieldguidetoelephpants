@@ -136,6 +136,10 @@ p { margin: 0 0 1em; }
     margin: auto;
 }
 
+.elephpant .photo .placeholder {
+    filter: grayscale(1) blur(5px) opacity(0.5);
+}
+
 .elephpant .photo .caption {
     font-size: .6em;
     text-align: right;
