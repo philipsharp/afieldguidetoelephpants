@@ -21,8 +21,7 @@
     },
     "require-dev": {
         "php": "^8.0",
-        "sculpin/sculpin": "^3.2",
-        "dflydev/embedded-composer": "^1.0@dev"
+        "sculpin/sculpin": "^3.2"
     },
     "autoload": {
         "psr-4": {"AFieldGuideToElephpants\\": "src/"}
