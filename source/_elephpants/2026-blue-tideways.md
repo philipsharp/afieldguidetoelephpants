@@ -1,8 +1,10 @@
-layout: elephpant
-title: Tideways ElePHPant
+---
+categories:
+    - tideways
+tags:
+    - blue
 sponsor: Tideways
-color: blue
-year: 2026
-website: https://tideways.com
+reverse: Unknown
+---
 
 The Tideways ElePHPant represents Tideways, a performance monitoring and profiling platform for PHP applications.

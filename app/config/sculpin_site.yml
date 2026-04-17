@@ -112,6 +112,9 @@ subspecies:
     haphpy:
         common: "HaPHPy"
         latin: "natalis"
+    original:
+        common: "Original"
+        latin: "Originale"
     ploi:
         common: "Ploi"
         latin: "ploium"
@@ -127,6 +130,9 @@ subspecies:
     symfony:
         common: "Symfony"
         latin: "symphoniae"
+    tideways:
+        common: "Tideways"
+        latin: "via aestus"
     upinside:
         common: "Upinside"
         latin: "intusautemi"
