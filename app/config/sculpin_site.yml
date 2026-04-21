@@ -52,6 +52,9 @@ subspecies:
     laravel:
         common: "Laravel"
         latin: "laraveli"
+    laraveldk:
+        common: "Laravel Denmark"
+        latin: "laraveli danicae"
     linuxforphp:
         common: "Linux for PHP"
         latin: "linuxi"
