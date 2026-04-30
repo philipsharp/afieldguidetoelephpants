@@ -8,11 +8,11 @@ sponsor: PHPDiversity
 photos:
     -
         file: multicolored-enfys-0-400x300.jpg
-        link: http://i.imgur.com/WESjIcA.jpg
+        link: https://i.imgur.com/WESjIcA.jpg
         credit: Mark Baker
     -
         file: multicolored-enfys-1-400x300.jpg
-        link: http://i.imgur.com/MBBKCPY.jpg
+        link: https://i.imgur.com/MBBKCPY.jpg
         credit: Mark Baker
 ---
 Inspired by a photoshopped image by a Slovenian PHP developer called Peter Kokot.
