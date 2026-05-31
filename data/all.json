@@ -37,11 +37,11 @@
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-oracle-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-oracle-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005818if_\/https:\/\/www.ojalehto.eu\/elephpants\/blue-oracle-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
-        "description": "<p>Given to attendees at the 2008 PHP Quebec Conference (now <a href=\"http:\/\/confoo.ca\">ConFoo<\/a>), \nand also to the attendees of the 2008 php|tek Conference (now <a href=\"https:\/\/tek.phparch.com\/\">php[tek]<\/a>).<\/p>\n"
+        "description": "<p>Given to attendees at the 2008 PHP Quebec Conference (now <a href=\"https:\/\/confoo.ca\/\">ConFoo<\/a>),\nand also to the attendees of the 2008 php|tek Conference (now <a href=\"https:\/\/tek.phparch.com\/\">php[tek]<\/a>).<\/p>\n"
     },
     "2010-11-01-blue-zen": {
         "variation": "Zend",
@@ -52,12 +52,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-zend-0-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-zend-0.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005756if_\/https:\/\/www.ojalehto.eu\/elephpants\/blue-zend-0.jpg",
                 "credit": "Aki Ojalehto"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-zend-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-zend-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005745if_\/https:\/\/www.ojalehto.eu\/elephpants\/blue-zend-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -76,7 +76,7 @@
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/pink-original-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/pink-original-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005829if_\/https:\/\/www.ojalehto.eu\/elephpants\/pink-original-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -100,7 +100,7 @@
                 "credit": "Ben Scholzen"
             }
         ],
-        "description": "<p>The green color matches the <a href=\"http:\/\/framework.zend.com\/\">Zend Framework<\/a> logo.<\/p>\n"
+        "description": "<p>The green color matches the <a href=\"https:\/\/framework.zend.com\/\">Zend Framework<\/a> logo.<\/p>\n"
     },
     "2013-10-07-red-chili": {
         "name": "Chili",
@@ -189,7 +189,7 @@
                 "credit": "Philip Sharp"
             }
         ],
-        "description": "<p>The elephpant was originally designed for the <a href=\"http:\/\/2015.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt was given out to attendees at the conference in 2014 and 2015.<\/p>\n"
+        "description": "<p>The elephpant was originally designed for the <a href=\"https:\/\/web.archive.org\/web\/20150206233417\/https:\/\/2015.sunshinephp.com\/\">Sunshine PHP Conference<\/a>.\nIt was given out to attendees at the conference in 2014 and 2015.<\/p>\n"
     },
     "2014-09-05-red-laravel": {
         "name": "Liona",
@@ -201,16 +201,16 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-laravel-0-400x300.jpg",
-                "link": "http:\/\/wilkins.fr\/elephpants\/IMG_4326.JPG",
+                "link": "https:\/\/www.wilkins.fr\/elephpants\/IMG_4326.JPG",
                 "credit": "Thibault Taillandier"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-laravel-1-400x300.jpg",
-                "link": "http:\/\/wilkins.fr\/elephpants\/IMG_4325.JPG",
+                "link": "https:\/\/www.wilkins.fr\/elephpants\/IMG_4325.JPG",
                 "credit": "Thibault Taillandier"
             }
         ],
-        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1560940280\/laravel-elephpant\">Kickstarter campaign<\/a>. The color matches the <a href=\"http:\/\/laravel.com\/\">Laravel<\/a> logo.<\/p>\n\n<p>In 2021 a new batch was made available <a href=\"https:\/\/www.phparch.com\/swag\/\">in the php[architect] store<\/a><\/p>\n"
+        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/1560940280\/laravel-elephpant\">Kickstarter campaign<\/a>. The color matches the <a href=\"https:\/\/laravel.com\/\">Laravel<\/a> logo.<\/p>\n\n<p>In 2021 a new batch was made available <a href=\"https:\/\/www.phparch.com\/swag\/\">in the php[architect] store<\/a><\/p>\n"
     },
     "2014-10-28-blue-apigility": {
         "variation": "Zend",
@@ -265,7 +265,7 @@
                 "credit": "Marco Rieger"
             }
         ],
-        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/rdohms\/the-amsterdamphp-elephpant\">Kickstarter campaign<\/a>.\nThe colors match the <a href=\"http:\/\/amsterdamphp.nl\/\">AmsterdamPHP<\/a> logo, which in turn\nmatch the flag and coat of arms of the City of Amsterdam.<\/p>\n\n<p>The name MurPHPy was kindly given by the organizers of AmsterdamPHP after facing a multitude of troubles during the packing and shipping stages of the campaign.<\/p>\n\n<p>Currently it's available for sale from the the <a href=\"http:\/\/amsterdamphp.webshopapp.com\/\">AmsterdamPHP Shop<\/a>.<\/p>\n"
+        "description": "<p>This elephpant was produced via a <a href=\"https:\/\/www.kickstarter.com\/projects\/rdohms\/the-amsterdamphp-elephpant\">Kickstarter campaign<\/a>.\nThe colors match the <a href=\"https:\/\/php.amsterdam\/\">AmsterdamPHP<\/a> logo, which in turn\nmatch the flag and coat of arms of the City of Amsterdam.<\/p>\n\n<p>The name MurPHPy was kindly given by the organizers of AmsterdamPHP after facing a multitude of troubles during the packing and shipping stages of the campaign.<\/p>\n"
     },
     "2015-03-05-white-confoo": {
         "name": "Phil Snow",
@@ -305,7 +305,7 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>This animal has smaller ears than an elephpant, and tusks. The body of the\nmammoth consists of both plush fur and longer hair.<\/p>\n\n<p>The woolly mammoth was produced as a giveaway for the 2015 <a href=\"http:\/\/truenorthphp.ca\">TrueNorth PHP Conference<\/a> in Toronto, Canada. A <a href=\"https:\/\/www.kickstarter.com\/projects\/1035100786\/truenorth-php-woolly-mammoth-plush-toy\">Kickstarter campaign<\/a> was held to help fund the giveaways.<\/p>\n\n<p>Due to a production delay, the mammoths were not available in time for the conference and were instead distributed to TrueNorth PHP attendees primarily through meetups in and around Toronto. The mammoths were released and started shipping to Kickstarter backers in January 2016.<\/p>\n"
+        "description": "<p>This animal has smaller ears than an elephpant, and tusks. The body of the\nmammoth consists of both plush fur and longer hair.<\/p>\n\n<p>The woolly mammoth was produced as a giveaway for the 2015 <a href=\"https:\/\/truenorthphp.ca\">TrueNorth PHP Conference<\/a> in Toronto, Canada. A <a href=\"https:\/\/www.kickstarter.com\/projects\/1035100786\/truenorth-php-woolly-mammoth-plush-toy\">Kickstarter campaign<\/a> was held to help fund the giveaways.<\/p>\n\n<p>Due to a production delay, the mammoths were not available in time for the conference and were instead distributed to TrueNorth PHP attendees primarily through meetups in and around Toronto. The mammoths were released and started shipping to Kickstarter backers in January 2016.<\/p>\n"
     },
     "2015-06-08-gold-opengoodies": {
         "variation": "Gold",
@@ -320,7 +320,7 @@
                 "credit": "Adam Culp"
             }
         ],
-        "description": "<p>A true rarity, only one of these elephpants exists in the wild. It was designed by OpenGoodies to celebrate PHP's 20th anniversary on June 8, 2015. After developing the prototype the project was canceled because final production would not be ready in time. The single prototype was put up for auction on <a href=\"http:\/\/www.ebay.com\/itm\/2015-golden-elePHPant-PHP-039-s-20th-birthday-1995-to-2015-\/321776947704\">Ebay<\/a> on the day of the anniversary. The auction was won by Zend Technologies co-founder Zeev Suraski.<\/p>\n\n<p>This is the first elephpant that does not have plush fur. It has a circular disc on the right-rear leg showing the \"Official ElePHPant\" logo.<\/p>\n\n<p>This elephpant has its own Twitter account at <a href=\"https:\/\/twitter.com\/gelephpant\">@gelephpant<\/a>.<\/p>\n"
+        "description": "<p>A true rarity, only one of these elephpants exists in the wild. It was designed by OpenGoodies to celebrate PHP's 20th anniversary on June 8, 2015. After developing the prototype the project was canceled because final production would not be ready in time. The single prototype was put up for auction on <a href=\"https:\/\/web.archive.org\/web\/20151102231504\/https:\/\/www.ebay.com\/itm\/2015-golden-elePHPant-PHP-039-s-20th-birthday-1995-to-2015-\/321776947704\">eBay<\/a> on the day of the anniversary. The auction was won by Zend Technologies co-founder Zeev Suraski.<\/p>\n\n<p>This is the first elephpant that does not have plush fur. It has a circular disc on the right-rear leg showing the \"Official ElePHPant\" logo.<\/p>\n\n<p>This elephpant has its own Twitter account at <a href=\"https:\/\/twitter.com\/gelephpant\">@gelephpant<\/a>.<\/p>\n"
     },
     "2015-06-19-blue-opengoodies": {
         "variation": "Original",
@@ -389,7 +389,7 @@
                 "caption": "."
             }
         ],
-        "description": "<p>This one-of-a-kind elephpant was handcrafted by V. Fanzutti. It has been offered to the Kenya PHP User Group for their contribution for the <a href=\"http:\/\/haphpy-birthday.net\">20th HaPHPy Birthday<\/a>.<\/p>\n"
+        "description": "<p>This one-of-a-kind elephpant was handcrafted by V. Fanzutti. It has been offered to the Kenya PHP User Group for their contribution for the <a href=\"https:\/\/www.haphpy-birthday.net\">20th HaPHPy Birthday<\/a>.<\/p>\n"
     },
     "2015-10-19-teal-zen": {
         "variation": "Zend",
@@ -400,12 +400,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/teal-zend-0-400x300.jpg",
-                "link": "http:\/\/imgur.com\/xJNpiQN",
+                "link": "https:\/\/i.imgur.com\/xJNpiQN.jpg",
                 "credit": "Mark Baker"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/teal-zend-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/teal-zend-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005735if_\/https:\/\/www.ojalehto.eu\/elephpants\/teal-zend-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -420,7 +420,7 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-10-years-0-400x300.jpg",
-                "link": "http:\/\/imgur.com\/jnVQgQV",
+                "link": "https:\/\/i.imgur.com\/jnVQgQV.jpg",
                 "credit": "Mark Baker"
             },
             {
@@ -429,7 +429,7 @@
                 "credit": "Aki Ojalehto"
             }
         ],
-        "description": "<p>This elephpant was designed to celebrate the 10th anniversary of the <a href=\"http:\/\/symfony.com\/\">Symfony Framework<\/a>. Only 300 were available and were sold exclusively at <a href=\"http:\/\/pariscon2015.symfony.com\/\">SymfonyCon 2015<\/a> in Paris.<\/p>\n"
+        "description": "<p>This elephpant was designed to celebrate the 10th anniversary of the <a href=\"https:\/\/symfony.com\/\">Symfony Framework<\/a>. Only 300 were available and were sold exclusively at <a href=\"https:\/\/web.archive.org\/web\/20151208200303\/https:\/\/pariscon2015.symfony.com\/\">SymfonyCon 2015<\/a> in Paris.<\/p>\n"
     },
     "2016-01-01-black-symfony": {
         "variation": "Symfony",
@@ -440,12 +440,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-0-400x300.jpg",
-                "link": "http:\/\/imgur.com\/hKdmTnK",
+                "link": "https:\/\/imgur.com\/hKdmTnK",
                 "credit": "Benjamin Jonard"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-symfony-1-400x300.jpg",
-                "link": "http:\/\/imgur.com\/YcdhzfU",
+                "link": "https:\/\/imgur.com\/YcdhzfU",
                 "credit": "Benjamin Jonard"
             }
         ],
@@ -461,12 +461,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-shopware-0-400x300.jpg",
-                "link": "http:\/\/imgur.com\/eDISjV2",
+                "link": "https:\/\/i.imgur.com\/eDISjV2.jpg",
                 "credit": "Dennis Mader"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-shopware-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-shopware-0.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005807if_\/https:\/\/www.ojalehto.eu\/elephpants\/blue-shopware-0.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -500,12 +500,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-dpc-0-400x300.jpg",
-                "link": "http:\/\/i.imgur.com\/DZvNywx.jpg",
+                "link": "https:\/\/i.imgur.com\/DZvNywx.jpg",
                 "credit": "Mark Baker"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-dpc-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/white-dutch-php-conference-0.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005756if_\/https:\/\/www.ojalehto.eu\/elephpants\/white-dutch-php-conference-0.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -521,12 +521,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-zend-0-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-0.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005756if_\/https:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-0.jpg",
                 "credit": "Aki Ojalehto"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-zend-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005735if_\/https:\/\/www.ojalehto.eu\/elephpants\/white-zend-elvis-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -541,12 +541,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/multicolored-enfys-0-400x300.jpg",
-                "link": "http:\/\/i.imgur.com\/WESjIcA.jpg",
+                "link": "https:\/\/i.imgur.com\/WESjIcA.jpg",
                 "credit": "Mark Baker"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/multicolored-enfys-1-400x300.jpg",
-                "link": "http:\/\/i.imgur.com\/MBBKCPY.jpg",
+                "link": "https:\/\/i.imgur.com\/MBBKCPY.jpg",
                 "credit": "Mark Baker"
             }
         ],
@@ -582,12 +582,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-afup-0-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-afup-0.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005746if_\/https:\/\/www.ojalehto.eu\/elephpants\/blue-afup-0.jpg",
                 "credit": "Aki Ojalehto"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-afup-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/blue-afup-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005735if_\/https:\/\/www.ojalehto.eu\/elephpants\/blue-afup-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -723,12 +723,12 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-magento-0-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/gray-magento-0.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005734if_\/https:\/\/www.ojalehto.eu\/elephpants\/gray-magento-0.jpg",
                 "credit": "Aki Ojalehto"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/gray-magento-1-400x300.jpg",
-                "link": "https:\/\/www.ojalehto.eu\/elephpants\/gray-magento-1.jpg",
+                "link": "https:\/\/web.archive.org\/web\/20211216005745if_\/https:\/\/www.ojalehto.eu\/elephpants\/gray-magento-1.jpg",
                 "credit": "Aki Ojalehto"
             }
         ],
@@ -1185,7 +1185,7 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>To celebrate the PHP8.0 release the original creators of the elePHPant, Damien\nSeguy and Vincent Pontier created inPHPinity, a Community Driven Elephpant.  It\ncan be purchased <a href=\"http:\/\/inphpinity.elephpant.com\/\">here<\/a><\/p>\n"
+        "description": "<p>To celebrate the PHP8.0 release the original creators of the elePHPant, Damien\nSeguy and Vincent Pontier created inPHPinity, a Community Driven Elephpant.  It\ncan be purchased <a href=\"https:\/\/inphpinity.elephpant.com\/\">here<\/a><\/p>\n"
     },
     "2020-12-07-pink-php-classes": {
         "variation": "PHP Classes",
