@@ -1084,6 +1084,26 @@
         ],
         "description": "<p>This elePHPant is available from the <a href=\"https:\/\/www.upinside.com.br\/\">Upinside School<\/a><\/p>\n"
     },
+    "2020-09-06-white-symfonycasts": {
+        "variation": "Symfonycasts",
+        "species": "Elephpas hypertextus harmonia",
+        "color": "white",
+        "sponsor": "SymfonyCasts",
+        "reverse": "SymfonyCasts Logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/sfcasts-white-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/leannapelham\/52745291949\/",
+                "credit": "Leanna Pelham"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/sfcasts-white-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/leannapelham\/52745037496\/",
+                "credit": "Leanna Pelham"
+            }
+        ],
+        "description": "<p>When it comes to watching PHP screencasts, this elephant is a real couch potato. Created with\na Symfonycasts community member, this elephant had a very small run and remains elusive in the wild.<\/p>\n"
+    },
     "2020-09-14-blue-confoo": {
         "name": "Le Foo du Roi \"The Joker\"",
         "variation": "ConFoo",
