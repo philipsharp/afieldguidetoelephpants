@@ -21,7 +21,7 @@
     },
     "require-dev": {
         "php": "^8.0",
-        "sculpin/sculpin": "^3.2"
+        "sculpin/sculpin": "3.3.0-alpha5"
     },
     "autoload": {
         "psr-4": {"AFieldGuideToElephpants\\": "src/"}
