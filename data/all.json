@@ -1385,6 +1385,14 @@
         ],
         "description": "<p>Once upon a server, in the vast lands of the internet, the Ploi Elephpant was coded into existence. Born from a brainstorm that struck like a lightning bug in a dark room, it quickly became the mascot of innovation and efficiency.\nLegend has it, the Elephpant is made from the same blue pixels that light up our screens during those late-night coding sessions. Its creation was fueled by coffee, good humor, and a dash of PHP magic, making it a rare sight in the wild world of web development.<\/p>\n"
     },
+    "2025-09-02-yellow-franekphp": {
+        "variation": "FrankenPHP",
+        "species": "Elephpas monstrum",
+        "color": "yellow",
+        "sponsor": "Les-Tilleuls.coop",
+        "reverse": "FrankenPHP logo",
+        "description": "<p>Known as <em>Le Monstre<\/em>, the FrankenPHP elePHPant was produced when the FrankenPHP\nGitHub repo reached 10 000 stars.  It was available to attendees of various\nconferences in France and is no longer available for distribution.<\/p>\n\n<p>It is slightly larger than a typical elePHPant, features a faux stitched head,\ntusks, and more.<\/p>\n"
+    },
     "2026-04-19-laraveldk": {
         "variation": "Laravel Denmark",
         "species": "Elephpas hypertextus laraveli danicae",
