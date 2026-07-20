@@ -164,3 +164,6 @@ relatedspecies:
     truenorthphp:
         common: "PHP Woolly Mammoth"
         latin: "Elephpas mammuthus"
+    frankenphp:
+        common: "FrankenPHP"
+        latin: "Elephpas monstrum"
