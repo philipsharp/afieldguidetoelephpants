@@ -1360,6 +1360,26 @@
         ],
         "description": "\n"
     },
+    "2023-11-09-blue-dyflexis": {
+        "variation": "Dyflexis",
+        "species": "Elephpas hypertextus Dualisflexus",
+        "color": "blue",
+        "sponsor": "Dyflexis",
+        "reverse": "Dyflexis logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-dyflexis-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424403265\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-dyflexis-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424136468\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>Commissioned by Dyflexis, a Dutch scheduling software company.  It features\nmuliti-colored legs and ears<\/p>\n"
+    },
     "2024-03-05-ploi": {
         "variation": "Ploi",
         "species": "Elephpas hypertextus ploium",
