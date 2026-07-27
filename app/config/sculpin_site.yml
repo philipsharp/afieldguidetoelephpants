@@ -37,6 +37,9 @@ subspecies:
     dpc:
         common: "Dutch PHP Conference"
         latin: "batavici"
+    dyflexis:
+        common: "Dyflexis"
+        latin: "Dualisflexus"
     exakat:
         common: "Exakat"
         latin: "duodeviginti"
