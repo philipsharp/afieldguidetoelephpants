@@ -106,6 +106,9 @@ subspecies:
     phpstorm:
         common: "PhpStorm"
         latin: "gagatescerebellum"
+    phptek:
+        common: "php[tek]"
+        latin: "teki"
     phpwomen:
         common: "PHP Women"
         latin: "feminae"
