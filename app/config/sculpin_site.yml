@@ -112,6 +112,9 @@ subspecies:
     phpyorkshire:
         common: "PHP Yorkshire"
         latin: "eboraci"
+    phpuk:
+        common: "PHP UK"
+        latin: "conventio britanniae"
     roave:
         common: "Roave"
         latin: "roavorum"
