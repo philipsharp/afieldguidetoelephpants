@@ -1360,7 +1360,7 @@
         ],
         "description": "\n"
     },
-    "2023-06-28-blue-zen": {
+    "2023-06-28-blue-yomeva": {
         "variation": "Yomeva",
         "species": "Elephpas hypertextus yomevaculus",
         "color": "blue",
@@ -1369,13 +1369,13 @@
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-yomeva-0-400x300.jpg",
-                "link": null,
-                "credit": "Aki Ojalehto"
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181729\/in\/dateposted\/",
+                "credit": "Tim Bond"
             },
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-yomeva-1-400x300.jpg",
-                "link": null,
-                "credit": "Aki Ojalehto"
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181749\/in\/dateposted\/",
+                "credit": "Tim Bond"
             }
         ],
         "description": "<p>The Yomeva elePHPant wears a silver hat.  It <a href=\"https:\/\/www.yomeva.com\/elephants.html\">was<\/a>\navailable for purchase on the Yomeva website.<\/p>\n"
