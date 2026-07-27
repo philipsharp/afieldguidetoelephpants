@@ -151,6 +151,9 @@ subspecies:
     vonage:
         common: "Alex"
         latin: "elephanti hypertext facit quod"
+    yomeva:
+        common: "Yomeva"
+        latin: "yomevaculus"
     zend:
         common: "Zend"
         latin: "zeevandi"
