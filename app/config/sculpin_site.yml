@@ -52,6 +52,9 @@ subspecies:
     heroku:
         common: "Heroku"
         latin: "herokai"
+    karafun:
+        common: "KaraFun"
+        latin: "karafunia"
     kellerkinder:
         common: "Kellerkinder"
         latin: "fundamentumliberos"
