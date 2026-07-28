@@ -1313,12 +1313,22 @@
         "description": "<p>The original elephpant from CMGT (Creative Media and Graphic Technlogy), a Dutch training company. It is given to all diplomed students at the end of the year.<\/p>\n"
     },
     "2022-10-03-black-vonage": {
-        "variation": "Alex",
+        "variation": "Vonage",
         "species": "Elephpas hypertextus elephanti hypertext facit quod",
         "color": "black",
         "sponsor": "Vonage",
         "reverse": "Vonage logo",
-        "description": "\n"
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-vonage-0-400x300.jpg",
+                "credit": "Damien Seguy"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-vonage-1-400x300.jpg",
+                "credit": "Damien Seguy"
+            }
+        ],
+        "description": "<p>The Vonage elePHPant's name is Alex<\/p>\n"
     },
     "2022-10-04-red-dlf": {
         "variation": "Dutch Laravel Foundation",
