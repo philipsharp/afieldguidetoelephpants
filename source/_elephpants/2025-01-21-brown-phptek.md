@@ -15,4 +15,4 @@ photos:
         link: https://www.flickr.com/photos/atomictaco/55424136418/
         credit: Tim Bond
 ---
-This elephpant was given to attendees at the 2025 [php[tek] conference](https://phptek.io/)
+This elePHPant, named Tony, was given to attendees at the 2025 [php[tek] conference](https://phptek.io/)
