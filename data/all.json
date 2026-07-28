@@ -1287,6 +1287,26 @@
         ],
         "description": "<p>This elephpant was produced by Thelia, an e-commerce application developer.  It is available for sale on <a href=\"https:\/\/thelia.net\/thelia-elephpant.html\">Thelia's eCommerce site<\/a>.  The color matches the Thelia logo.<\/p>\n"
     },
+    "2022-04-12-white-karafun": {
+        "variation": "KaraFun",
+        "species": "Elephpas hypertextus karafunia",
+        "color": "white",
+        "sponsor": "KaraFun Group",
+        "reverse": "KaraFun logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-karafun-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181719\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-karafun-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424403280\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>The KaraFun elePHPant has pink ears and wears blue headphones.  It was first\navailable at <a href=\"https:\/\/afup.org\/home\">AFUP<\/a> Day 2022<\/p>\n"
+    },
     "2022-05-07-red-blue-officepartner": {
         "name": "Office partner",
         "variation": "Office Partner",
