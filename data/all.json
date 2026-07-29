@@ -1438,6 +1438,26 @@
         "reverse": "PHP UK logo",
         "description": "<p>This elePHPant was given to attendees at the 2024 PHP UK Coference.  It wears\na black bowler hat on its head<\/p>\n"
     },
+    "2024-02-10-blue-phptek": {
+        "variation": "php[tek]",
+        "species": "Elephpas hypertextus teki",
+        "color": "blue",
+        "sponsor": "php[tek] Conference",
+        "reverse": "php[tek] 2024",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phptek-2024-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55425401239\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phptek-2024-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55425401244\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant, named Oscar, was given to attendees at the 2024 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
+    },
     "2024-03-05-ploi": {
         "variation": "Ploi",
         "species": "Elephpas hypertextus ploium",
