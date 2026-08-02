@@ -1513,6 +1513,27 @@
         ],
         "description": "<p>Once upon a server, in the vast lands of the internet, the Ploi Elephpant was coded into existence. Born from a brainstorm that struck like a lightning bug in a dark room, it quickly became the mascot of innovation and efficiency.\nLegend has it, the Elephpant is made from the same blue pixels that light up our screens during those late-night coding sessions. Its creation was fueled by coffee, good humor, and a dash of PHP magic, making it a rare sight in the wild world of web development.<\/p>\n"
     },
+    "2024-08-26-purple-sentry": {
+        "name": "Sentry",
+        "variation": "Sentry",
+        "species": "Elephpas hypertextus custos",
+        "color": "purple",
+        "sponsor": "Sentry",
+        "reverse": "Sentry logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/purple-sentry-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55436279881\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/purple-sentry-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55436456834\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>Produced by application monitoring software company Sentry this elePHPant wears\npink headphones.  It is available at conferences attended by Sentry.  It is\nnamed <em>Sentaur<\/em>.<\/p>\n"
+    },
     "2025-01-21-brown-phptek": {
         "variation": "php[tek]",
         "species": "Elephpas hypertextus teki",
