@@ -142,6 +142,9 @@ subspecies:
     rainbow:
         common: "Rainbow"
         latin: "arcus"
+    sentry:
+        common: "Sentry"
+        latin: "custos"
     siteground:
         common: "SiteGround"
         latin: "hostinkus"
