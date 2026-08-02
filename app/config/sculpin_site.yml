@@ -106,6 +106,9 @@ subspecies:
     phproundtable:
         common: "PHP Roundtable"
         latin: "circumensi"
+    phpstan:
+        common: "PHPStan"
+        latin: "analytica statis"
     phpstorm:
         common: "PhpStorm"
         latin: "gagatescerebellum"
