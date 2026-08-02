@@ -1458,6 +1458,26 @@
         ],
         "description": "<p>This elePHPant, named Oscar, was given to attendees at the 2024 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
     },
+    "2024-02-14-blue-phpstan": {
+        "variation": "PHPStan",
+        "species": "Elephpas hypertextus analytica statis",
+        "color": "blue",
+        "sponsor": "PHPStan \/ Ond\u0159ej Mirtes",
+        "reverse": "PHPStan logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpstan-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181579\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpstan-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181574\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant has the PHPStan logo on its back, and its face mimics the logo:\nthe elePHPant's trunk holds a magnifying glass up to its right eye while its\nleft eye is winking.  In place of its toenails it features alternating red Xes\nand green checkmarks indiciative of PHPStan's console output.<\/p>\n\n<p>The elePHPants were <a href=\"https:\/\/phpstan.org\/blog\/phpstan-2-0-released-level-10-elephpants\">available for sale<\/a>\nwhen PHPStan 2.0 launched.<\/p>\n"
+    },
     "2024-03-05-ploi": {
         "variation": "Ploi",
         "species": "Elephpas hypertextus ploium",
