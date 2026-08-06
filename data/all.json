@@ -1420,6 +1420,27 @@
         ],
         "description": "<p>The Yomeva elePHPant wears a silver hat.  It <a href=\"https:\/\/www.yomeva.com\/elephants.html\">was<\/a>\navailable for purchase on the Yomeva website.<\/p>\n"
     },
+    "2023-07-19-black-laravel": {
+        "name": "Aubrey",
+        "variation": "Laravel",
+        "species": "Elephpas hypertextus laraveli",
+        "color": "black",
+        "sponsor": "Laracon",
+        "reverse": "Laravel logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-laravel-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424001861\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/black-laravel-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55423035702\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant named <em>Aubrey<\/em> was given to attendees at Laracon US 2023.  It has\ngold logos and toenails on a black body.<\/p>\n"
+    },
     "2023-11-09-blue-dyflexis": {
         "variation": "Dyflexis",
         "species": "Elephpas hypertextus Dualisflexus",
