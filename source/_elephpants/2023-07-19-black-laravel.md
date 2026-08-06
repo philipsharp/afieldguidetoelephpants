@@ -16,5 +16,5 @@ photos:
         link: https://www.flickr.com/photos/atomictaco/55423035702/
         credit: Tim Bond
 ---
-This elePHPant named _Aubrey_ was given to attendees at Laracon US 2023.  It has
-gold logos and toenails on a black body.
+This elePHPant was given to attendees at Laracon US 2023.  It has gold logos and
+toenails on a black body.

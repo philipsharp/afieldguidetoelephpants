@@ -1,4 +1,5 @@
 ---
+name: Oscar
 categories:
     - phptek
 tags:
@@ -15,4 +16,4 @@ photos:
         link: https://www.flickr.com/photos/atomictaco/55425401244/
         credit: Tim Bond
 ---
-This elePHPant, named Oscar, was given to attendees at the 2024 [php[tek] conference](https://phptek.io/)
+This elePHPant was given to attendees at the 2024 [php[tek] conference](https://phptek.io/)

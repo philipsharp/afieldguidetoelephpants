@@ -1,5 +1,5 @@
 ---
-name: Sentry
+name: Sentaur
 categories:
     - sentry
 tags:
@@ -18,5 +18,4 @@ photos:
 ---
 
 Produced by application monitoring software company Sentry this elePHPant wears
-pink headphones.  It is available at conferences attended by Sentry.  It is
-named _Sentaur_.
+pink headphones.  It is available at conferences attended by Sentry.
