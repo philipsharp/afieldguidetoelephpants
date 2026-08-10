@@ -31,6 +31,9 @@ subspecies:
     darkmira:
         common: "Darkmira PHP Tour"
         latin: "unitas"
+    datadog:
+        common: "Datadog"
+        latin: "canis datorum"
     dlf:
         common: "Dutch Laravel Foundation"
         latin: "fundamentum batavica laravel"
