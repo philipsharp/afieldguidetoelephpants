@@ -359,6 +359,7 @@
         "description": "<p>The newest edition of the pink elephpant. It is produced by OpenGoodies, which succeeded Nexen\/Alter Way as the official producer of elephpants.<\/p>\n\n<p>This edition is distinguished from the previous edition by the OpenGoodies logo on the rear tag.<\/p>\n"
     },
     "2015-09-11-gray-hack": {
+        "name": "Steven",
         "variation": "pHackyderm",
         "species": "Elephpas cyberneticus",
         "color": "gray",
@@ -1439,7 +1440,7 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>This elePHPant named <em>Aubrey<\/em> was given to attendees at Laracon US 2023.  It has\ngold logos and toenails on a black body.<\/p>\n"
+        "description": "<p>This elePHPant was given to attendees at Laracon US 2023.  It has gold logos and\ntoenails on a black body.<\/p>\n"
     },
     "2023-11-09-blue-dyflexis": {
         "variation": "Dyflexis",
@@ -1470,6 +1471,7 @@
         "description": "<p>This elePHPant was given to attendees at the 2024 PHP UK Coference.  It wears\na black bowler hat on its head<\/p>\n"
     },
     "2024-02-10-blue-phptek": {
+        "name": "Oscar",
         "variation": "php[tek]",
         "species": "Elephpas hypertextus teki",
         "color": "blue",
@@ -1487,7 +1489,7 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>This elePHPant, named Oscar, was given to attendees at the 2024 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
+        "description": "<p>This elePHPant was given to attendees at the 2024 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
     },
     "2024-02-14-blue-phpstan": {
         "variation": "PHPStan",
@@ -1535,7 +1537,7 @@
         "description": "<p>Once upon a server, in the vast lands of the internet, the Ploi Elephpant was coded into existence. Born from a brainstorm that struck like a lightning bug in a dark room, it quickly became the mascot of innovation and efficiency.\nLegend has it, the Elephpant is made from the same blue pixels that light up our screens during those late-night coding sessions. Its creation was fueled by coffee, good humor, and a dash of PHP magic, making it a rare sight in the wild world of web development.<\/p>\n"
     },
     "2024-08-26-purple-sentry": {
-        "name": "Sentry",
+        "name": "Sentaur",
         "variation": "Sentry",
         "species": "Elephpas hypertextus custos",
         "color": "purple",
@@ -1553,9 +1555,10 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>Produced by application monitoring software company Sentry this elePHPant wears\npink headphones.  It is available at conferences attended by Sentry.  It is\nnamed <em>Sentaur<\/em>.<\/p>\n"
+        "description": "<p>Produced by application monitoring software company Sentry this elePHPant wears\npink headphones.  It is available at conferences attended by Sentry.<\/p>\n"
     },
     "2025-01-21-brown-phptek": {
+        "name": "Tony",
         "variation": "php[tek]",
         "species": "Elephpas hypertextus teki",
         "color": "brown",
@@ -1573,7 +1576,7 @@
                 "credit": "Tim Bond"
             }
         ],
-        "description": "<p>This elePHPant, named Tony, was given to attendees at the 2025 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
+        "description": "<p>This elePHPant was given to attendees at the 2025 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
     },
     "2025-09-02-yellow-franekphp": {
         "variation": "FrankenPHP",
@@ -1596,6 +1599,15 @@
             }
         ],
         "description": "<p>Erik the Red represents <a href=\"https:\/\/laraveldk.org\">Laravel Denmark<\/a>, the Danish community for Laravel developers.<\/p>\n"
+    },
+    "2026-05-19-yellow-phptek": {
+        "name": "Holly",
+        "variation": "php[tek]",
+        "species": "Elephpas hypertextus teki",
+        "color": "yellow",
+        "sponsor": "php[tek] Conference",
+        "reverse": "php[tek] 2026",
+        "description": "<p>This elePHPant was given to attendees at the <a href=\"https:\/\/phptek.io\/\">PHP \/ JS Tek 2026 conference<\/a><\/p>\n"
     },
     "2026-blue-tideways": {
         "variation": "Tideways",
