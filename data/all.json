@@ -1578,6 +1578,15 @@
         ],
         "description": "<p>This elePHPant was given to attendees at the 2025 <a href=\"https:\/\/phptek.io\/\">php[tek] conference<\/a><\/p>\n"
     },
+    "2025-03-21-purple-datadog": {
+        "name": "Doggy",
+        "variation": "Datadog",
+        "species": "Elephpas hypertextus canis datorum",
+        "color": "purple",
+        "sponsor": "Datadog",
+        "reverse": "Datadog logo",
+        "description": "\n"
+    },
     "2025-09-02-yellow-franekphp": {
         "variation": "FrankenPHP",
         "species": "Elephpas monstrum",
