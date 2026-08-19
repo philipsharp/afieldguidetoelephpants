@@ -133,6 +133,9 @@ subspecies:
     sunshinephp:
         common: "SunshinePHP"
         latin: "solis"
+    sylius:
+        common: "Sylius"
+        latin: "sylii "
     haphpy:
         common: "HaPHPy"
         latin: "natalis"
