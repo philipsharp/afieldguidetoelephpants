@@ -4,6 +4,7 @@ categories:
     - sylius
 tags:
     - multicolored
+reverse: Sylius logo
 sponsor: Monsieur Biz Sylius eCommerce
 photos:
     -
