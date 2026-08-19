@@ -1065,6 +1065,36 @@
         ],
         "description": "<p>Commemorating the 20th PHP conference, this elePHPant was available to attendees\nof PHP Conference Japan 2019.<\/p>\n"
     },
+    "2020-04-21-white-sylius": {
+        "name": "Sylius",
+        "variation": "Sylius",
+        "species": "Elephpas hypertextus sylii ",
+        "color": "multicolored",
+        "sponsor": "Monsieur Biz Sylius eCommerce",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-sylius-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181554\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-sylius-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181549\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-sylius-2-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424136283\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-sylius-3-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424001916\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>First <a href=\"https:\/\/x.com\/MonsieurBiz\/status\/1252673019983642632\">teased<\/a> in April\n2020 this elephpant launched a <a href=\"https:\/\/www.kickstarter.com\/projects\/734475887\/sylius-elephpant\/\">Kickstarter campaign<\/a>\nin December 2023 and reached its funding target a month later. Production began\nin June 2024 and finished in late August.  When they finally arrived at the\nMonsieur Biz offices in October the team discovered the factory produced the\nelePHPants in blue instead of green.  The factory restarted the entire order and\n15 months after the Kickstarter campaign launched the green\u2011colored elePHPants \nfinally arrived.  Kickstarter backers recieved one blue elePHPant with their\norder in addition to the green elePHPants they had ordered.<\/p>\n"
+    },
     "2020-05-25-black-upinside": {
         "variation": "Upinside",
         "species": "Elephpas hypertextus intusautemi",
