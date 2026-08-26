@@ -1659,6 +1659,18 @@
         "color": "yellow",
         "sponsor": "php[tek] Conference",
         "reverse": "php[tek] 2026",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/yellow-phpjstek-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55487849047\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/yellow-phpjstek-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55487849032\/",
+                "credit": "Tim Bond"
+            }
+        ],
         "description": "<p>This elePHPant was given to attendees at the <a href=\"https:\/\/phptek.io\/\">PHP \/ JS Tek 2026 conference<\/a><\/p>\n"
     },
     "2026-blue-tideways": {
