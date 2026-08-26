@@ -1499,7 +1499,19 @@
         "color": "blue",
         "sponsor": "PHP UK Conference",
         "reverse": "PHP UK logo",
-        "description": "<p>This elePHPant was given to attendees at the 2024 PHP UK Coference.  It wears\na black bowler hat on its head<\/p>\n"
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpuk-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55489004209\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/blue-phpuk-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55487849042\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "<p>This elePHPant was given to attendees at the 2024 PHP UK Coference.  It has a\nbowtie on its front and wears a black bowler hat on its head.<\/p>\n\n<p>Notably this elPHPant does not have the PHP logo on its left side.<\/p>\n"
     },
     "2024-02-10-blue-phptek": {
         "name": "Oscar",
