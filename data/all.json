@@ -1579,6 +1579,27 @@
         ],
         "description": "<p>Once upon a server, in the vast lands of the internet, the Ploi Elephpant was coded into existence. Born from a brainstorm that struck like a lightning bug in a dark room, it quickly became the mascot of innovation and efficiency.\nLegend has it, the Elephpant is made from the same blue pixels that light up our screens during those late-night coding sessions. Its creation was fueled by coffee, good humor, and a dash of PHP magic, making it a rare sight in the wild world of web development.<\/p>\n"
     },
+    "2024-06-13-white-safefive": {
+        "name": "Savvy",
+        "variation": "safefive",
+        "species": "Elephpas hypertextus quinque tuti",
+        "color": "multicolored",
+        "sponsor": "Paddox GmbH",
+        "reverse": "safefive logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-safefive-0-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424181584\/",
+                "credit": "Tim Bond"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/white-safefive-1-400x300.jpg",
+                "link": "https:\/\/www.flickr.com\/photos\/atomictaco\/55424403235\/",
+                "credit": "Tim Bond"
+            }
+        ],
+        "description": "\n"
+    },
     "2024-08-26-purple-sentry": {
         "name": "Sentaur",
         "variation": "Sentry",
