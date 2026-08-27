@@ -27,6 +27,8 @@ feeds are licensed under the same terms as the website.
 
 * <https://afieldguidetoelephpants.net/data/all.json> - All elephpants and related species
 
+The API is documented [here](https://github.com/philipsharp/afieldguidetoelephpants/blob/master/source/openapi.yaml)
+
 ## License
 
 The content of A Field Guide to Elephpants is licensed under the [Creative
