@@ -130,6 +130,9 @@ subspecies:
     roave:
         common: "Roave"
         latin: "roavorum"
+    safefive:
+        common: "safefive"
+        latin: "quinque tuti"
     sunshinephp:
         common: "SunshinePHP"
         latin: "solis"
