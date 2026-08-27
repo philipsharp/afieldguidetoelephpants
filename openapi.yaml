@@ -1,0 +1,125 @@
+openapi: 3.0.0
+info:
+  title: Elephpants API
+  version: 1.0.0
+
+paths:
+  /data/all.json:
+    get:
+      summary: Retrieve all elephpant variants
+      operationId: listElephpants
+      responses:
+        '200':
+          description: List of elephpant variants
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ElephpantCollection'
+              example:
+                2007-12-00-blue-original:
+                  variation: Original
+                  species: Elephpas hypertextus Originale
+                  color: blue
+                  sponsor: Nexen Alter Way
+                  photos:
+                    - file: https://afieldguidetoelephpants.net/photos/blue-original-0-400x300.jpg
+                      link: https://www.flickr.com/photos/drewm/3192714526/
+                      credit: Drew McLellan
+                    - file: https://afieldguidetoelephpants.net/photos/blue-original-1-400x300.jpg
+                      link: https://www.flickr.com/photos/drewm/3191870083/
+                      credit: Drew McLellan
+                    - file: https://afieldguidetoelephpants.net/photos/blue-original-2-400x300.jpg
+                      link: https://cloud.githubusercontent.com/assets/170418/19696441/61222b14-9ae7-11e6-90f9-0d1363344333.jpg
+                      credit: Damien Seguy
+                  description: |
+                    <p>The original plush elephpant. At least six generations were produced over several
+                    years by the French company Nexen, which became part of Alter Way.</p>
+
+                    <p>The third photo shows the first elephpant ever produced. A prototype for the first
+                    generation, it has the php logo in a different color. This elephpant is affectionately
+                    known as <em>trisa\u00efeul</em>.</p>
+                2008-03-12-blue-oracle:
+                  variation: Oracle
+                  species: Elephpas hypertextus oraculi
+                  color: blue
+                  sponsor: Oracle Corporation
+                  reverse: Oracle logo
+                  photos:
+                    - file: https://afieldguidetoelephpants.net/photos/blue-oracle-0-400x300.jpg
+                      link: https://www.flickr.com/photos/afilina/2339246540/
+                      credit: Anna Filina
+                    - file: https://afieldguidetoelephpants.net/photos/blue-oracle-1-400x300.jpg
+                      link: https://web.archive.org/web/20211216005818if_/https://www.ojalehto.eu/elephpants/blue-oracle-1.jpg
+                      credit: Aki Ojalehto
+                  description: |
+                    <p>Given to attendees at the 2008 PHP Quebec Conference (now <a href="https://confoo.ca/">ConFoo</a>),
+                    and also to the attendees of the 2008 php|tek Conference (now <a href="https://tek.phparch.com/">php[tek]</a>).<p>
+                2022-05-07-red-blue-officepartner:
+                  name: Office partner
+                  variation: Office Partner
+                  species: Elephpas hypertextus officium socium
+                  color: red
+                  sponsor: Office Partner
+                  description: |
+                    <p>This elephpant has blue feet, and 2 different designs on the paws : a printer and a drop (of ink)
+                    On the right side, there is a mention of OFFICE-partner, and the URL of the home site.</p>
+
+components:
+  schemas:
+    ElephpantCollection:
+      type: object
+      additionalProperties:
+        $ref: '#/components/schemas/ElephpantEntry'
+
+    ElephpantEntry:
+      type: object
+      required:
+        - variation
+        - species
+        - color
+        - sponsor
+        - description
+      properties:
+        variation:
+          type: string
+          description: Variant name (e.g., “Original”, “Oracle”)
+        species:
+          type: string
+        color:
+          type: string
+        sponsor:
+          type: string
+        reverse:
+          type: string
+          description: Optional text used for the logo, present in some entries
+        name:
+          type: string
+          description: Optional display name (present only in some entries)
+        photos:
+          type: array
+          items:
+            $ref: '#/components/schemas/Photo'
+          description: List of images associated with the variant
+        description:
+          type: string
+          description: HTML‑formatted description
+
+    Photo:
+      type: object
+      required:
+        - file
+      properties:
+        file:
+          type: string
+          format: uri
+          description: URL to the thumbnail photo image file
+        link:
+          type: string
+          format: uri
+          description: Link to original source with full resolution photo.  May be a direct link to an image OR to a webpage
+        credit:
+          type: string
+          description: Photo photographer/contributor name
+        caption:
+          type: string
+          description: Photo caption (seldom used)
