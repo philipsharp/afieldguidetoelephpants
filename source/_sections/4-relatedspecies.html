@@ -9,7 +9,7 @@ use:
 <p>|
 {% for category in data.others_categories|keys %}
     {% if site.relatedspecies[category] %}
-    <a href="#relatedspecies-variation-{{ category|url_encode }}">{{ site.relatedspecies[category].common }}</a> |
+    <a href="#relatedspecies-{{ category|url_encode }}">{{ site.relatedspecies[category].common }}</a> |
     {% endif %}
 {% endfor %}
 </p>
