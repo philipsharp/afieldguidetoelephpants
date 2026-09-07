@@ -1649,6 +1649,16 @@
         "color": "purple",
         "sponsor": "Datadog",
         "reverse": "Datadog logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/purple-datadog-0-400x300.jpg",
+                "credit": "Jon Purvis"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/purple-datadog-1-400x300.jpg",
+                "credit": "Jon Purvis"
+            }
+        ],
         "description": "\n"
     },
     "2025-09-02-yellow-franekphp": {
@@ -1657,6 +1667,16 @@
         "color": "yellow",
         "sponsor": "Les-Tilleuls.coop",
         "reverse": "FrankenPHP logo",
+        "photos": [
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/yellow-frankenphp-0-400x300.jpg",
+                "credit": "Jon Purvis"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/yellow-frankenphp-1-400x300.jpg",
+                "credit": "Jon Purvis"
+            }
+        ],
         "description": "<p>Known as <em>Le Monstre<\/em>, the FrankenPHP elePHPant was produced when the FrankenPHP\nGitHub repo reached 10 000 stars.  It was available to attendees of various\nconferences in France and is no longer available for distribution.<\/p>\n\n<p>It is slightly larger than a typical elePHPant, features a faux stitched head,\ntusks, and more.<\/p>\n"
     },
     "2026-04-19-laraveldk": {
@@ -1664,11 +1684,15 @@
         "species": "Elephpas hypertextus laraveli danicae",
         "color": "red",
         "sponsor": "Laravel Denmark",
-        "reverse": "Unknown",
+        "reverse": "Laravel Denmark logo",
         "photos": [
             {
                 "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-laraveldk-0-400x300.jpg",
                 "credit": "Laravel Denmark"
+            },
+            {
+                "file": "https:\/\/afieldguidetoelephpants.net\/photos\/red-laraveldk-1-400x300.jpg",
+                "credit": "Jon Purvis"
             }
         ],
         "description": "<p>Erik the Red represents <a href=\"https:\/\/laraveldk.org\">Laravel Denmark<\/a>, the Danish community for Laravel developers.<\/p>\n"
